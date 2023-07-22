@@ -1,0 +1,79 @@
+!include ../../control/config.txt
+!include ../0_common/all.txt
+!include ../0_common/melee.txt
+!include skills.txt
+!include items.txt
+
+
+
+follow 0
+followTarget 
+
+itemsTakeAuto 0
+itemsGatherAuto 0
+
+autoSwitch_default_arrow Silver Arrow
+lockMap gef_fild14
+
+statsAddAuto 1
+# statsAddAuto_list 20 dex, 20 agi, 10 int, dex 50, int 20, agi 30, dex 70, int 30, agi 50, dex 160, int 50
+statsAddAuto_list 77 dex, 87 agi, 36 luk
+statsAddAuto_dontUseBonus 1
+
+skillsAddAuto 1
+skillsAddAuto_list AC_DOUBLE 1, AC_OWL 3, AC_VULTURE 10, AC_DOUBLE 10, AC_OWL 10, AC_CONCENTRATION 10, AC_SHOWER 9, HT_BEASTBANE 1, HT_FALCON 1, HT_BLITZBEAT 5, HT_BEASTBANE 10, HT_STEELCROW 10, HT_LANDMINE 1, HT_SKIDTRAP 1, HT_REMOVETRAP 1, HT_ANKLESNARE 5
+
+route_randomWalk 1
+attackAuto 2
+attackAuto_party 2
+attackAuto_inLockOnly 2
+attackDistanceAuto 1
+attackMaxDistance 1
+attackCanSnipe 0
+attackCheckLOS 1
+
+runFromTarget 0
+runFromTarget_inAdvance 1
+runFromTarget_dist 5
+runFromTarget_minStep 10
+runFromTarget_maxPathDistance 13
+
+sitAuto_hp_lower 0
+sitAuto_hp_upper 0
+sitAuto_sp_lower 0
+sitAuto_sp_upper 0
+
+teleportAuto_hp 0
+teleportAuto_sp 0
+teleportAuto_idle 0
+teleportAuto_portal 0
+teleportAuto_search 0
+teleportAuto_minAggressives 0
+teleportAuto_minAggressivesInLock 0
+teleportAuto_onlyWhenSafe 0
+teleportAuto_maxDmg 0
+teleportAuto_maxDmgInLock 0
+teleportAuto_deadly 0
+teleportAuto_useSkill 1
+teleportAuto_useChatCommand
+teleportAuto_allPlayers 0
+teleportAuto_notPlayers
+teleportAuto_atkCount 0
+teleportAuto_atkMiss 0
+teleportAuto_unstuck 0
+teleportAuto_lostTarget 0
+teleportAuto_dropTarget 0
+teleportAuto_dropTargetKS 0
+teleportAuto_attackedWhenSitting 0
+teleportAuto_totalDmg 0
+teleportAuto_totalDmgInLock 0
+
+
+
+
+# Debugging
+autoTalkCont 1
+
+# Added by xconf
+macro_orphans terminate
+adminPassword grakoubi

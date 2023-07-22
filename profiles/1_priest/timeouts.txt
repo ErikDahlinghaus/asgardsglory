@@ -1,0 +1,5 @@
+!include ../0_common/timeouts.txt
+
+ai_npc_talk_wait_to_answer 0.3
+ai_npc_talk_wait_after_close_to_cancel 0.3
+ai_npc_talk_wait_after_cancel_to_destroy 0.3

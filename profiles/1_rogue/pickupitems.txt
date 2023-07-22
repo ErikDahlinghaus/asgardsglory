@@ -1,0 +1,11 @@
+1105 -1 # Falchion [4]
+1965 -1 # Red Flame Whip
+1818 -1 # Magma Fist
+1251 -1 # jur [3]
+2224 -1 # unslotted goggles
+1002 -1 # iron ore
+1011 -1 # emveretarcon
+1701 -1 # bow [3]
+1201 -1 # knife [3]
+2305 -1 # aventurer suit
+1501 -1 # Club [3]

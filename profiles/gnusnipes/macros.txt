@@ -1,0 +1,9 @@
+!include ../1_hunter/macros.txt
+
+automacro goPayonToMaster {
+    console /Calculating route to find master: payon/
+    location not payon
+    call {
+        do c @go payon
+    }
+}

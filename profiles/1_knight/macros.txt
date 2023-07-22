@@ -1,0 +1,26 @@
+macro makeOri {
+    do move 60 64 prt_in
+    do talknpc 63 69 c r0
+}
+
+macro makeElu {
+    do move 60 64 prt_in
+    do talknpc 63 69 c r1
+}
+
+automacro goPayonToMaster {
+    console /Calculating route to find master: payon/
+    location not payon
+    call {
+        do c @go payon
+    }
+}
+
+automacro waitAtThaTower {
+    console /Map Change: tha_t01/
+    call {
+        do ai manual
+        pause 30
+        do ai on
+    }
+}

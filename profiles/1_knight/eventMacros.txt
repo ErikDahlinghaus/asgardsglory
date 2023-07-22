@@ -1,0 +1,74 @@
+# !include ../0_common/waitOnPriest.txt
+!include repair_armor.txt
+!include ../0_common/reset.txt
+!include ../0_common/refreshNPC.txt
+
+
+automacro attackGoodMinibosses {
+    MobNear /(Angeling|Deviling)/
+    timeout 1
+    call {
+        do a $.MobNearLastBinId
+        stop
+    }
+}
+
+automacro mimic {
+    MobNearDist /Mimic/ < 7
+    disabled 1
+    call {
+        do a $.MobNearDistLastBinId
+        stop
+    }
+}
+
+automacro dropMagnifier {
+    InInventory "Magnifier" > 0
+    CharCurrentWeight > 47%
+    InCity 0
+    timeout 1
+    call {
+        [
+            $id = &inventory ($.InInventoryLast)
+            do drop $id
+        ]
+        stop
+    }
+}
+
+macro giveHuntersMoney {
+    do rodex open
+    do rodex write
+    do rodex settarget Gnusnipes1
+    do rodex setzeny 200000
+    do rodex send
+
+    do rodex write
+    do rodex settarget Gnusnipes2
+    do rodex setzeny 200000
+    do rodex send
+
+    do rodex write
+    do rodex settarget Gnusnipes3
+    do rodex setzeny 200000
+    do rodex send
+
+    do rodex write
+    do rodex settarget Gnusnipes4
+    do rodex setzeny 200000
+    do rodex send
+
+    do rodex write
+    do rodex settarget Gnusnipes5
+    do rodex setzeny 200000
+    do rodex send
+}
+
+automacro Set_Autoloot {
+    exclusive 1
+    SimpleHookEvent in_game
+    call {
+        do c \@autoloot 100
+    }
+}
+

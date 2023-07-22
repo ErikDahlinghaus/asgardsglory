@@ -1,0 +1,112 @@
+!include ../../control/config.txt
+!include passwords.txt
+!include ../0_common/all.txt
+!include ../0_common/melee.txt
+
+attackSkillSlot RG_STEALCOIN {
+	sp > 50%
+	maxAttempts 3
+	maxUses 1
+	timeout 0.5
+	dist 1
+	maxDist 1
+}
+
+attackSkillSlot TF_POISON {
+	label attackSkillSlotEnvenom
+	lvl 10
+	dist 1
+	maxDist 1
+	sp > 50%
+	notInTown 1
+	disabled 1
+	maxAttempts 2
+	maxUses 1
+}
+
+attackSkillSlot TF_STEAL {
+	label attackSkillSlotSteal
+	lvl 10
+	dist 1
+	maxDist 1
+	sp > 50%
+	whenStatusInactive EFST_POSTDELAY, EFST_SUB_WEAPONPROPERTY, HEALTHSTATE_SILENCE
+	notInTown 1
+	timeout 0.1
+	disabled 0
+	maxAttempts 2
+	maxUses 1
+}
+
+
+
+
+
+dcOnDeath 0
+itemsTakeAuto 0
+itemsTakeAuto_party 0
+itemsGatherAuto 0
+
+# lockMap pay_fild01
+# lockMap gef_fild13
+# lockMap pay_fild01
+# lockMap gef_fild04
+# lockMap pay_fild03
+# lockMap moc_fild07
+# lockMap pay_dun00
+# lockMap gl_sew02
+lockMap moc_pryd02
+lockMap_x
+lockMap_y
+lockMap_randX
+lockMap_randY
+
+sitAuto_hp_lower 20
+sitAuto_hp_upper 100
+sitAuto_sp_lower 20
+sitAuto_sp_upper 100
+route_randomWalk 1
+
+attackAuto 2
+attackAuto_party 1
+attackAuto_inLockOnly 2
+
+route_teleport 0
+route_teleport_minDistance 75
+route_teleport_maxTries 8
+route_teleport_notInMaps
+
+teleportAuto_hp 0
+teleportAuto_sp 0
+teleportAuto_idle 0
+teleportAuto_portal 0
+teleportAuto_search 0
+teleportAuto_minAggressives 0
+teleportAuto_minAggressivesInLock 6
+teleportAuto_onlyWhenSafe 0
+teleportAuto_maxDmg 0
+teleportAuto_maxDmgInLock
+teleportAuto_deadly 1
+
+statsAddAuto 1
+statsAddAuto_list
+statsAddAuto_dontUseBonus 0
+statsAdd_over_99 0
+
+skillsAddAuto 1
+skillsAddAuto_list
+
+saveMap prontera
+saveMap_warpToBuyOrSell 1
+
+sellAuto 1
+# sellAuto_npc payon 159 96 Tool Dealer
+sellAuto_npc prontera 147 175
+
+storageAuto 1
+storageAuto_npc prontera 164 175 Kafra Employee
+
+macro_orphans terminate
+adminPassword benothez
+storageAuto_npc_steps c r1
+partyAuto 2

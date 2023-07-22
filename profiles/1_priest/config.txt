@@ -1,0 +1,81 @@
+!include ../../control/config.txt
+!include ../0_common/all.txt
+!include passwords.txt
+!include skills.txt
+!include items.txt
+
+lockMap
+dcOnDeath 0
+
+follow 1
+followTarget gururunt
+
+sellAuto 1
+sellAuto_npc prontera 147 175
+
+storageAuto 1
+storageAuto_npc prontera 164 175
+
+followDistanceMax 3
+followDistanceMin 2
+followLostStep 30
+
+tankMode 0
+tankModeTarget gururunt
+
+route_randomWalk 0
+attackAuto -1
+attackAuto_party 1
+attackAuto_inLockOnly 0
+attackUseWeapon 0
+attackCheckLOS 1
+# attackDistance 1
+# attackMaxDistance 1
+
+
+wait4party 0
+wait4party_sameMapOnly 1
+wait4party_waitBySitting 0
+wait4party_attackOnSearch 1
+wait4party_followSit 0
+wait4party_ignore
+wait4party_timeout 2
+wait4party_cast Increase Agility, Blessing, Assumptio, Magnificat, Increase Agility, Angelus, Kyrie Eleison
+
+
+statsAddAuto 1
+# statsAddAuto_list 77 int, 10 vit, 77 dex, 99 int, 45 vit
+statsAddAuto_list 99 int, 77 dex, 77 vit
+statsAddAuto_dontUseBonus 1
+
+skillsAddAuto 1
+# skillsAddAuto_list NV_BASIC 9, AL_HEAL 3, AL_RUWACH 1, AL_TELEPORT 1, AL_INCAGI 1, AL_DP 5, AL_BLESSING 10, AL_INCAGI 10, AL_HEAL 10, AL_TELEPORT 2, AL_DECAGI 1, AL_CURE 1, AL_WARP 4, AL_PNEUMA 1, AL_HOLYWATER 1, AL_ANGELUS 3
+skillsAddAuto_list PR_MAGNIFICAT 5, PR_STRECOVERY 1, MG_SRECOVERY 4, PR_LEXDIVINA 5, PR_LEXAETERNA 1, PR_IMPOSITIO 3, HP_ASSUMPTIO 5, PR_KYRIE 4, PR_GLORIA 5, ALL_RESURRECTION 4, PR_ASPERSIO 5
+
+
+sitAuto_hp_lower
+sitAuto_hp_upper
+sitAuto_sp_lower
+sitAuto_sp_upper
+
+route_teleport_minDistance 75
+route_teleport_maxTries 8
+route_teleport_notInMaps in_sphinx3
+
+teleportAuto_idle 0
+teleportAuto_portal 0
+teleportAuto_search 0
+teleportAuto_minAggressives 0
+teleportAuto_minAggressivesInLock 0
+teleportAuto_onlyWhenSafe 0
+teleportAuto_maxDmg 0
+teleportAuto_maxDmgInLock 0
+teleportAuto_deadly 1
+
+
+# automatically added
+adminPassword tigauspe
+debug 0
+npcWrongStepsMethod 3
+teleportAuto_atkMiss 0
+autoTalkCont 1

@@ -1,0 +1,48 @@
+macro holywater {
+    do ss AL_HOLYWATER
+}
+
+macro makeholywater {
+    do ai manual
+    do c @go payon
+    do move 179 100
+    do talknpc 181 104 c r1 n
+    do storage get Empty Bottle 100
+    do storage close
+    do move 121 92 pay_arche
+    call holywater 100
+    do c @go prontera
+    do ai on
+}
+
+automacro cantFindProntKafra {
+    console /Could not find an NPC at location/
+    call {
+        do c @refresh
+    }
+}
+
+automacro respawnIfNotRespawning {
+    console /You have died/
+    delay 1
+    disabled 1
+    call {
+        do respawn
+    }
+}
+
+automacro goPayonToMaster {
+    console /Calculating route to find master: payon/
+    location not payon
+    call {
+        do c @go payon
+    }
+}
+
+automacro goProntToMaster {
+    console /Calculating route to find master: prontera/
+    location not prontera
+    call {
+        do c @go prontera
+    }
+}

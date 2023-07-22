@@ -1,0 +1,10 @@
+automacro waitForProfileChange {
+    JobLevel = 10
+    JobID 0
+    call {
+        do c \@go prontera
+        do autosell
+        do autostorage
+        do conf lockMap none
+    }
+}

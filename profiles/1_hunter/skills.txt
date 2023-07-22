@@ -1,0 +1,25 @@
+useSelf_skill AC_CONCENTRATION {
+	whenStatusInactive EFST_CONCENTRATION
+	notWhileSitting 1
+	notInTown 1
+	timeout 5
+}
+
+attackSkillSlot AC_DOUBLE {
+    timeout 1
+	partyAggressives > 1
+	notMonsters Poring, Drops
+	disabled 1
+}
+
+attackSkillSlot AC_DOUBLE {
+    timeout 1
+	monsters High Orc, Anubis, Pasana
+	disabled 1
+}
+
+attackSkillSlot AC_DOUBLE {
+	inMap gl_knt01, gl_knt02, glast_01, gl_cas02, gl_cas01
+	disabled 1
+}
+

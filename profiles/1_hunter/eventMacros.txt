@@ -1,0 +1,15 @@
+!include job.txt
+!include ../0_common/reset.txt
+!include ../0_common/refreshNPC.txt
+
+macro takeMoney {
+    do rodex open
+    do rodex read 0
+    do rodex read 0
+    do rodex getzeny
+    do rodex read 0
+    do rodex getitems
+    do rodex delete 0
+    do rodex close
+}
+

@@ -1,0 +1,9 @@
+macro resetStats {
+    do c \@go 0
+    do talknpc 150 193 c r1
+}
+
+macro resetSkills {
+    do c \@go 0
+    do talknpc 150 193 c r0
+}

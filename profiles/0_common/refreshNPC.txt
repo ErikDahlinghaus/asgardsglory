@@ -1,0 +1,15 @@
+automacro refreshOnNPCMob {
+    timeout 2
+    NpcNear /(Heater|Freezer|Assaulter|Wraith|Ghould|Evil Druid|Anubis|Pasana|Minorous|Mimic|Explosion|Blazer|Lava Golem|Nightmare|Deviruch|Whisper|Marionette|High Orc|Orc Lady|Orc Baby|Orc Warrior|Orc Archer|Raydric|Raydric Archer|Abysmal Knight|Rideword)/
+    call {
+        do c \@refresh
+    }
+}
+
+automacro refreshOnNPCPlayer {
+    timeout 2
+    NpcNear /(gururunt|StapoRadio|Gnusnipes1|Gnusnipes2|Gnusnipes3|Gnusnipes4|Gnusnipes5)/
+    call {
+        do c \@refresh
+    }
+}

@@ -1,0 +1,148 @@
+
+attackAuto 2
+attackAuto_party 1
+attackAuto_onlyWhenSafe 0
+attackAuto_followTarget 1
+attackAuto_inLockOnly 1
+attackAuto_notInTown 1
+attackAuto_notWhile_storageAuto 1
+attackAuto_notWhile_buyAuto 1
+attackAuto_notWhile_sellAuto 1
+attackAuto_considerDamagedAggressive 0
+attackBeyondMaxDistance_waitForAgressive 1
+attackDistance 1
+attackDistanceAuto 0
+attackMaxDistance 1
+attackMaxRouteDistance 50
+attackMaxRouteTime 4
+attackMinPlayerDistance 2
+attackMinPortalDistance 4
+attackUseWeapon 1
+attackNoGiveup 0
+attackCanSnipe 0
+attackCheckLOS 0
+attackRouteMaxPathDistance 13
+attackLooters 0
+attackChangeTarget 1
+aggressiveAntiKS 0
+
+dcOnDeath 0
+route_randomWalk 1
+BetterWalkPlan 0
+
+
+runFromTarget 0
+runFromTarget_inAdvance 0
+runFromTarget_dist 5
+runFromTarget_minStep 7
+runFromTarget_maxPathDistance 13
+
+follow 0
+followTarget gururunt
+followEmotion 0
+followEmotion_distance 4
+followFaceDirection 0
+followDistanceMax 1
+followDistanceMin 0
+followLostStep 12
+followSitAuto 0
+followBot 0
+
+itemsGatherAuto 0
+itemsGatherAuto_notInTown 0
+
+statsAddAuto 0
+statsAddAuto_list
+statsAddAuto_dontUseBonus 1
+statsAdd_over_99 0
+
+skillsAddAuto 1
+skillsAddAuto_list NV_BASIC 9, AL_HEAL 3, AL_INCAGI 1, AL_BLESSING 10, AL_INCAGI 10, AL_PNEUMA 1
+
+# lockMap pay_fild01
+# lockMap prt_fild09
+# lockMap lou_fild01
+# lockMap prt_fild08
+lockMap
+lockMap_x
+lockMap_y
+lockMap_randX
+lockMap_randY
+
+itemsMaxWeight 89
+itemsMaxWeight_sellOrStore 48
+itemsMaxNum_sellOrStore 99
+cartMaxWeight 7900
+itemsTakeGreed 0
+itemsCheckWeight 1
+
+sitAuto_hp_lower 0
+sitAuto_hp_upper 0
+sitAuto_sp_lower 0
+sitAuto_sp_upper 0
+sitAuto_follow 0
+sitAuto_over_50 0
+sitAuto_idle 1
+sitAuto_look 0
+sitAuto_look_from_wall 0
+
+teleportAuto_hp 0
+teleportAuto_sp 0
+teleportAuto_idle 0
+teleportAuto_portal 0
+teleportAuto_search 1
+teleportAuto_minAggressives 0
+teleportAuto_minAggressivesInLock 3
+teleportAuto_onlyWhenSafe 0
+teleportAuto_maxDmg 0
+teleportAuto_maxDmgInLock 0
+teleportAuto_deadly 1
+teleportAuto_useSkill 0
+teleportAuto_useChatCommand
+teleportAuto_allPlayers 0
+teleportAuto_notPlayers
+teleportAuto_atkCount 0
+teleportAuto_atkMiss 0
+teleportAuto_unstuck 0
+teleportAuto_lostTarget 0
+teleportAuto_dropTarget 0
+teleportAuto_dropTargetKS 0
+teleportAuto_attackedWhenSitting 1
+teleportAuto_totalDmg 0
+teleportAuto_totalDmgInLock 0
+teleportAuto_equip_leftAccessory
+teleportAuto_equip_rightAccessory
+teleportAuto_lostHomunculus
+teleportAuto_useItemForRespawn
+teleportAuto_item1
+teleportAuto_item2
+
+route_escape_reachedNoPortal 1
+route_escape_randomWalk 0
+route_escape_shout
+route_avoidWalls 1
+route_randomWalk_inTown 0
+route_randomWalk_maxRouteTime 75
+route_maxWarpFee
+route_maxNpcTries 5
+route_teleport 0
+route_teleport_minDistance 200
+route_teleport_maxTries 50
+route_teleport_notInMaps in_sphinx3
+route_step 10
+route_removeMissingPortals_NPC 1
+route_removeMissingPortals 0
+route_tryToGuessMissingPortalByDistance 1
+route_reAddMissingPortals 1
+
+
+saveMap prontera
+saveMap_warpToBuyOrSell 1
+
+sellAuto 1
+sellAuto_npc prontera 147 175
+
+storageAuto 1
+storageAuto_npc prontera 164 175
+macro_orphans terminate
+adminPassword nipebrou

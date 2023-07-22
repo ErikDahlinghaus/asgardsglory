@@ -1,0 +1,71 @@
+cmdOnLogin c @autoloot
+
+useSelf_item 507,508,512,513,515,516,517,519,528,529,530,535,536,549,550,553,569,571,580 {
+	label hpItems
+	hp < 90%
+	timeout 0.1
+}
+
+useSelf_item 514,568 {
+	sp < 50%
+}
+
+useSelf_item Green Herb {
+	inInventory Green Herb > 5
+	timeout 1
+}
+
+useSelf_item Green Herb {
+	inInventory Green Herb
+	whenStatusActive Poisoned
+	timeout 1
+}
+
+wait4party 0
+BetterWalkPlan 1
+dealAuto 3
+partyAuto 2
+sitAuto_idle 0
+
+itemsGatherAuto 0
+itemsGatherAuto_notInTown 0
+
+attackMinPortalDistance 8
+
+teleportAuto_maxDmg 0
+
+followDistanceMax 6
+followDistanceMin 3
+followLostStep 18
+
+saveMap prontera
+saveMap_warpToBuyOrSell 1
+saveMap_warpChatCommand @go 0
+
+reactOnNPC_debug 0
+
+reactOnNPC talk resp 0 {
+	label hugelAirship
+	type continue
+	delay 5
+	msg_0 To use the airship, you are required to pay 1,200 zeny or a Free Airship Ticket.
+	msg_1 Would you like to use the service?
+}
+
+reactOnNPC talk no {
+	label thanatosTowerNPC
+	type close
+	delay 1
+	manualAI 2
+	msg_0 [Tower Keeper]
+	msg_1 Excuse me, but you cannot
+	msg_2 enter. This place is under
+	msg_3 the Rekenber Corporation's
+	msg_4 administration, and this area
+	msg_5 is restricted to all those
+	msg_6 without authorization.
+}
+
+sitAuto_idle 0
+storageAuto_npc_steps c r1
+macro_orphans terminate

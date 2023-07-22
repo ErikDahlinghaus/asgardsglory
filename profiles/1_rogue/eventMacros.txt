@@ -1,0 +1,50 @@
+automacro TeleFly {
+    MobNearDist /Hunter Fly/ <10
+    call {
+        do tele
+    }
+}
+
+automacro player {
+    PlayerNear /.*/
+    timeout 120
+    call {
+        do p $.PlayerNearLast $.PlayerNearLastPos
+    }
+    disabled 1
+}
+
+automacro dragonFly {
+    MobNear /Dragon Fly/
+    timeout 60
+    call {
+        do p $.MobNearLast $.MobNearLastPos
+        do move $.MobNearLastPos
+        do a &monster(Dragon Fly)
+    }
+}
+
+automacro dragonFlyDead {
+    disabled 1
+    SimpleHookEvent target_died
+    call {
+        if( $.SimpleHookEventLastMonster eq "Dragon Fly" ) {
+            do p $.SimpleHookEventLastMonster died
+        }
+    }
+}
+
+automacro switchPrntFieldIsland {
+    MobNear /.*/
+    InMap prt_fild04
+    timeout 1800
+    disabled 1
+    call {
+        if( &config (lockMap_y) eq 320 ) {
+            do conf lockMap_y 100
+        }
+        if( &config (lockMap_y) eq 100 ) {
+            do conf lockMap_y 320
+        }
+    }
+}

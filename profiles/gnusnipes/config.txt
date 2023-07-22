@@ -1,0 +1,40 @@
+!include ../../control/config.txt
+!include ../1_hunter/config.txt
+!include passwords.txt
+
+
+
+
+wait4party 1
+wait4party_sameMapOnly 1
+wait4party_waitBySitting 0
+wait4party_attackOnSearch 1
+wait4party_followSit 0
+wait4party_ignore
+wait4party_timeout 2
+wait4party_cast Increase Agility, Blessing, Assumptio, Magnificat, Increase Agility, Angelus, Kyrie Eleison
+
+
+attackMaxDistance 15
+attackAuto_party 1
+attackAuto_inLockOnly 0
+attackMinPortalDistance 4
+lockMap
+
+follow 1
+followTarget gururunt
+route_randomWalk 0
+runFromTarget 0
+npcWrongStepsMethod 1
+
+
+
+
+macro_orphans terminate
+adminPassword jeatrase
+clientSight 30
+sitAuto_hp_lower 0
+sitAuto_hp_upper 0
+attackAuto 1
+followDistanceMax 2
+followDistanceMin 2

@@ -1,0 +1,2954 @@
+moc_fild17 209 235 Odd Slab
+moc_fild17 209 235 Odd Slab
+moc_fild17 228 274 Trace of Battle#9
+moc_fild17 228 274 Trace of Battle#9
+prontera 170 180 Stylist#custom_stylist
+prontera 147 196 WOE Information
+prontera 150 193 Reset Girl
+prontera 159 193 Healer#prt
+moc_fild17 213 358 Trace of Battle#8
+prontera 164 175 Kafra Employee
+moc_fild11 205 52 Trace of Battle#5
+prontera 147 175 Special Dealer#prt1
+prontera 141 181 Universal Rental NPC
+prontera 170 180 Stylist#custom_stylist
+prontera 147 196 WOE Information
+prontera 150 193 Reset Girl
+prontera 159 193 Healer#prt
+prontera 153 193 Job Master
+prontera 162 193 Platinum Skill NPC
+prontera 149 202 YuNa#pront
+prontera 163 204 Man from Morocc
+prontera 141 181 Universal Rental NPC
+prontera 160 133 YuPi#pront
+prontera 147 125 Cool Event Staff#prt
+prontera 160 133 YuPi#pront
+prontera 147 125 Cool Event Staff#prt
+prontera 146 89 Kafra Employee
+prontera 146 89 Kafra Employee
+morocc 163 48 Healer#mor2
+moc_fild12 160 365 Ashe#4
+moc_fild12 160 372 Hit
+prontera 123 83 Maroll Battle Recruiter
+moc_fild12 173 215 Trace of Battle#2
+morocc 163 48 Healer#mor2
+moc_fild12 160 365 Ashe#4
+moc_fild12 276 165 Trace of Battle#3
+moc_fild11 39 163 Trace of Battle#4
+moc_fild12 173 215 Trace of Battle#2
+moc_fild11 205 52 Trace of Battle#5
+moc_fild12 276 165 Trace of Battle#3
+moc_fild11 39 163 Trace of Battle#4
+moc_fild17 213 358 Trace of Battle#8
+moc_fild11 72 133 Andre
+prontera 164 125 Kafra Voting Staff#prt
+payon 160 67 Healer#pay2
+payon 162 67 Guide#pay
+payon 173 82 Young Man#2payon
+prontera 165 60 Apprentice Craftsman
+payon 181 104 Kafra Employee
+prontera 163 53 Promotional Staff#prt
+payon 186 104 Smile Assistance#pay
+prontera 164 125 Kafra Voting Staff#prt
+prontera 151 29 Kafra Employee
+payon 200 113 Continental Messenger#0
+payon 200 134 Merchant#pay
+prt_fild08 175 374 Bard#brising
+prontera 165 60 Apprentice Craftsman
+payon 192 176 Gooho Ahn
+prontera 163 53 Promotional Staff#prt
+prontera 148 49 Bulletin Board#09
+prontera 151 29 Kafra Employee
+prontera 165 60 Apprentice Craftsman
+prt_fild08 159 371 Poring War Recruiter#wo
+prontera 163 53 Promotional Staff#prt
+prontera 151 29 Kafra Employee
+prt_fild08 175 374 Bard#brising
+pay_arche 79 31 Bulletin Board#07
+pay_arche 55 123 Kafra Employee
+pay_arche 39 134 Bulletin Board#08
+izlude 55 74 Bonne#izlude
+izlude 55 74 Bonne#izlude
+izlude 135 78 Charfri#izlude
+izlude 121 87 Guide#iz
+izlude 135 78 Charfri#izlude
+izlude 134 87 Kafra Employee#iz
+izlude 121 87 Guide#iz
+izlude 131 116 Bulletin Board#5
+izlude 131 116 Bulletin Board#5
+izlude 150 118 Dega#izlude
+izlude 150 118 Dega#izlude
+izlude 171 127 Magazine Dealer Kenny#i
+izlude 171 133 Bullet Dealer Tony#iz
+izlude 171 127 Magazine Dealer Kenny#i
+izlude 164 138 Pet Groomer#iz
+izlude 171 185 Honeymoon Helper#Izlude
+izlude 171 185 Honeymoon Helper#Izlude
+izlude 182 186 Edgar#izlude
+izlude 182 186 Edgar#izlude
+izlude 201 181 Sailor#izlude
+izlude 201 181 Sailor#izlude
+alberta 190 173 Phelix
+alberta 190 173 Phelix
+alberta 189 151 Fisk
+alberta 189 151 Fisk
+alberta 195 151 Paul
+alberta 195 151 Paul
+alberta 167 135 Chef Assistant#alb
+alberta 167 135 Chef Assistant#alb
+alberta 131 139 Drunken Old Man
+alberta 131 139 Drunken Old Man
+alberta 127 143 Belder
+alberta 127 143 Belder
+alberta 118 160 Bullet Dealer Tony#alb
+alberta 117 135 Elin
+alberta 118 160 Bullet Dealer Tony#alb
+alberta 93 174 Grandmother Alma
+alberta 93 174 Grandmother Alma
+alberta 62 156 Sonya
+alberta 35 241 Sign#alberta
+alberta 35 241 Sign#alberta
+alberta 28 229 Kafra Employee
+alberta 43 244 Tourist#thai
+alberta 26 229 Kafra Employee#bunny
+alberta 28 229 Kafra Employee
+payon 175 226 Kafra Employee
+payon 173 238 Jade#pay
+payon 175 226 Kafra Employee
+payon 173 238 Jade#pay
+payon 175 226 Kafra Employee
+payon 173 238 Jade#pay
+pay_arche 79 31 Bulletin Board#07
+pay_arche 79 31 Bulletin Board#07
+pay_arche 85 30 Guide#2pay
+pay_arche 79 31 Bulletin Board#07
+pay_arche 55 123 Kafra Employee
+pay_arche 39 134 Bulletin Board#08
+pay_arche 55 123 Kafra Employee
+pay_arche 39 134 Bulletin Board#08
+pay_arche 55 123 Kafra Employee
+moc_fild17 124 261 Hode
+prontera 148 49 Bulletin Board#09
+prt_fild08 159 371 Poring War Recruiter#wo
+prontera 148 49 Bulletin Board#09
+prt_fild08 159 371 Poring War Recruiter#wo
+pay_arche 85 30 Guide#2pay
+pay_arche 39 134 Bulletin Board#08
+pay_gld 110 233 Bright Arbor#2
+pay_gld 116 233 Bright Arbor#3
+pay_gld 125 236 Bright Arbor#1-2
+pay_gld 187 294 Bamboo Grove Hill#4
+pay_gld 190 277 Bamboo Grove Hill#3
+pay_gld 199 268 Bamboo Grove Hill#2
+pay_gld 208 268 Bamboo Grove Hill#1-2
+pay_dun00 110 27 Zombie
+xmas 147 311 Bulletin Board#23
+xmas 150 137 Kafra Employee
+xmas 141 136 Special Dealer#einb12
+xmas 143 136 Healer#xmas
+xmas 146 136 Hashokii
+xmas 152 137 Chef Assistant#xmas
+xmas 134 112 Snowman
+xmas_fild01 75 80 Bulletin Board#22
+aldebaran 121 231 Alchemy Guy#alde
+aldebaran 132 184 Girl#prince
+aldebaran 117 181 Phracon Guy#alde
+aldebaran 127 138 Promotional Staff#alde
+aldebaran 135 128 Continental Messenger#0
+aldebaran 136 133 Bulletin Board#19
+aldebaran 136 135 Smile Assistance#alde
+aldebaran 143 136 Bell Keeper#A
+aldebaran 145 122 Special Dealer#alde1
+aldebaran 146 124 Town Girl#alde
+aldebaran 143 119 Kafra Employee
+aldebaran 135 118 Healer#alde
+geffen 117 37 Cool Event Staff#gef
+geffen 122 37 Kafra Voting Staff#gef
+geffen 132 38 Bard#2
+geffen 118 40 Healer#gef2
+geffen 111 48 Stacey
+geffen 119 48 Fountain#s
+geffen 118 62 Guide#2gef
+geffen 120 62 Kafra Employee
+geffen 124 65 Bulletin Board#2
+geffen 124 70 Special Dealer#gef1
+geffen 115 72 Healer#gef
+prontera 105 87 Gift Merchant#prt
+prontera 123 102 Merchant#pron
+payon 159 96 Tool Dealer#pay3
+payon 189 105 Maroll Battle Recruiter
+payon 179 106 Healer#pay
+payon 178 108 Bulletin Board#06
+payon 182 132 Grout'he Tuccok#hellion
+payon 206 119 Chef Assistant#pay
+payon 209 127 Servant
+pay_gld 110 233 Bright Arbor#2
+pay_gld 116 233 Bright Arbor#3
+pay_gld 187 294 Bamboo Grove Hill#4
+pay_gld 190 277 Bamboo Grove Hill#3
+pay_gld 199 268 Bamboo Grove Hill#2
+pay_gld 208 268 Bamboo Grove Hill#1-2
+payon 79 171 Friar#G5
+payon 132 235 Monster Scholar#02
+moc_fild20 38 174 Continental Guard#03
+moc_fild20 38 183 Continental Guard#04
+geffen 117 37 Cool Event Staff#gef
+geffen 122 37 Kafra Voting Staff#gef
+geffen 119 48 Fountain#s
+geffen 120 62 Kafra Employee
+geffen 124 65 Bulletin Board#2
+geffen 118 62 Guide#2gef
+geffen 124 70 Special Dealer#gef1
+geffen 115 72 Healer#gef
+prontera 164 125 Kafra Voting Staff#prt
+prontera 147 175 Special Dealer#prt1
+geffen 117 37 Cool Event Staff#gef
+geffen 122 37 Kafra Voting Staff#gef
+geffen 119 48 Fountain#s
+geffen 120 62 Kafra Employee
+geffen 118 62 Guide#2gef
+geffen 124 65 Bulletin Board#2
+geffen 124 70 Special Dealer#gef1
+geffen 115 72 Healer#gef
+payon 206 119 Chef Assistant#pay
+payon 177 131 Pet Groomer#pay
+payon 178 108 Bulletin Board#06
+payon 179 106 Healer#pay
+prontera 123 102 Merchant#pron
+payon 159 96 Tool Dealer#pay3
+prontera 29 207 Kafra Employee
+prontera 29 207 Kafra Employee
+gef_fild09 227 29 Bulletin Board
+gef_fild09 296 59 Hidden Cave#hellion
+gef_fild10 69 340 Bulletin Board#3
+prontera 29 207 Kafra Employee
+prontera 29 207 Kafra Employee
+prt_fild05 290 221 Tool Dealer#prt
+prt_fild05 290 224 Kafra Employee
+prt_fild05 270 212 Culvert Guardian
+prt_fild05 290 221 Tool Dealer#prt
+prt_fild05 290 224 Kafra Employee
+prt_fild05 270 212 Culvert Guardian
+gef_fild01 234 115 Roda Frog
+gef_fild01 170 136 Poporing
+gef_fild10 69 340 Bulletin Board#3
+gef_fild10 73 340 Kafra Employee
+gef_fild10 69 340 Bulletin Board#3
+gef_fild10 73 340 Kafra Employee
+gef_fild10 73 340 Kafra Employee
+gef_fild09 296 59 Hidden Cave#hellion
+gef_fild09 227 29 Bulletin Board
+gef_fild10 69 340 Bulletin Board#3
+gef_fild10 73 340 Kafra Employee
+gef_fild10 216 79 Orc Warrior
+gef_fild10 238 202 Mad Scientist#orc
+gef_fild10 242 202 Dimensional Gorge Piece
+gef_fild10 238 202 Mad Scientist#orc
+gef_fild10 242 202 Dimensional Gorge Piece
+gef_fild10 238 202 Mad Scientist#orc
+gef_fild10 238 202 Mad Scientist#orc
+gef_fild10 242 202 Dimensional Gorge Piece
+gef_fild10 242 202 Dimensional Gorge Piece
+pay_dun02 113 108 Soldier Skeleton
+gef_fild10 238 202 Mad Scientist#orc
+gef_fild10 242 202 Dimensional Gorge Piece
+prt_fild05 290 221 Tool Dealer#prt
+prt_fild05 290 224 Kafra Employee
+gef_fild10 124 268 Orc Warrior
+gef_fild09 296 59 Hidden Cave#hellion
+gef_fild09 227 29 Bulletin Board
+gef_fild10 73 340 Kafra Employee
+gef_fild10 242 202 Dimensional Gorge Piece
+gef_fild10 239 107 gururunt
+gef_fild10 69 340 Bulletin Board#3
+gef_fild10 73 340 Kafra Employee
+gef_fild10 69 340 Bulletin Board#3
+gef_fild10 73 340 Kafra Employee
+prt_fild05 270 212 Culvert Guardian
+gef_fild10 69 340 Bulletin Board#3
+pay_dun02 144 120 Munak
+prt_fild05 290 221 Tool Dealer#prt
+prt_fild05 270 212 Culvert Guardian
+gef_fild10 238 202 Mad Scientist#orc
+gef_fild10 242 202 Dimensional Gorge Piece
+gef_fild09 296 59 Hidden Cave#hellion
+gef_fild09 227 29 Bulletin Board
+gef_fild10 159 140 gururunt
+gef_fild09 296 59 Hidden Cave#hellion
+gef_fild10 162 140 gururunt
+gef_fild09 227 29 Bulletin Board
+prt_fild05 290 224 Kafra Employee
+gef_fild01 302 112 Roda Frog
+prt_fild05 278 220 Bulletin Board#16
+gef_fild10 120 288 Orc Lady
+prontera 29 207 Kafra Employee
+prt_fild05 278 220 Bulletin Board#16
+prt_fild05 290 221 Tool Dealer#prt
+prt_fild05 290 224 Kafra Employee
+prt_fild05 270 212 Culvert Guardian
+prt_fild05 278 220 Bulletin Board#16
+prt_fild05 278 220 Bulletin Board#16
+orcsdun01 52 151 Orc Zombie
+orcsdun01 53 58 Familiar
+orcsdun01 64 148 Orc Zombie
+gef_fild02 238 63 Orc Warrior
+gef_fild02 238 65 Smokie
+orcsdun01 108 140 Orc Zombie
+prontera 164 175 Kafra Employee
+gef_fild13 202 31 Bulletin Board#orc1
+gef_fild13 202 31 Bulletin Board#orc1
+prontera 153 193 Job Master
+prontera 162 193 Platinum Skill NPC
+gef_fild10 327 123 gururunt
+gef_fild10 210 302 Orc Lady
+gef_fild10 150 279 Orc Warrior
+prt_fild05 278 220 Bulletin Board#16
+gef_fild02 98 319 High Orc
+pay_dun02 75 144 Munak
+pay_dun02 30 122 Munak
+gef_fild10 286 177 Orc Archer
+payon 160 67 Healer#pay2
+payon 162 67 Guide#pay
+payon 173 82 Young Man#2payon
+payon 159 96 Tool Dealer#pay3
+payon 181 104 Kafra Employee
+payon 179 106 Healer#pay
+payon 186 104 Smile Assistance#pay
+payon 178 108 Bulletin Board#06
+prontera 123 102 Merchant#pron
+pay_dun02 92 91 Archer Skeleton
+pay_dun02 79 125 Poporing
+gef_fild10 237 200 Orc Lady
+gef_fild10 222 335 Orc Lady
+gef_fild10 248 177 gururunt
+gef_fild10 242 163 gururunt
+gef_fild10 153 47 Orc Lady
+pay_dun02 105 251 Munak
+gef_fild10 213 187 Orc Lady
+pay_dun02 71 178 Bongun
+pay_dun02 69 186 Munak
+gef_fild10 233 330 Orc Lady
+gef_fild10 234 48 Orc Lady
+gef_fild10 90 116 Orc Lady
+gef_fild10 321 204 gururunt
+gef_fild10 327 208 gururunt
+gef_fild10 217 110 Orc Lady
+gef_fild10 128 42 gururunt
+gef_fild10 310 78 Orc Baby
+morocc 116 39 Rogue Guild Agent#nd4
+morocc 54 97 Guide#2moc
+moc_ruins 86 103 Thug#rg
+moc_ruins 87 109 Butcher#moc
+moc_ruins 81 113 Item Collector#moc2
+moc_ruins 71 139 Trader#moc3
+moc_ruins 59 154 Smile Assistance#moc
+moc_ruins 59 157 Kafra Employee
+pay_dun02 92 261 Munak
+morocc 165 82 Morocc Villager#rus25
+morocc 149 102 Special Dealer#mor1
+morocc 153 97 Healer#mor
+morocc 134 111 Bard#3
+morocc 88 133 Volunteer - Morocc#02
+morocc 37 287 Volunteer - Morocc#05
+moc_ruins 137 70 Book-Touching Man#garas
+moc_ruins 118 82 Little Boy#moc
+moc_ruins 107 62 Tommy#thai
+moc_ruins 86 103 Thug#rg
+moc_ruins 71 139 Trader#moc3
+moc_ruins 59 154 Smile Assistance#moc
+moc_ruins 59 157 Kafra Employee
+morocc 116 39 Rogue Guild Agent#nd4
+morocc 54 97 Guide#2moc
+moc_ruins 87 109 Butcher#moc
+moc_pryd05 9 77 Minorous
+moc_pryd05 45 166 Minorous
+moc_pryd05 93 205 Minorous
+moc_ruins 143 43 Assassin Boy#moc
+moc_ruins 81 113 Item Collector#moc2
+moc_ruins 61 164 Bulletin Board#27
+moc_ruins 115 82 Little Girl#moc
+moc_ruins 90 67 Suspicious Man#1
+moc_pryd05 197 220 Minorous
+moc_pryd05 171 106 Minorous
+moc_pryd05 95 56 Minorous
+pay_dun02 101 179 Bongun
+moc_pryd05 180 220 Verit
+morocc 53 87 Prison Ward#sch
+moc_ruins 114 63 Tool Dealer#moc2
+pay_dun02 222 112 Bongun
+moc_ruins 90 67 Suspicious Man#1
+moc_ruins 107 94 Repairman#moc
+moc_ruins 107 62 Tommy#thai
+moc_ruins 137 70 Book-Touching Man#garas
+moc_ruins 143 43 Assassin Boy#moc
+morocc 37 287 Volunteer - Morocc#05
+morocc 88 133 Volunteer - Morocc#02
+morocc 132 111 Little Girl#Jorti
+morocc 134 111 Bard#3
+morocc 149 102 Special Dealer#mor1
+morocc 132 111 Little Girl#Jorti
+morocc 152 110 Bulletin Board#11
+morocc 153 97 Healer#mor
+morocc 156 97 Kafra Employee
+morocc 152 110 Bulletin Board#11
+morocc 156 97 Kafra Employee
+prontera 123 83 Maroll Battle Recruiter
+morocc 176 103 Continental Official#mo
+orcsdun01 122 65 Orc Zombie
+orcsdun01 168 38 copioustuna
+gef_fild14 317 149 High Orc
+gef_fild14 355 204 Noel
+prontera 197 188 Veeyop#magum
+pay_dun02 241 262 Munak
+gef_fild02 248 268 Coco
+pay_dun02 239 53 Munak
+prontera 41 337 Mercenary Manager#Spear
+prontera 93 330 Kellion
+prontera 147 305 Sign#prontera
+prontera 140 304 Old Soldier
+prontera 167 281 New Guild Master#tu
+prontera 146 232 Hypnotist#2
+prontera 165 232 Nephia#1
+prontera 156 212 Chef Assistant#prt
+gef_fild10 214 183 Orc Warrior
+gef_fild10 157 322 Orc Lady
+pay_dun02 253 205 Munak
+gef_fild10 106 340 Orc Warrior
+gef_fild10 110 347 Orc Lady
+gef_fild10 111 346 Orc Lady
+gef_fild10 345 144 Poporing
+gef_fild10 225 120 Orc Lady
+gef_fild10 109 23 Bulletin Board#15
+gef_fild10 109 23 Bulletin Board#15
+gef_fild02 256 232 Orc Warrior
+gef_fild10 250 186 Orc Warrior
+payon 209 127 Servant
+payon 189 105 Maroll Battle Recruiter
+payon 209 127 Servant
+pay_dun02 138 118 Archer Skeleton
+pay_dun02 149 117 Archer Skeleton
+pay_dun00 93 158 Zombie
+pay_dun00 93 161 Skeleton
+gef_fild10 101 162 gururunt
+gef_fild10 51 74 Orc Lady
+gef_fild10 80 83 Orc Lady
+payon 179 106 Healer#pay
+gef_fild10 251 123 Orc Lady
+in_orcs01 119 106 Orc Lady#2008hat03
+in_orcs01 119 106 Orc Lady#2008hat03
+orcsdun02 147 89 Orc Skeleton
+payon 178 108 Bulletin Board#06
+orcsdun02 112 162 Orc Skeleton
+orcsdun02 41 95 Orc Skeleton
+pay_dun02 260 165 Bongun
+pay_dun02 227 101 Bongun
+orcsdun02 147 97 Orc Skeleton
+orcsdun02 165 145 Orc Archer
+orcsdun02 159 137 Orc Skeleton
+orcsdun02 141 149 Orc Skeleton
+orcsdun02 128 159 Zenorc
+payon 189 105 Maroll Battle Recruiter
+orcsdun02 58 45 Drainliar
+orcsdun02 104 103 gururunt
+pay_dun02 174 219 Munak
+orcsdun02 142 90 Orc Skeleton
+orcsdun02 102 159 Steel Chonchon
+prt_in 63 60 Hollgrehenn
+prt_in 63 69 Dietrich
+prt_in 56 68 Vurewell
+prt_in 73 87 Chivalry Member
+orcsdun02 31 166 Zenorc
+orcsdun02 28 178 Orc Skeleton
+orcsdun02 151 104 Drainliar
+pay_dun00 139 136 Zombie
+pay_dun00 139 129 Skeleton
+orcsdun02 53 89 Drainliar
+prontera 158 177 Admin
+gef_fild10 126 225 Orc Lady
+orcsdun02 112 161 Orc Skeleton
+orcsdun02 50 133 Zenorc
+orcsdun02 42 128 Orc Skeleton
+orcsdun02 151 103 Orc Skeleton
+orcsdun02 159 49 Orc Skeleton
+prontera 143 174 ???
+prontera 143 174 ???
+orcsdun01 166 54 Familiar
+orcsdun02 38 126 Zenorc
+prontera 143 174 ???
+prontera 143 174 ???
+orcsdun02 74 81 Orc Skeleton
+orcsdun02 103 145 gururunt
+gef_fild10 310 46 Orc Lady
+gef_fild10 243 166 Orc Archer
+gef_fild10 242 158 gururunt
+gef_fild10 173 76 Orc Warrior
+prontera 143 174 ???
+gef_fild10 64 268 Orc Lady
+prontera 143 174 ???
+pay_dun02 199 108 Poporing
+prontera 143 174 ???
+gef_fild10 336 126 Orc Lady
+pay_dun00 134 139 Skeleton
+gef_fild10 76 304 Orc Lady
+prontera 143 174 ???
+gef_fild10 285 155 Orc Archer
+gef_fild10 286 156 Orc Archer
+gef_fild10 284 155 Orc Archer
+gef_fild10 290 160 gururunt
+gef_fild10 227 275 Orc Lady
+gef_fild10 138 293 Orc Lady
+pay_dun00 54 128 Skeleton
+gef_fild10 280 184 Orc Archer
+gef_fild10 280 183 Orc Archer
+gef_fild10 281 183 Orc Archer
+gef_fild10 274 191 Orc Archer
+gef_fild10 274 190 Orc Archer
+gef_fild10 210 145 Orc Lady
+gef_fild10 289 190 Orc Archer
+gef_fild10 285 186 Orc Archer
+pay_dun02 105 80 Munak
+gef_fild10 128 268 Orc Warrior
+gef_fild10 38 264 Orc Baby
+pay_dun00 174 36 Skeleton
+gef_fild10 100 272 Orc Lady
+gef_fild10 79 278 Orc Lady
+gef_fild10 129 146 Orc Lady
+gef_fild10 121 74 gururunt
+gef_fild10 125 77 gururunt
+gef_fild10 124 88 gururunt
+gef_fild10 284 174 Orc Archer
+gef_fild10 222 56 Orc Warrior
+gef_fild10 337 107 Orc Lady
+gef_fild10 295 185 Orc Lady
+gef_fild10 70 223 Orc Lady
+gef_fild10 76 161 Orc Lady
+gef_fild10 223 311 Orc Lady
+pay_dun00 59 130 Poporing
+gef_fild10 80 184 Orc Lady
+gef_fild10 322 158 Poporing
+pay_dun00 68 134 Zombie
+pay_dun02 124 109 Poporing
+pay_dun02 125 108 Munak
+gef_fild10 123 153 gururunt
+pay_dun00 28 153 Zombie
+gef_fild10 354 152 Orc Lady
+gef_fild10 281 172 Orc Lady
+payon 236 199 Leablem#pay
+payon 158 246 Guardsman#payon
+pay_dun02 226 132 Soldier Skeleton
+pay_dun02 144 115 Bongun
+gef_fild10 280 181 Orc Lady
+pay_dun00 29 83 Skeleton
+gef_fild10 113 335 Orc Lady
+gef_fild10 80 259 Orc Lady
+gef_fild10 73 118 Orc Lady
+pay_dun02 189 159 Soldier Skeleton
+gef_fild10 154 170 Orc Archer
+gef_fild10 137 162 Orc Archer
+gef_fild10 194 358 Orc Lady
+gef_fild10 184 351 Orc Lady
+gef_fild10 328 52 Orc Warrior
+gef_fild10 142 38 Poporing
+gef_fild10 127 196 Orc Warrior
+gef_fild10 219 154 Orc Lady
+pay_dun00 38 152 Poporing
+pay_dun00 138 149 GnuSnipes2
+pay_dun00 137 151 GnuSnipes2
+gef_fild10 312 47 Orc Baby
+gef_fild10 114 184 Orc Lady
+gef_fild10 215 198 Orc Lady
+pay_dun00 128 71 Poporing
+pay_dun00 39 166 Skeleton
+pay_dun00 44 52 Zombie
+gef_fild10 111 296 gururunt
+gef_fild10 155 143 Orc Archer
+gef_fild10 214 35 Orc Lady
+pay_dun02 255 112 Bongun
+gef_fild10 123 70 Orc Lady
+gef_fild10 161 22 Orc Lady
+pay_dun00 135 120 Zombie
+gef_fild10 197 294 gururunt
+gef_fild10 183 289 gururunt
+gef_fild10 161 141 Orc Lady
+gef_fild10 107 347 Orc Lady
+gef_fild10 116 266 Orc Lady
+gef_fild10 112 341 Orc Warrior
+pay_dun00 134 114 Zombie
+gef_fild10 339 130 Orc Lady
+pay_dun02 256 248 Munak
+gef_fild13 302 87 Mersetzdeitz#1-2
+gef_fild13 302 87 Mersetzdeitz#1-2
+gef_fild13 263 117 Repairman#gef_fild
+gef_fild13 263 117 Repairman#gef_fild
+gef_fild08 83 254 gururunt
+gef_fild08 74 245 gururunt
+pay_dun00 52 122 Zombie
+gef_fild08 182 185 The Wanderer
+gef_fild08 182 185 The Wanderer
+gef_fild08 189 49 Kobold
+pay_dun02 210 220 Archer Skeleton
+pay_dun02 211 220 Archer Skeleton
+geffen 90 67 Promotional Staff#gef
+geffen 67 87 Ipore#1
+geffen 109 66 Maroll Battle Recruiter
+geffen 90 67 Promotional Staff#gef
+geffen 67 87 Ipore#1
+pay_dun02 83 123 Soldier Skeleton
+pay_dun02 247 134 Soldier Skeleton
+gef_fild08 222 103 gururunt
+gef_fild08 290 286 Kobold
+gef_fild08 280 108 Golem
+gef_fild08 284 105 gururunt
+gef_fild08 268 93 gururunt
+gef_fild08 78 228 Golem
+gef_fild08 113 246 gururunt
+gef_fild08 228 47 Kobold
+gef_fild08 209 209 Stabby
+gef_fild08 280 126 Golem
+pay_dun02 66 153 Munak
+pay_dun02 65 177 Bongun
+pay_dun02 54 260 Munak
+gef_fild08 263 258 Kobold
+gef_fild08 187 298 gururunt
+gef_fild08 190 295 gururunt
+gef_fild08 212 91 Golem
+pay_dun02 258 164 Munak
+gef_fild08 198 132 Stabby
+gef_fild08 266 246 gururunt
+gef_fild08 198 137 gururunt
+gef_fild08 290 127 Golem
+pay_dun02 103 124 Soldier Skeleton
+gef_fild08 114 144 Kobold
+pay_dun02 247 135 Archer Skeleton
+gef_fild08 92 145 Kobold
+gef_fild08 161 153 Poison Spore
+gef_fild08 201 137 gururunt
+gef_fild08 189 135 gururunt
+gef_fild08 46 317 Kobold
+gef_fild07 226 205 Fabre
+gef_fild07 111 186 Creamy
+gef_fild08 158 83 Kobold
+pay_dun02 234 261 Munak
+gef_fild08 235 140 Kobold
+pay_dun02 235 260 Munak
+pay_dun02 56 176 Bongun
+pay_dun00 109 128 Zombie
+pay_dun00 176 33 Zombie
+gef_fild08 256 249 NomNoey
+gef_fild08 265 242 NomNoey
+gef_fild10 139 151 Orc Warrior
+pay_dun00 54 67 Skeleton
+orcsdun02 32 125 Zenorc
+pay_dun02 250 249 Soldier Skeleton
+pay_dun02 250 254 Munak
+orcsdun02 163 123 Steel Chonchon
+pay_dun02 82 110 Munak
+gef_fild10 110 264 Orc Lady
+gef_fild10 213 98 Orc Lady
+pay_dun00 140 128 Zombie
+moc_fild19 107 101 Bulletin Board#20
+prontera 153 161 gururunt
+prt_in 172 132 Armor Dealer#prt
+prt_in 172 132 Armor Dealer#prt
+prt_in 172 132 Armor Dealer#prt
+prt_in 172 132 Armor Dealer#prt
+prt_in 172 130 Weapon Dealer#prt
+prt_in 172 130 Weapon Dealer#prt
+prt_in 172 130 Weapon Dealer#prt
+prt_in 172 130 Weapon Dealer#prt
+prt_in 165 140 Weapon Dealer#prt3
+prt_in 165 140 Weapon Dealer#prt3
+prt_in 165 140 Weapon Dealer#prt3
+prt_in 171 140 Weapon Dealer#prt2
+orcsdun02 112 140 Zenorc
+orcsdun02 114 125 Zenorc
+orcsdun02 86 68 Orc Skeleton
+orcsdun02 88 72 Zenorc
+orcsdun02 40 111 Zenorc
+orcsdun02 39 107 Zenorc
+orcsdun02 36 116 Drainliar
+orcsdun02 41 116 Steel Chonchon
+orcsdun02 38 116 Zenorc
+orcsdun02 17 187 Steel Chonchon
+orcsdun02 15 182 Steel Chonchon
+orcsdun02 15 182 Steel Chonchon
+orcsdun02 155 147 Orc Skeleton
+orcsdun02 161 144 Steel Chonchon
+orcsdun02 165 141 Orc Skeleton
+payon 158 246 Guardsman#payon
+payon 158 246 Guardsman#payon
+payon 160 183 Sign#payon
+payon 158 182 Kafra Voting Staff#pay
+payon 181 172 Bard#4
+pay_dun02 245 130 Bongun
+pay_dun02 251 133 Poporing
+pay_dun02 248 134 Bongun
+pay_dun02 247 130 Munak
+pay_dun01 160 182 Eggyra
+pay_dun02 251 131 Munak
+pay_dun02 249 135 Archer Skeleton
+pay_dun02 245 131 Poporing
+pay_dun02 246 132 Bongun
+pay_dun02 249 129 Archer Skeleton
+pay_dun02 245 132 Bongun
+pay_dun02 246 129 Bongun
+pay_dun02 112 110 Bongun
+pay_dun02 118 106 Poporing
+pay_dun02 251 130 Bongun
+pay_dun02 245 129 Munak
+pay_dun02 252 123 gururunt
+pay_dun02 249 127 GnuSnipes4
+pay_dun02 256 118 StapoRadio
+payon 159 129 Wooden Floor#paypuzz5
+payon 157 146 Suhnbi#cash
+payon 166 161 Bamboo Grove Hill#12
+payon 166 169 Holy Shadow#12
+payon 166 173 Scarlet Palace#12
+payon 166 177 Bright Arbor#12
+payon 181 172 Bard#4
+pay_dun02 209 122 Munak
+pay_dun02 245 62 Munak
+pay_dun02 131 55 Munak
+payon 157 141 Phoenix#TKJobChange
+payon 166 165 Sacred Altar#12
+payon 153 182 Cool Event Staff#pay
+pay_dun02 96 175 Poporing
+pay_dun02 173 221 Bongun
+payon 157 146 Suhnbi#cash
+payon 166 161 Bamboo Grove Hill#12
+payon 166 169 Holy Shadow#12
+payon 153 182 Cool Event Staff#pay
+pay_dun02 214 220 GnuSnipes4
+pay_dun00 28 163 Familiar
+payon 236 199 Leablem#pay
+pay_dun02 65 182 Bongun
+pay_dun02 61 150 Poporing
+pay_dun02 63 151 Munak
+pay_dun02 256 243 Munak
+pay_dun02 198 84 Bongun
+pay_dun02 201 88 Munak
+pay_dun02 229 90 Bongun
+prontera 106 116 Merideth#pront
+prt_in 171 140 Weapon Dealer#prt2
+payon 166 177 Bright Arbor#12
+payon 159 129 Wooden Floor#paypuzz5
+payon 166 165 Sacred Altar#12
+pay_dun01 245 50 GnuSnipes3
+pay_dun01 223 45 Archer Skeleton
+izlude 94 98 Fruit Gardener#iz
+izlude 99 136 Promotional Staff#iz
+izlude 121 150 Healer#izl
+izlude 144 148 Sign#Iz2
+izlude 119 121 Cuskoal#izlude
+izlude 121 150 Healer#izl
+izlude 144 148 Sign#Iz2
+izlu2dun 109 58 Special Dealer#einb12
+izlude 105 92 Vendor from Milk Ranch#
+izlude 105 92 Vendor from Milk Ranch#
+izlude 105 92 Vendor from Milk Ranch#
+izlude 94 98 Fruit Gardener#iz
+izlude 94 98 Fruit Gardener#iz
+izlu2dun 109 58 Special Dealer#einb12
+izlude 94 98 Fruit Gardener#iz
+izlude 105 97 Healer#izl2
+izlude 105 97 Healer#izl2
+izlude 105 97 Healer#izl2
+izlude 105 99 Butcher#iz
+izlude 119 121 Cuskoal#izlude
+izlude 119 121 Cuskoal#izlude
+izlude 119 121 Cuskoal#izlude
+izlude 121 150 Healer#izl
+izlude 121 150 Healer#izl
+izlude 121 150 Healer#izl
+izlude 119 121 Cuskoal#izlude
+izlude 144 148 Sign#Iz2
+izlude 119 121 Cuskoal#izlude
+izlude 121 150 Healer#izl
+izlude 121 150 Healer#izl
+izlu2dun 104 92 Bulletin Board#4
+izlude 144 148 Sign#Iz2
+izlu2dun 109 58 Special Dealer#einb12
+izlu2dun 109 58 Special Dealer#einb12
+izlu2dun 104 92 Bulletin Board#4
+izlu2dun 106 58 Kafra Employee
+izlu2dun 106 58 Kafra Employee
+izlu2dun 109 58 Special Dealer#einb12
+izlu2dun 106 58 Kafra Employee
+izlu2dun 109 58 Special Dealer#einb12
+izlu2dun 109 58 Special Dealer#einb12
+izlu2dun 106 58 Kafra Employee
+izlu2dun 104 92 Bulletin Board#4
+izlu2dun 104 92 Bulletin Board#4
+izlu2dun 104 92 Bulletin Board#4
+izlu2dun 104 92 Bulletin Board#4
+izlu2dun 104 92 Bulletin Board#4
+iz_dun01 180 169 Plankton
+iz_dun01 183 172 Marina
+iz_dun01 49 119 Marina
+iz_dun01 60 145 Kukre
+iz_dun01 175 126 Marina
+iz_dun01 59 145 Kukre
+iz_dun01 48 122 Marina
+iz_dun01 48 122 Marina
+iz_dun01 48 122 Marina
+iz_dun01 66 141 Kukre
+iz_dun01 56 154 Kukre
+iz_dun01 48 180 Kukre
+iz_dun01 35 168 Kukre
+iz_dun01 48 214 Kukre
+iz_dun01 48 214 Kukre
+iz_dun01 178 170 Vadon
+iz_dun01 191 165 Vadon
+izlude 144 148 Sign#Iz2
+iz_dun03 207 158 Marc
+izlude 99 136 Promotional Staff#iz
+iz_dun03 146 73 Phen
+izlude 99 136 Promotional Staff#iz
+iz_dun03 252 137 Marc
+iz_dun03 238 136 Swordfish
+iz_dun03 247 136 Swordfish
+iz_dun00 43 49 Kukre
+iz_dun03 246 125 Lolipop
+iz_dun03 252 136 Swordfish
+iz_dun01 112 138 Vadon
+iz_dun03 242 139 Marc
+iz_dun03 248 133 Marc
+izlude 99 136 Promotional Staff#iz
+izlu2dun 119 143 gururunt
+iz_dun00 51 221 Plankton
+izlude 94 98 Fruit Gardener#iz
+izlude 129 118 Smile Assistance#iz
+izlude 144 148 Sign#Iz2
+izlu2dun 106 58 Kafra Employee
+iz_dun00 135 345 Marina
+iz_dun03 60 72 Marc
+iz_dun03 61 52 Marc
+izlude 150 143 Kylick#izlude
+izlude 94 98 Fruit Gardener#iz
+izlude 105 92 Vendor from Milk Ranch#
+izlude 99 136 Promotional Staff#iz
+izlude 119 121 Cuskoal#izlude
+izlude 99 136 Promotional Staff#iz
+izlude 144 148 Sign#Iz2
+gef_fild10 137 171 Orc Lady
+gef_fild14 51 91 High Orc
+gef_fild13 148 51 Repherion#1-2
+gef_fild13 211 71 Repherion#4
+gef_fild13 212 79 Repherion#3
+aldebaran 165 107 Chef Assistant#alde
+aldebaran 223 222 Mr. Claus#1
+gef_fild14 266 245 Orc Lady
+gef_fild13 148 51 Repherion#1-2
+gef_fild13 148 51 Repherion#1-2
+gef_fild13 148 51 Repherion#1-2
+gef_fild13 155 54 Repherion#2
+gef_fild13 148 51 Repherion#1-2
+gef_fild13 148 51 Repherion#1-2
+gef_fild13 148 51 Repherion#1-2
+gef_fild13 155 54 Repherion#2
+gef_fild13 155 54 Repherion#2
+gef_fild13 211 71 Repherion#4
+gef_fild13 211 71 Repherion#4
+gef_fild13 211 71 Repherion#4
+gef_fild13 211 71 Repherion#4
+gef_fild13 211 71 Repherion#4
+gef_fild13 212 79 Repherion#3
+gef_fild13 212 79 Repherion#3
+gef_fild13 211 71 Repherion#4
+gef_fild13 212 79 Repherion#3
+gef_fild13 212 79 Repherion#3
+gef_fild13 212 79 Repherion#3
+gef_fild13 212 79 Repherion#3
+gef_fild13 155 54 Repherion#2
+gef_fild13 155 54 Repherion#2
+gef_fild13 148 51 Repherion#1-2
+gef_fild14 242 60 High Orc
+gef_fild14 167 129 gururunt
+gef_fild14 152 130 gururunt
+gef_fild14 155 130 GnuSnipes4
+gef_fild14 154 129 gururunt
+gef_fild14 154 130 GnuSnipes4
+xmas_dun02 208 85 Cruiser
+gef_fild14 110 237 GnuSnipes5
+gef_fild14 52 117 High Orc
+gef_fild14 306 256 GnuSnipes2
+gef_fild14 326 297 GnuSnipes2
+gef_fild13 155 54 Repherion#2
+gef_fild13 211 71 Repherion#4
+gef_fild13 212 79 Repherion#3
+gef_fild14 263 70 High Orc
+gef_fild14 197 308 Yuki
+gef_fild14 267 62 High Orc
+gef_fild14 155 125 High Orc
+gef_fild14 153 128 High Orc
+prontera 150 172 GnuSnipes1
+gef_fild13 155 54 Repherion#2
+gef_fild14 224 64 High Orc
+gef_fild14 285 263 GnuSnipes2
+gef_fild14 267 176 GnuSnipes2
+gef_fild14 314 94 Stabby
+gef_fild10 98 298 GnuSnipes4
+gef_fild14 213 260 Noel
+gef_fild14 248 62 GnuSnipes5
+gef_fild14 309 257 Orc Archer
+gef_fild14 317 249 GnuSnipes4
+prontera 109 161 Young Man#sch
+gef_fild14 71 205 Orc Lady
+gef_fild14 67 205 Orc Archer
+gef_fild14 237 287 Kyriel
+gef_fild14 151 162 High Orc
+gef_fild14 293 260 Kyriel
+gef_fild14 174 343 Orc Archer
+gef_fild14 276 177 High Orc
+gef_fild14 275 200 High Orc
+gef_fild14 275 140 Aspros
+gef_fild14 210 129 gururunt
+gef_fild14 211 132 GnuSnipes5
+gef_fild14 274 161 Orc Warrior
+gef_fild14 269 219 Noel
+gef_fild14 267 221 High Orc
+gef_fild14 102 276 High Orc
+gef_fild14 334 275 Orc Archer
+gef_fild10 94 301 Orc Lady
+gef_fild10 93 292 Orc Lady
+gef_fild14 301 72 Orc Archer
+gef_fild14 287 313 GnuSnipes3
+gef_fild14 276 292 GnuSnipes5
+gef_fild14 281 277 GnuSnipes2
+gef_fild10 72 266 GnuSnipes2
+gef_fild14 160 214 High Orc
+pay_dun02 81 109 Soldier Skeleton
+gef_fild14 207 318 Orc Lady
+gef_fild14 337 169 GnuSnipes2
+gef_fild14 142 80 Orc Lady
+gef_fild14 142 80 Orc Lady
+prontera 109 161 Young Man#sch
+gef_fild10 80 300 GnuSnipes3
+gef_fild14 163 250 High Orc
+gef_fild14 147 189 gururunt
+prt_in 38 108 Teacher
+gef_fild14 299 58 Asuna
+pay_dun02 121 101 Bongun
+prontera 109 161 Young Man#sch
+prontera 78 150 Dairenne#pront
+gef_fild14 341 195 Orc Lady
+gef_fild14 97 299 High Orc
+gef_fild14 278 284 gururunt
+gef_fild14 96 238 High Orc
+gef_fild14 225 293 High Orc
+gef_fild14 217 288 High Orc
+gef_fild14 202 129 gururunt
+gef_fild14 279 159 High Orc
+gef_fild14 268 287 Orc Archer
+gef_fild14 325 159 High Orc
+gef_fild14 148 83 Orc Archer
+gef_fild14 322 142 gururunt
+gef_fild14 331 156 High Orc
+gef_fild14 320 130 gururunt
+gef_fild14 145 298 Orc Lady
+gef_fild14 145 295 High Orc
+gef_fild14 235 304 Orc Lady
+gef_fild14 249 65 Orc Archer
+gef_fild14 232 54 GnuSnipes5
+prontera 158 172 GnuSnipes2
+gef_fild14 337 190 Orc Archer
+gef_fild14 272 209 High Orc
+gef_fild14 229 62 Orc Warrior
+gef_fild09 287 52 GnuSnipes5
+gef_fild10 197 311 Orc Warrior
+gef_fild14 266 204 Orc Hero
+gef_fild14 266 204 Orc Hero
+gef_fild14 266 204 Orc Hero
+gef_fild14 271 198 High Orc
+gef_fild14 275 192 High Orc
+gef_fild14 276 188 High Orc
+gef_fild14 276 175 High Orc
+gef_fild14 281 137 GnuSnipes3
+gef_fild14 95 278 Orc Archer
+gef_fild14 258 245 GnuSnipes2
+gef_fild14 134 106 GnuSnipes2
+gef_fild14 174 226 GnuSnipes2
+gef_fild14 255 307 GnuSnipes5
+gef_fild14 207 259 Noel
+prt_in 126 76 Tool Dealer#prt1
+gef_fild10 234 339 Poporing
+gef_fild01 372 108 Roda Frog
+gef_fild01 372 108 Roda Frog
+gef_fild01 372 108 Roda Frog
+gef_fild14 184 235 GnuSnipes4
+gef_fild14 192 242 GnuSnipes5
+gef_fild14 198 244 GnuSnipes3
+gef_fild14 252 66 High Orc
+gef_fild09 277 52 Ambernite
+gef_fild14 69 231 Orc Lady
+gef_fild14 73 223 Orc Lady
+gef_fild13 243 145 GnuSnipes5
+gef_fild13 214 66 GnuSnipes5
+gef_fild14 289 107 Orc Archer
+gef_fild14 330 164 High Orc
+gef_fild10 203 303 gururunt
+gef_fild10 210 303 gururunt
+gef_fild14 137 203 Orc Archer
+gef_fild14 247 190 Orc Lady
+gef_fild14 246 197 High Orc
+gef_fild14 204 254 GnuSnipes2
+gef_fild14 248 192 High Orc
+gef_fild09 346 44 Ambernite
+gef_fild01 61 105 GnuSnipes1
+gef_fild14 317 107 gururunt
+gef_fild14 314 105 GnuSnipes4
+gef_fild14 314 109 gururunt
+gef_fild14 315 105 GnuSnipes4
+gef_fild14 199 294 High Orc
+gef_fild10 73 271 Orc Lady
+gef_fild14 327 165 High Orc
+gef_fild10 233 347 GnuSnipes5
+pay_dun02 250 90 Munak
+pay_dun02 169 265 Bongun
+gef_fild09 347 61 GnuSnipes2
+gef_fild09 350 64 GnuSnipes2
+gef_fild10 320 73 Orc Lady
+gef_fild10 75 267 Orc Archer
+gef_fild10 82 268 Orc Archer
+gef_fild10 124 198 GnuSnipes5
+gef_fild14 299 274 High Orc
+gef_fild09 283 52 gururunt
+gef_fild10 70 234 Tortuga
+gef_fild09 247 53 GnuSnipes4
+gef_fild13 290 243 Eeyorbriggar#3
+gef_fild13 73 295 Yesnelph#3
+gef_fild13 73 295 Yesnelph#3
+geffen 122 77 Nia#yagu
+geffen 122 77 Nia#yagu
+geffen 122 77 Nia#yagu
+geffen 122 77 Nia#yagu
+geffen 122 77 Nia#yagu
+gef_fild13 73 295 Yesnelph#3
+gef_fild13 113 274 Yesnelph#4
+gef_fild13 228 71 StapoRadio
+gef_fild13 235 75 gururunt
+prt_fild04 143 83 GnuSnipes2
+prt_fild04 260 52 Rocker
+prt_fild04 261 52 Rocker
+pay_dun02 145 46 Archer Skeleton
+gef_fild10 93 244 gururunt
+gef_fild10 100 244 GnuSnipes4
+gef_fild10 132 160 gururunt
+gef_fild10 132 292 gururunt
+gef_fild14 89 44 Orc Archer
+gef_fild14 122 251 Orc Archer
+gef_fild14 59 149 High Orc
+gef_fild14 280 148 Orc Lady
+gef_fild14 275 175 High Orc
+gef_fild14 93 222 Orc Lady
+gef_fild14 48 67 Orc Lady
+gef_fild14 188 125 GnuSnipes2
+gef_fild14 269 130 Orc Hero
+gef_fild14 269 130 Orc Hero
+gef_fild14 274 126 High Orc
+gef_fild14 275 128 High Orc
+gef_fild14 269 135 High Orc
+gef_fild14 260 139 High Orc
+gef_fild14 260 138 High Orc
+gef_fild14 259 139 High Orc
+gef_fild14 272 135 StapoRadio
+gef_fild14 241 139 Orc Hero
+gef_fild14 239 140 High Orc
+gef_fild07 95 164 Chonchon
+geffen 122 77 Nia#yagu
+gef_fild14 129 171 Orc Archer
+gef_fild09 289 44 Ambernite
+gef_fild14 244 64 High Orc
+gef_fild14 202 62 High Orc
+gef_fild14 189 82 High Orc
+gef_fild14 185 74 High Orc
+gef_fild10 69 92 Orc Lady
+gef_fild10 72 109 Orc Lady
+gef_fild10 103 257 Orc Archer
+gef_fild14 296 229 Orc Archer
+gef_fild14 130 98 High Orc
+gef_fild10 161 308 Orc Baby
+gef_fild10 62 237 Orc Lady
+gef_fild14 271 268 GnuSnipes3
+gefg_cas01 22 156 Repherion#6
+gef_fild14 173 76 Orc Lady
+gef_fild14 99 98 High Orc
+gef_fild14 277 142 Orc Lady
+gef_fild14 159 130 Orc Archer
+gef_fild14 142 141 High Orc
+gef_fild14 182 313 Orc Archer
+gef_fild14 168 95 Orc Archer
+gef_fild14 93 216 GnuSnipes1
+gef_fild14 127 254 GnuSnipes5
+gef_fild14 94 213 GnuSnipes1
+gef_fild14 129 254 GnuSnipes4
+gef_fild14 134 179 gururunt
+gef_fild14 342 260 GnuSnipes4
+gef_fild14 341 168 GnuSnipes5
+gef_fild14 164 121 gururunt
+gef_fild14 202 245 Orc Hero
+gef_fild14 198 250 High Orc
+gef_fild14 96 192 Yuki
+gef_fild14 93 202 Yuki
+gef_fild14 87 66 High Orc
+gef_fild14 83 67 High Orc
+gef_fild10 71 244 Orc Lady
+pay_dun02 104 177 Munak
+gef_fild14 167 310 Orc Lady
+gef_fild14 252 71 Orc Archer
+gef_fild14 267 66 Orc Archer
+gef_fild14 150 134 gururunt
+gef_fild14 155 145 GnuSnipes4
+gef_fild10 63 223 Orc Lady
+gef_fild14 177 69 High Orc
+gef_fild14 66 115 Orc Archer
+gef_fild14 116 237 High Orc
+gef_fild14 229 279 Orc Archer
+gef_fild14 288 235 High Orc
+gef_fild14 273 168 GnuSnipes4
+gef_fild14 287 253 GnuSnipes4
+gef_fild14 256 314 High Orc
+gef_fild14 289 233 Orc Warrior
+gef_fild14 181 253 Orc Hero
+gef_fild14 186 239 High Orc
+pay_dun02 207 211 Archer Skeleton
+gef_fild14 277 65 GnuSnipes1
+gef_fild14 281 64 gururunt
+gef_fild14 162 322 Orc Archer
+gef_fild14 149 336 High Orc
+gef_fild14 330 297 High Orc
+gef_fild14 332 303 Orc Archer
+gef_fild14 326 297 Orc Lady
+gef_fild14 197 202 High Orc
+gef_fild14 311 317 High Orc
+gef_fild14 340 211 GnuSnipes3
+gef_fild14 341 206 gururunt
+gef_fild14 187 335 High Orc
+gef_fild14 241 60 High Orc
+gef_fild14 232 311 High Orc
+gef_fild14 235 315 High Orc
+gef_fild14 143 114 gururunt
+gef_fild14 150 211 GnuSnipes5
+gef_fild14 152 207 GnuSnipes4
+gef_fild14 85 99 GnuSnipes5
+gef_fild14 47 88 gururunt
+gef_fild14 164 109 High Orc
+gef_fild14 145 124 GnuSnipes1
+gef_fild14 144 123 GnuSnipes2
+gef_fild14 96 72 GnuSnipes2
+gef_fild14 184 77 GnuSnipes2
+gef_fild14 202 77 Orc Warrior
+gef_fild14 196 76 GnuSnipes3
+gef_fild14 200 77 GnuSnipes1
+gef_fild14 210 68 GnuSnipes4
+gef_fild14 321 145 High Orc
+gef_fild14 278 223 High Orc
+gef_fild14 279 224 Orc Lady
+gef_fild14 158 121 Orc Archer
+gef_fild14 186 139 GnuSnipes3
+gef_fild14 272 207 GnuSnipes4
+gef_fild14 211 133 GnuSnipes1
+gef_fild14 322 136 Orc Archer
+gef_fild14 328 145 High Orc
+gef_fild14 245 53 gururunt
+gef_fild14 228 97 High Orc
+gef_fild14 215 99 High Orc
+gef_fild14 186 163 Noel
+gef_fild14 275 270 GnuSnipes5
+gef_fild14 160 218 High Orc
+gef_fild14 160 218 High Orc
+gef_fild14 152 205 gururunt
+gef_fild14 152 209 GnuSnipes3
+gef_fild14 156 209 GnuSnipes5
+gef_fild14 157 210 StapoRadio
+gef_fild14 149 195 GnuSnipes2
+gef_fild14 331 235 Orc Warrior
+gef_fild14 152 77 High Orc
+gef_fild14 230 283 High Orc
+gef_fild14 191 295 High Orc
+gef_fild14 90 223 High Orc
+gef_fild14 301 110 Orc Lady
+gef_fild14 262 54 Orc Warrior
+gef_fild14 180 144 StapoRadio
+gef_fild14 94 276 gururunt
+gef_fild14 189 173 High Orc
+gef_fild14 350 299 Orc Warrior
+gef_fild14 270 216 GnuSnipes1
+gef_fild14 277 214 GnuSnipes4
+gef_fild14 279 214 GnuSnipes3
+gef_fild14 279 213 GnuSnipes2
+gef_fild14 287 225 GnuSnipes5
+gef_fild14 276 185 GnuSnipes4
+gef_fild14 302 117 GnuSnipes1
+gef_fild14 277 179 GnuSnipes3
+gef_fild14 227 51 Orc Archer
+gef_fild14 213 54 High Orc
+gef_fild14 298 67 Orc Archer
+gef_fild14 282 105 High Orc
+gef_fild14 321 106 GnuSnipes5
+gef_fild14 278 174 GnuSnipes2
+gef_fild14 248 237 gururunt
+gef_fild14 198 64 High Orc
+gef_fild14 201 58 High Orc
+gef_fild14 202 58 High Orc
+gef_fild14 110 90 High Orc
+gef_fild14 245 240 gururunt
+gef_fild14 192 85 High Orc
+gef_fild14 272 222 Orc Archer
+gef_fild14 272 107 gururunt
+gef_fild14 275 111 GnuSnipes1
+gef_fild14 276 119 GnuSnipes3
+gef_fild14 302 65 Orc Lady
+gef_fild14 109 279 High Orc
+gef_fild14 149 306 High Orc
+gef_fild14 181 321 High Orc
+gef_fild14 186 245 High Orc
+gef_fild14 152 75 Orc Lady
+gef_fild14 188 145 High Orc
+gef_fild14 270 339 gururunt
+gef_fild14 268 331 GnuSnipes4
+gef_fild14 270 335 gururunt
+gef_fild14 309 105 Kyriel
+gef_fild14 219 132 GnuSnipes3
+gef_fild14 222 135 GnuSnipes2
+gef_fild14 249 143 GnuSnipes1
+gef_fild14 253 148 GnuSnipes5
+gef_fild14 262 279 Orc Warrior
+gef_fild14 180 242 High Orc
+gef_fild14 146 141 High Orc
+gef_fild14 139 192 Orc Lady
+gef_fild14 326 153 GnuSnipes4
+gef_fild14 178 233 High Orc
+gef_fild14 246 142 Stabby
+gef_fild14 280 129 gururunt
+gef_fild14 298 107 Reckless
+gef_fild14 65 153 High Orc
+gef_fild14 67 147 High Orc
+gef_fild14 283 135 Tortuga
+gef_fild14 328 119 Aspros
+gef_fild14 329 121 Orc Warrior
+gef_fild14 321 135 GnuSnipes1
+gef_fild14 66 140 High Orc
+gef_fild14 68 156 Orc Archer
+gef_fild14 66 149 High Orc
+gef_fild14 278 137 gururunt
+gef_fild14 297 120 High Orc
+gef_fild14 68 144 High Orc
+gef_fild14 217 63 GnuSnipes5
+gef_fild14 201 67 Orc Lady
+gef_fild14 81 146 Aspros
+gef_fild14 103 148 High Orc
+gef_fild14 191 191 Orc Warrior
+gef_fild14 267 208 High Orc
+gef_fild14 66 145 High Orc
+gefg_cas01 28 157 Repherion#5-2
+gefg_cas01 28 157 Repherion#5-2
+gefg_cas01 28 157 Repherion#5-2
+gefg_cas01 28 157 Repherion#5-2
+gefg_cas01 28 157 Repherion#5-2
+gefg_cas01 28 157 Repherion#5-2
+gef_fild14 276 228 Yuki
+gef_fild14 273 234 High Orc
+gef_fild10 76 296 GnuSnipes3
+gef_fild10 71 307 GnuSnipes2
+gef_fild10 73 298 GnuSnipes1
+gef_fild10 77 249 Orc Warrior
+gef_fild10 119 170 Orc Lady
+gef_fild14 162 164 GnuSnipes1
+gef_fild14 144 147 High Orc
+gef_fild14 135 170 High Orc
+gef_fild14 152 158 Orc Warrior
+gef_fild14 150 77 High Orc
+gef_fild14 236 61 gururunt
+gef_fild14 247 64 StapoRadio
+gef_fild14 132 78 Orc Archer
+gef_fild14 134 75 High Orc
+gef_fild14 320 294 High Orc
+gef_fild14 194 73 gururunt
+pay_dun02 64 191 Munak
+gef_fild14 91 89 High Orc
+gef_fild14 151 75 High Orc
+gef_fild14 207 244 Orc Warrior
+gef_fild14 304 255 High Orc
+gef_fild14 352 223 High Orc
+gef_fild14 358 224 Orc Warrior
+gef_fild14 353 217 Orc Archer
+gef_fild14 332 248 High Orc
+gef_fild14 344 232 Kyriel
+gef_fild14 341 224 StapoRadio
+gef_fild14 190 144 GnuSnipes4
+gef_fild14 351 213 Orc Archer
+gef_fild10 55 218 GnuSnipes2
+gef_fild10 53 218 GnuSnipes4
+gef_fild14 272 281 High Orc
+gef_fild14 271 282 High Orc
+gef_fild14 277 277 High Orc
+gef_fild14 277 277 Orc Archer
+gef_fild14 279 277 High Orc
+gef_fild14 283 272 High Orc
+gef_fild14 279 278 Orc Hero
+gef_fild14 281 270 High Orc
+gef_fild14 320 154 High Orc
+gef_fild10 147 297 GnuSnipes5
+gef_fild10 120 300 GnuSnipes2
+gef_fild14 196 73 Orc Archer
+gef_fild14 133 75 Orc Warrior
+gef_fild14 114 101 Orc Archer
+gef_fild14 344 299 Orc Archer
+gef_fild14 319 309 High Orc
+gef_fild14 305 98 GnuSnipes5
+gef_fild14 336 293 High Orc
+gef_fild14 349 311 Orc Archer
+gef_fild14 267 247 gururunt
+morocc 43 108 Sharp-Looking Boy#dan_0
+morocc 43 108 Sharp-Looking Boy#dan_0
+morocc 43 108 Sharp-Looking Boy#dan_0
+morocc 43 108 Sharp-Looking Boy#dan_0
+morocc 43 108 Sharp-Looking Boy#dan_0
+morocc 43 108 Sharp-Looking Boy#dan_0
+morocc 43 108 Sharp-Looking Boy#dan_0
+in_sphinx1 209 47 Drainliar
+in_sphinx2 249 255 Requiem
+in_sphinx3 70 34 Marduk
+in_sphinx3 109 100 Marduk
+in_sphinx3 10 177 Matyr
+in_sphinx3 8 124 Matyr
+in_sphinx3 21 101 Marduk
+in_sphinx4 89 52 Anubis
+in_sphinx4 188 49 Minorous
+in_sphinx4 61 67 Minorous
+in_sphinx4 172 60 Minorous
+in_sphinx4 127 77 Minorous
+in_sphinx5 27 89 Pasana
+in_sphinx1 40 212 Requiem
+in_sphinx1 59 59 Drainliar
+in_sphinx1 82 205 Drainliar
+in_sphinx2 158 143 StapoRadio
+in_sphinx2 181 124 StapoRadio
+in_sphinx2 249 61 Requiem
+in_sphinx2 276 164 MiTH
+in_sphinx2 220 180 Zerom
+in_sphinx2 218 215 Requiem
+in_sphinx3 14 117 Marduk
+in_sphinx4 78 116 Minorous
+in_sphinx4 68 101 Anubis
+in_sphinx4 67 61 Minorous
+in_sphinx4 72 112 GnuSnipes2
+in_sphinx4 128 54 Minorous
+in_sphinx4 124 56 Minorous
+in_sphinx4 124 56 Minorous
+in_sphinx5 104 159 Pasana
+in_sphinx5 113 29 Pasana
+gef_fild10 121 154 Orc Lady
+gef_fild14 231 236 High Orc
+gef_fild14 206 255 Orc Lady
+gef_fild14 274 194 High Orc
+gef_fild14 274 194 High Orc
+gef_fild14 274 194 High Orc
+gef_fild14 272 193 High Orc
+gef_fild14 212 267 gururunt
+gef_fild10 134 191 GnuSnipes4
+gef_fild10 33 211 Orc Archer
+gef_fild10 37 212 Orc Lord
+gef_fild10 44 214 Orc Lord
+gef_fild10 53 219 Orc Archer
+gef_fild14 170 127 Reckless
+gef_fild14 118 88 GnuSnipes5
+gef_fild14 115 86 GnuSnipes5
+gef_fild14 147 194 gururunt
+gef_fild14 147 184 StapoRadio
+gef_fild14 148 179 GnuSnipes5
+gef_fild14 262 131 GnuSnipes1
+gef_fild14 265 131 GnuSnipes1
+gef_fild14 237 145 Reckless
+gef_fild14 226 141 Reckless
+gef_fild14 271 141 GnuSnipes1
+gef_fild14 85 245 Orc Warrior
+gef_fild14 271 138 High Orc
+gef_fild14 263 142 High Orc
+gef_fild14 214 320 High Orc
+gef_fild14 296 267 gururunt
+gef_fild14 141 299 Orc Archer
+gef_fild14 145 119 Reckless
+gef_fild14 54 127 Orc Lady
+gef_fild10 69 241 GnuSnipes4
+gef_fild10 72 256 GnuSnipes3
+gef_fild14 329 291 Orc Lady
+gef_fild14 277 195 Orc Hero
+gef_fild14 98 45 Orc Archer
+gef_fild14 273 205 High Orc
+gef_fild14 274 205 High Orc
+gef_fild14 276 203 High Orc
+gef_fild14 275 207 High Orc
+gef_fild14 274 207 High Orc
+gef_fild14 147 214 Orc Lady
+gef_fild14 315 91 GnuSnipes3
+gef_fild14 271 191 Orc Hero
+gef_fild14 275 185 High Orc
+gef_fild14 282 184 Orc Archer
+gef_fild10 72 264 GnuSnipes2
+gef_fild13 242 184 Reckless
+prontera 109 161 Young Man#sch
+gef_fild10 61 221 GnuSnipes5
+gef_fild14 333 239 gururunt
+gef_fild14 203 283 Orc Warrior
+gef_fild14 209 241 Orc Lady
+gef_fild14 233 238 gururunt
+gef_fild14 273 209 Orc Lady
+gef_fild14 148 122 High Orc
+gef_fild14 253 233 gururunt
+gef_fild14 352 236 Orc Archer
+gef_fild14 355 229 High Orc
+gef_fild14 230 165 Orc Archer
+gef_fild14 145 191 Orc Archer
+gef_fild14 171 311 High Orc
+gef_fild14 275 185 Kyriel
+gef_fild14 98 134 Orc Lady
+gef_fild14 338 196 Orc Lady
+gef_fild14 332 175 GnuSnipes4
+gef_fild14 257 113 High Orc
+gef_fild14 103 59 Orc Hero
+gef_fild14 107 61 High Orc
+gef_fild10 104 161 Orc Lady
+gef_fild10 99 166 gururunt
+gef_fild14 190 88 Orc Warrior
+gef_fild14 118 65 GnuSnipes1
+gef_fild14 113 64 GnuSnipes4
+gef_fild14 106 54 GnuSnipes2
+gef_fild14 187 143 GnuSnipes4
+gef_fild14 182 147 GnuSnipes4
+gef_fild14 63 195 High Orc
+gef_fild14 71 195 High Orc
+gef_fild14 283 230 StapoRadio
+gef_fild14 283 230 StapoRadio
+gef_fild14 265 65 High Orc
+gef_fild14 227 58 Orc Archer
+gef_fild14 281 224 StapoRadio
+gef_fild14 196 72 High Orc
+gef_fild14 195 67 Orc Archer
+gef_fild14 170 77 Orc Lady
+gef_fild14 202 160 GnuSnipes4
+gef_fild14 277 284 High Orc
+gef_fild14 297 234 Orc Lady
+gef_fild14 136 181 Orc Archer
+gef_fild14 90 162 Orc Lady
+gef_fild14 268 202 Tortuga
+gef_fild14 267 192 Reckless
+gef_fild14 65 104 Orc Archer
+gef_fild14 34 97 Orc Archer
+gef_fild14 147 167 GnuSnipes4
+gef_fild14 148 170 GnuSnipes5
+gef_fild14 156 161 High Orc
+gef_fild14 197 128 StapoRadio
+gef_fild14 287 240 GnuSnipes2
+gef_fild14 262 188 Yuki
+gef_fild14 308 111 GnuSnipes5
+gef_fild14 272 224 GnuSnipes2
+gef_fild14 239 52 High Orc
+gef_fild14 212 55 Orc Archer
+gef_fild14 81 47 Orc Lady
+gef_fild14 308 109 High Orc
+gef_fild14 308 109 High Orc
+gef_fild14 301 116 High Orc
+gef_fild14 301 116 High Orc
+gef_fild14 301 116 High Orc
+gef_fild14 151 210 High Orc
+gef_fild14 151 210 High Orc
+gef_fild14 151 210 High Orc
+gef_fild14 151 210 High Orc
+comodo 199 138 Special Dealer#einb12
+comodo 195 150 Kafra Employee
+comodo 193 151 Bor Robin#1
+comodo 187 153 Hullaris#cmd
+comodo 201 138 Healer#com2
+morocc 159 113 Chief Balrog
+morocc 159 113 Chief Balrog
+morocc 159 113 Chief Balrog
+morocc 159 113 Chief Balrog
+morocc 150 120 Soldier - Morocc#01
+morocc 159 113 Chief Balrog
+morocc 150 120 Soldier - Morocc#01
+morocc 150 120 Soldier - Morocc#01
+morocc 150 120 Soldier - Morocc#01
+morocc 150 120 Soldier - Morocc#01
+morocc 150 120 Soldier - Morocc#01
+comodo 139 184 Scholar#zgang
+comodo 112 182 Munak's Grandma
+comodo 199 138 Special Dealer#einb12
+comodo 199 138 Special Dealer#einb12
+comodo 199 138 Special Dealer#einb12
+comodo 199 138 Special Dealer#einb12
+comodo 199 138 Special Dealer#einb12
+comodo 199 138 Special Dealer#einb12
+comodo 195 150 Kafra Employee
+comodo 201 138 Healer#com2
+comodo 201 138 Healer#com2
+comodo 187 153 Hullaris#cmd
+comodo 195 150 Kafra Employee
+comodo 201 138 Healer#com2
+comodo 152 184 Bafhail#comodo
+comodo 187 153 Hullaris#cmd
+comodo 195 150 Kafra Employee
+comodo 187 153 Hullaris#cmd
+comodo 184 158 Healer#com
+comodo 193 151 Bor Robin#1
+comodo 187 153 Hullaris#cmd
+comodo 180 153 Sonotora#1
+comodo 172 160 GnuSnipes4
+comodo 172 158 GnuSnipes1
+comodo 162 162 GnuSnipes5
+comodo 152 184 Bafhail#comodo
+comodo 139 184 Scholar#zgang
+comodo 139 184 Scholar#zgang
+comodo 139 184 Scholar#zgang
+comodo 139 184 Scholar#zgang
+comodo 139 184 Scholar#zgang
+comodo 152 184 Bafhail#comodo
+comodo 152 184 Bafhail#comodo
+comodo 152 184 Bafhail#comodo
+comodo 152 184 Bafhail#comodo
+comodo 112 182 Munak's Grandma
+comodo 112 182 Munak's Grandma
+comodo 112 182 Munak's Grandma
+comodo 112 182 Munak's Grandma
+comodo 112 182 Munak's Grandma
+comodo 112 182 Munak's Grandma
+comodo 68 195 Old Man#thai
+comodo 68 195 Old Man#thai
+comodo 68 195 Old Man#thai
+comodo 68 195 Old Man#thai
+comodo 68 195 Old Man#thai
+comodo 68 195 Old Man#thai
+comodo 64 219 Lospii#comodo
+comodo 64 219 Lospii#comodo
+comodo 64 219 Lospii#comodo
+comodo 64 219 Lospii#comodo
+comodo 68 195 Old Man#thai
+comodo 64 219 Lospii#comodo
+comodo 64 219 Lospii#comodo
+comodo 37 219 Guide#2cmd
+comodo 64 219 Lospii#comodo
+comodo 37 219 Guide#2cmd
+comodo 37 219 Guide#2cmd
+comodo 37 219 Guide#2cmd
+comodo 37 219 Guide#2cmd
+comodo 37 219 Guide#2cmd
+comodo 37 219 Guide#2cmd
+gef_fild14 346 240 High Orc
+gef_fild14 191 128 Tortuga
+gef_fild14 186 328 Orc Lady
+gef_fild14 148 182 High Orc
+gef_fild14 38 142 High Orc
+gef_fild14 69 144 High Orc
+gef_fild14 265 245 GnuSnipes3
+gef_fild14 180 169 Orc Archer
+gef_fild14 97 72 Tortuga
+gef_fild14 93 39 Orc Lady
+gef_fild14 137 206 Orc Warrior
+gef_fild14 137 206 Orc Warrior
+gef_fild14 137 206 Orc Warrior
+gef_fild14 137 203 Orc Warrior
+gef_fild14 137 203 Orc Warrior
+gef_fild14 135 151 Aspros
+gef_fild14 240 236 High Orc
+gef_fild14 309 103 Orc Lady
+gef_fild14 273 115 High Orc
+gef_fild14 150 196 High Orc
+gef_fild14 277 134 Orc Lady
+gef_fild14 277 134 Orc Lady
+gef_fild14 277 134 Orc Lady
+gef_fild14 277 134 Orc Lady
+gef_fild14 277 134 Orc Lady
+gef_fild14 345 318 Orc Archer
+gef_fild14 348 324 Orc Warrior
+gef_fild14 142 114 Aspros
+gef_fild14 193 124 Orc Warrior
+gef_fild14 178 308 GnuSnipes4
+gef_fild14 285 357 High Orc
+gef_fild14 220 305 Orc Archer
+gef_fild14 263 310 GnuSnipes1
+gef_fild14 263 311 GnuSnipes5
+gef_fild14 146 127 Stabby
+gef_fild14 61 109 High Orc
+gef_fild14 170 141 High Orc
+gef_fild14 323 100 Orc Archer
+gef_fild14 195 128 Orc Warrior
+gef_fild14 223 152 Reckless
+gef_fild14 200 179 High Orc
+gef_fild14 191 302 gururunt
+gef_fild14 206 293 Orc Archer
+gef_fild14 197 180 High Orc
+gef_fild14 158 127 Stabby
+gef_fild14 267 151 Stabby
+gef_fild14 267 151 Stabby
+gef_fild14 267 151 Stabby
+gef_fild14 132 194 Orc Archer
+gef_fild14 130 192 Orc Archer
+gef_fild14 85 82 Yuki
+gef_fild14 107 200 Orc Archer
+gef_fild14 209 261 Orc Archer
+gef_fild14 304 307 Orc Lady
+gef_fild14 87 80 High Orc
+gef_fild14 100 88 StapoRadio
+gef_fild14 100 88 StapoRadio
+gef_fild14 137 291 Orc Archer
+gef_fild14 210 259 gururunt
+gef_fild14 256 71 High Orc
+gef_fild14 111 62 GnuSnipes4
+gef_fild14 214 274 High Orc
+gef_fild14 347 315 High Orc
+gef_fild14 339 307 High Orc
+gef_fild14 264 157 Tortuga
+gef_fild14 257 156 GnuSnipes3
+gef_fild14 264 160 Tortuga
+gef_fild14 275 182 Reckless
+gef_fild14 345 302 Orc Archer
+gef_fild14 348 280 Orc Lady
+gef_fild14 309 306 Dryad
+gef_fild14 267 182 High Orc
+gef_fild14 306 113 gururunt
+gef_fild14 298 119 GnuSnipes2
+gef_fild14 299 117 GnuSnipes1
+gef_fild14 313 109 GnuSnipes3
+gef_fild14 316 140 Orc Archer
+gef_fild14 329 168 High Orc
+gef_fild14 329 168 gururunt
+gef_fild14 338 190 Orc Archer
+gef_fild14 335 175 GnuSnipes2
+gef_fild14 337 179 GnuSnipes1
+gef_fild14 337 186 GnuSnipes3
+gef_fild14 268 196 GnuSnipes2
+gef_fild14 268 201 GnuSnipes4
+gef_fild14 268 214 GnuSnipes3
+gef_fild14 241 146 Aspros
+gef_fild14 261 184 Reckless
+gef_fild14 261 184 Reckless
+gef_fild14 265 175 Tortuga
+gef_fild14 229 144 Aspros
+gef_fild14 101 194 Stabby
+gef_fild14 97 198 Stabby
+gef_fild14 97 198 Stabby
+gef_fild14 97 198 Stabby
+gef_fild14 324 128 GnuSnipes3
+gef_fild14 93 239 Stabby
+gef_fild14 93 239 Stabby
+gef_fild14 135 293 gururunt
+gef_fild14 282 283 High Orc
+gef_fild14 277 291 High Orc
+gef_fild14 293 279 High Orc
+gef_fild14 252 306 High Orc
+gef_fild14 324 130 GnuSnipes2
+gef_fild14 175 142 High Orc
+gef_fild14 254 302 High Orc
+gef_fild14 212 245 GnuSnipes5
+gef_fild14 166 236 High Orc
+gef_fild14 151 225 Orc Lady
+gef_fild14 275 193 GnuSnipes3
+gef_fild14 276 196 GnuSnipes4
+gef_fild14 273 205 GnuSnipes2
+gef_fild14 286 285 High Orc
+gef_fild14 296 259 Kyriel
+prontera 154 90 GnuSnipes1
+gef_fild10 69 235 GnuSnipes5
+gef_fild14 274 341 High Orc
+gef_fild14 273 342 High Orc
+gef_fild14 300 356 Orc Archer
+gef_fild14 299 353 GnuSnipes4
+gef_fild14 304 349 gururunt
+morocc 107 48 GnuSnipes2
+in_sphinx1 141 129 Requiem
+in_sphinx1 22 116 Matyr
+in_sphinx1 67 30 Requiem
+in_sphinx1 83 25 Requiem
+in_sphinx1 99 29 Drainliar
+in_sphinx1 69 192 Zerom
+in_sphinx2 247 271 Requiem
+in_sphinx2 245 271 Requiem
+in_sphinx3 229 143 Marduk
+in_sphinx3 134 228 Sanctuary
+in_sphinx3 140 216 Matyr
+in_sphinx3 13 186 Marduk
+in_sphinx3 16 147 gururunt
+in_sphinx3 9 133 Marduk
+in_sphinx4 90 159 Minorous
+in_sphinx4 78 113 Anubis
+in_sphinx4 77 57 Minorous
+in_sphinx4 183 6 Minorous
+in_sphinx4 175 154 Minorous
+in_sphinx4 228 185 Minorous
+in_sphinx4 53 89 Minorous
+in_sphinx4 47 192 GnuSnipes4
+in_sphinx4 47 195 gururunt
+in_sphinx4 62 188 gururunt
+in_sphinx4 120 166 Pasana
+in_sphinx4 109 166 Pasana
+in_sphinx4 38 202 Minorous
+in_sphinx4 159 159 Pasana
+in_sphinx4 180 37 Minorous
+in_sphinx4 67 96 Minorous
+in_sphinx4 173 58 Minorous
+in_sphinx4 211 121 Minorous
+in_sphinx4 208 194 Minorous
+in_sphinx4 153 231 Anubis
+in_sphinx4 138 226 Pasana
+in_sphinx4 180 132 Anubis
+in_sphinx4 180 132 Anubis
+in_sphinx4 180 132 Anubis
+in_sphinx4 192 135 Pasana
+morocc 143 63 Ragged Man#nd
+morocc 143 63 Ragged Man#nd
+morocc 143 63 Ragged Man#nd
+morocc 143 63 Ragged Man#nd
+prt_in 75 88 Leon Von Frich
+morocc 202 110 Volunteer - Morocc#03
+morocc 159 113 Chief Balrog
+morocc 202 110 Volunteer - Morocc#03
+morocc 202 110 Volunteer - Morocc#03
+morocc 202 110 Volunteer - Morocc#03
+morocc 202 110 Volunteer - Morocc#03
+morocc 202 110 Volunteer - Morocc#03
+morocc 202 110 Volunteer - Morocc#03
+in_sphinx1 155 52 StapoRadio
+in_sphinx1 140 54 CynthiaGardenia
+in_sphinx1 49 136 Matyr
+in_sphinx1 37 132 Drainliar
+in_sphinx1 80 190 Requiem
+in_sphinx2 201 9 Zerom
+in_sphinx2 244 240 Requiem
+in_sphinx2 258 258 Matyr
+in_sphinx3 127 31 Marduk
+in_sphinx3 164 108 Pasana
+in_sphinx3 162 131 Marduk
+in_sphinx3 12 195 gururunt
+in_sphinx3 11 98 gururunt
+in_sphinx3 11 98 gururunt
+in_sphinx3 11 77 Marduk
+in_sphinx3 11 73 Marduk
+in_sphinx3 12 75 GnuSnipes2
+in_sphinx4 150 169 Minorous
+in_sphinx4 163 159 Minorous
+in_sphinx4 151 153 Minorous
+in_sphinx4 139 28 Minorous
+in_sphinx4 178 208 Anubis
+in_sphinx4 182 207 Anubis
+in_sphinx4 129 162 gururunt
+in_sphinx4 138 163 GnuSnipes1
+in_sphinx4 152 162 GnuSnipes5
+in_sphinx4 156 160 GnuSnipes4
+in_sphinx4 157 160 gururunt
+in_sphinx4 157 159 GnuSnipes2
+in_sphinx4 91 164 Minorous
+in_sphinx4 84 185 Acid
+in_sphinx4 70 50 Minorous
+in_sphinx4 58 143 Anubis
+in_sphinx4 87 108 Minorous
+in_sphinx4 87 108 Minorous
+in_sphinx4 87 108 Minorous
+in_sphinx4 87 108 Minorous
+pay_dun02 192 145 Soldier Skeleton
+in_sphinx4 67 35 Anubis
+in_sphinx4 54 154 Anubis
+in_sphinx4 34 175 Minorous
+in_sphinx4 209 137 Pasana
+in_sphinx4 74 228 Pasana
+in_sphinx4 87 226 Minorous
+in_sphinx4 58 72 gururunt
+in_sphinx4 97 66 Minorous
+in_sphinx4 174 54 Minorous
+in_sphinx4 205 93 Minorous
+in_sphinx4 32 49 Minorous
+in_sphinx4 66 158 Minorous
+in_sphinx4 76 189 Minorous
+in_sphinx4 76 136 Pasana
+in_sphinx4 76 106 Minorous
+in_sphinx4 73 95 GnuSnipes3
+in_sphinx4 66 95 GnuSnipes4
+in_sphinx4 57 169 Acid
+in_sphinx4 206 47 Minorous
+in_sphinx4 160 33 Pasana
+in_sphinx4 161 226 Minorous
+in_sphinx4 135 162 Amistr
+in_sphinx4 34 186 Minorous
+in_sphinx4 92 153 Pasana
+in_sphinx4 152 153 Minorous
+in_sphinx4 134 13 Minorous
+in_sphinx4 208 8 Anubis
+in_sphinx4 222 12 Anubis
+in_sphinx4 135 167 GnuSnipes4
+in_sphinx4 140 164 Amistr
+in_sphinx4 210 158 Anubis
+in_sphinx4 164 230 Minorous
+in_sphinx4 194 212 Anubis
+in_sphinx4 87 56 gururunt
+in_sphinx4 102 71 Minorous
+in_sphinx4 102 71 Minorous
+morocc 143 63 Ragged Man#nd
+prontera 155 139 GnuSnipes1
+prontera 156 139 GnuSnipes4
+prontera 159 164 GnuSnipes4
+morocc 143 63 Ragged Man#nd
+morocc 143 63 Ragged Man#nd
+in_sphinx1 134 179 Drainliar
+in_sphinx1 26 206 GnuSnipes3
+in_sphinx1 52 33 Drainliar
+in_sphinx1 47 52 Requiem
+in_sphinx1 87 99 Drainliar
+in_sphinx2 173 120 Zerom
+in_sphinx2 245 124 Requiem
+in_sphinx2 219 66 Requiem
+in_sphinx3 70 50 GnuSnipes5
+in_sphinx3 81 128 StapoRadio
+in_sphinx3 106 81 Sanctuary
+in_sphinx3 12 178 Mimic
+in_sphinx3 11 84 Marduk
+in_sphinx4 157 43 Mimic
+in_sphinx4 207 26 Minorous
+in_sphinx4 47 139 Anubis
+in_sphinx4 58 65 Yufa
+in_sphinx4 151 51 Anubis
+in_sphinx4 195 156 Anubis
+in_sphinx4 207 55 Minorous
+in_sphinx4 164 42 Minorous
+in_sphinx4 211 186 Anubis
+in_sphinx4 209 195 Minorous
+in_sphinx4 174 208 Minorous
+in_sphinx4 165 40 Amistr
+in_sphinx4 111 53 Minorous
+in_sphinx4 188 179 Pasana
+in_sphinx4 188 179 Pasana
+in_sphinx4 188 179 Pasana
+in_sphinx4 188 179 Pasana
+in_sphinx4 181 170 Pasana
+in_sphinx4 135 163 Minorous
+in_sphinx4 136 153 Minorous
+in_sphinx4 136 153 Minorous
+in_sphinx4 136 153 Minorous
+in_sphinx4 25 213 gururunt
+in_sphinx4 11 179 Minorous
+in_sphinx4 12 63 Pasana
+in_sphinx4 159 166 Anubis
+in_sphinx4 200 203 Pasana
+in_sphinx4 207 42 Anubis
+in_sphinx4 86 56 Acid
+in_sphinx4 31 82 Anubis
+in_sphinx4 24 214 gururunt
+in_sphinx4 139 74 StapoRadio
+in_sphinx4 132 73 StapoRadio
+in_sphinx4 133 75 gururunt
+in_sphinx4 187 32 GnuSnipes2
+in_sphinx4 150 26 Minorous
+in_sphinx4 125 76 Pasana
+in_sphinx4 222 202 Pasana
+in_sphinx4 141 71 GnuSnipes3
+in_sphinx4 142 52 GnuSnipes3
+in_sphinx4 192 121 GnuSnipes2
+in_sphinx4 133 81 gururunt
+in_sphinx4 153 97 Minorous
+in_sphinx4 208 58 Anubis
+in_sphinx4 205 32 Minorous
+in_sphinx4 117 100 Minorous
+in_sphinx4 209 183 gururunt
+in_sphinx4 17 185 Pasana
+in_sphinx4 17 185 Pasana
+in_sphinx4 133 79 StapoRadio
+in_sphinx4 133 79 StapoRadio
+in_sphinx4 133 166 GnuSnipes4
+in_sphinx4 145 30 Minorous
+in_sphinx4 156 29 GnuSnipes5
+in_sphinx4 152 29 GnuSnipes1
+in_sphinx4 157 30 GnuSnipes5
+in_sphinx4 206 65 Lolipop
+in_sphinx4 206 62 Lolipop
+in_sphinx4 206 58 Lolipop
+in_sphinx4 206 55 Lolipop
+in_sphinx4 206 52 Lolipop
+in_sphinx4 206 52 Lolipop
+in_sphinx4 206 59 Mimic
+in_sphinx4 206 58 Mimic
+in_sphinx4 206 58 Mimic
+in_sphinx4 206 58 Mimic
+in_sphinx4 205 40 Lolipop
+in_sphinx4 205 40 Lolipop
+in_sphinx4 205 40 Lolipop
+in_sphinx4 205 44 Lolipop
+in_sphinx4 205 40 Lolipop
+in_sphinx4 203 38 Lolipop
+in_sphinx4 205 41 Anubis
+in_sphinx4 206 44 GnuSnipes1
+in_sphinx4 173 139 GnuSnipes4
+in_sphinx4 206 76 GnuSnipes5
+in_sphinx4 84 57 Minorous
+in_sphinx4 78 129 Minorous
+in_sphinx4 76 126 Minorous
+in_sphinx4 72 156 Minorous
+in_sphinx4 126 156 Minorous
+in_sphinx4 123 159 Minorous
+in_sphinx4 123 159 Minorous
+in_sphinx4 162 160 Acid
+in_sphinx4 152 79 Amistr
+in_sphinx4 117 75 Pasana
+in_sphinx4 81 56 Minorous
+in_sphinx4 164 57 gururunt
+in_sphinx4 182 64 GnuSnipes3
+in_sphinx4 180 77 GnuSnipes4
+in_sphinx4 204 89 Minorous
+in_sphinx4 158 32 Yufa
+in_sphinx4 211 127 Anubis
+in_sphinx4 211 127 Anubis
+in_sphinx4 211 127 Anubis
+in_sphinx4 211 123 Anubis
+in_sphinx4 211 123 Anubis
+in_sphinx4 211 124 Anubis
+in_sphinx4 199 93 Anubis
+in_sphinx4 112 39 Pasana
+in_sphinx4 159 156 GnuSnipes5
+in_sphinx4 127 83 Minorous
+in_sphinx4 130 80 Minorous
+in_sphinx4 132 80 Minorous
+in_sphinx4 132 80 Minorous
+in_sphinx4 111 66 Minorous
+in_sphinx4 212 121 GnuSnipes3
+in_sphinx4 121 11 Pasana
+in_sphinx4 96 14 Pasana
+in_sphinx4 97 12 Anubis
+in_sphinx4 191 102 GnuSnipes4
+in_sphinx4 132 163 Minorous
+in_sphinx4 90 38 Pasana
+in_sphinx4 174 180 Minorous
+in_sphinx4 174 180 Minorous
+in_sphinx4 174 180 Minorous
+in_sphinx4 192 108 Amistr
+in_sphinx4 32 197 Lolipop
+in_sphinx4 146 72 Minorous
+in_sphinx1 7 43 Zerom
+in_sphinx1 43 134 Drainliar
+in_sphinx1 138 90 Zerom
+in_sphinx1 15 133 Requiem
+in_sphinx3 178 128 Marduk
+in_sphinx3 108 108 Marduk
+in_sphinx3 198 32 GnuSnipes1
+in_sphinx2 252 244 Requiem
+in_sphinx1 250 48 Drainliar
+in_sphinx2 277 231 Requiem
+in_sphinx2 276 232 Requiem
+in_sphinx2 261 48 Requiem
+in_sphinx2 216 148 Requiem
+in_sphinx2 201 127 Drainliar
+in_sphinx2 201 127 Drainliar
+in_sphinx2 221 211 I am from Thailand
+in_sphinx3 66 35 Marduk
+in_sphinx3 179 132 gururunt
+in_sphinx3 196 115 Marduk
+in_sphinx3 214 146 Marduk
+in_sphinx3 145 217 Marduk
+in_sphinx3 145 217 Marduk
+in_sphinx3 109 218 Marduk
+in_sphinx3 12 76 Marduk
+in_sphinx4 200 209 Minorous
+in_sphinx1 49 199 Requiem
+in_sphinx1 52 124 Requiem
+in_sphinx1 52 124 Requiem
+in_sphinx1 57 159 Zerom
+in_sphinx3 84 26 Marduk
+in_sphinx3 84 26 Marduk
+in_sphinx3 84 26 Marduk
+in_sphinx3 84 26 Marduk
+in_sphinx3 69 43 StapoRadio
+in_sphinx3 203 197 Marduk
+in_sphinx3 203 197 Marduk
+in_sphinx3 203 197 Marduk
+in_sphinx3 205 211 Marduk
+in_sphinx3 14 118 Marduk
+in_sphinx3 14 118 Marduk
+in_sphinx3 14 118 Marduk
+in_sphinx3 14 118 Marduk
+in_sphinx3 14 118 Marduk
+in_sphinx3 11 102 Marduk
+in_sphinx4 173 48 Minorous
+in_sphinx4 207 77 Minorous
+in_sphinx4 206 71 StapoRadio
+in_sphinx3 11 104 Marduk
+in_sphinx3 135 67 Marduk
+in_sphinx3 115 32 Marduk
+in_sphinx3 175 31 StapoRadio
+in_sphinx3 138 73 Mimic
+in_sphinx3 185 106 Mimic
+pay_dun02 83 114 Munak
+in_sphinx4 119 161 Anubis
+in_sphinx4 147 171 Minorous
+in_sphinx4 134 166 Anubis
+in_sphinx4 134 166 Anubis
+in_sphinx4 133 166 Anubis
+in_sphinx4 78 117 Minorous
+in_sphinx4 78 120 Minorous
+in_sphinx4 78 120 Minorous
+in_sphinx4 78 116 Minorous
+in_sphinx4 77 114 Minorous
+in_sphinx4 106 49 Pasana
+in_sphinx4 30 199 Anubis
+in_sphinx4 30 199 Anubis
+in_sphinx4 12 186 Minorous
+in_sphinx4 11 162 Mimic
+in_sphinx3 100 225 Marduk
+in_sphinx1 179 100 Requiem
+in_sphinx3 166 72 Marduk
+in_sphinx3 102 101 Marduk
+in_sphinx3 70 56 gururunt
+in_sphinx3 117 32 GnuSnipes1
+in_sphinx2 218 208 I am from Thailand
+in_sphinx2 283 110 I am from Thailand
+in_sphinx4 56 187 Mimic
+in_sphinx4 138 52 Minorous
+in_sphinx4 206 86 Lolipop
+in_sphinx4 152 151 Pasana
+in_sphinx4 152 151 Pasana
+in_sphinx4 53 149 gururunt
+in_sphinx4 100 181 Minorous
+in_sphinx4 184 162 Minorous
+in_sphinx4 164 158 Minorous
+in_sphinx1 80 203 Matyr
+in_sphinx3 13 117 Marduk
+in_sphinx3 12 118 Marduk
+in_sphinx3 16 187 Marduk
+in_sphinx3 139 132 Marduk
+in_sphinx3 109 105 Marduk
+in_sphinx3 74 128 Marduk
+in_sphinx3 125 29 Marduk
+in_sphinx3 181 32 gururunt
+in_sphinx3 185 32 gururunt
+in_sphinx3 208 45 Marduk
+in_sphinx3 209 44 Marduk
+in_sphinx2 231 277 Requiem
+in_sphinx2 283 237 Drainliar
+in_sphinx2 282 241 Zerom
+in_sphinx2 281 54 Zerom
+in_sphinx2 284 57 Zerom
+in_sphinx2 163 143 GnuSnipes3
+in_sphinx2 243 137 MiTH
+in_sphinx2 264 164 I am from Thailand
+in_sphinx2 243 271 GnuSnipes4
+in_sphinx3 156 31 Marduk
+in_sphinx3 67 229 Marduk
+in_sphinx3 67 229 Marduk
+in_sphinx3 69 229 Marduk
+in_sphinx3 69 229 Marduk
+in_sphinx3 69 229 Marduk
+in_sphinx3 14 205 Marduk
+in_sphinx3 14 205 Marduk
+in_sphinx3 14 205 Marduk
+in_sphinx3 11 131 gururunt
+in_sphinx3 12 72 Marduk
+in_sphinx4 205 204 Minorous
+in_sphinx4 212 147 Pasana
+in_sphinx4 151 191 Minorous
+in_sphinx4 184 122 Anubis
+in_sphinx4 184 122 Anubis
+in_sphinx4 195 48 Pasana
+in_sphinx4 183 166 gururunt
+in_sphinx4 76 48 Lolipop
+in_sphinx4 171 162 Minorous
+in_sphinx4 171 224 Anubis
+in_sphinx4 216 226 Anubis
+in_sphinx3 17 168 Marduk
+in_sphinx3 176 119 Marduk
+in_sphinx3 167 75 Marduk
+in_sphinx2 156 144 Zerom
+in_sphinx2 144 80 Drainliar
+in_sphinx2 218 147 Requiem
+in_sphinx2 218 147 Requiem
+in_sphinx3 194 98 Marduk
+in_sphinx3 155 98 Marduk
+in_sphinx3 155 98 Marduk
+in_sphinx3 24 160 Marduk
+in_sphinx4 82 71 Minorous
+in_sphinx4 55 140 Anubis
+in_sphinx4 86 120 Anubis
+in_sphinx4 143 164 Anubis
+in_sphinx4 195 207 Minorous
+in_sphinx4 195 207 Minorous
+in_sphinx4 192 204 Minorous
+in_sphinx4 192 204 Minorous
+in_sphinx4 155 229 Pasana
+in_sphinx4 223 53 Minorous
+in_sphinx1 183 97 Requiem
+in_sphinx1 7 105 Zerom
+in_sphinx2 204 127 Zerom
+in_sphinx2 263 158 Requiem
+in_sphinx3 73 60 Marduk
+in_sphinx3 88 128 gururunt
+in_sphinx3 87 128 GnuSnipes4
+in_sphinx3 99 126 GnuSnipes5
+in_sphinx3 106 121 GnuSnipes3
+in_sphinx3 105 121 GnuSnipes2
+in_sphinx3 113 88 Marduk
+in_sphinx3 130 80 Marduk
+in_sphinx3 170 134 Marduk
+in_sphinx3 145 226 Marduk
+in_sphinx3 147 227 Marduk
+in_sphinx3 147 227 Marduk
+in_sphinx3 147 227 Marduk
+in_sphinx3 110 226 Matyr
+in_sphinx3 122 227 Marduk
+in_sphinx3 104 114 GnuSnipes3
+in_sphinx3 12 83 Marduk
+in_sphinx4 154 45 Minorous
+in_sphinx4 154 71 Minorous
+in_sphinx4 168 80 GnuSnipes3
+in_sphinx4 155 58 Minorous
+in_sphinx4 199 34 GnuSnipes2
+in_sphinx4 142 182 Minorous
+in_sphinx4 174 32 GnuSnipes5
+in_sphinx4 177 33 gururunt
+in_sphinx4 162 143 Anubis
+in_sphinx4 211 91 Lolipop
+in_sphinx3 177 120 Marduk
+in_sphinx3 166 118 Marduk
+in_sphinx3 135 137 Marduk
+in_sphinx3 205 94 Marduk
+in_sphinx3 69 48 Marduk
+in_sphinx3 71 43 gururunt
+in_sphinx3 60 32 Marduk
+in_sphinx3 209 31 Marduk
+in_sphinx2 208 221 Requiem
+in_sphinx2 217 209 Requiem
+in_sphinx2 280 232 Zerom
+in_sphinx2 266 268 Matyr
+in_sphinx3 76 30 Marduk
+in_sphinx3 193 106 Marduk
+in_sphinx3 193 106 Marduk
+in_sphinx3 198 105 Marduk
+in_sphinx3 230 102 Marduk
+in_sphinx3 189 103 Marduk
+in_sphinx3 134 128 Marduk
+in_sphinx3 134 128 Marduk
+in_sphinx3 134 128 Marduk
+in_sphinx3 132 231 Marduk
+in_sphinx3 132 216 Matyr
+in_sphinx3 132 216 Matyr
+in_sphinx4 76 58 Minorous
+in_sphinx4 81 55 Mimic
+in_sphinx4 81 55 Mimic
+in_sphinx4 79 56 Mimic
+in_sphinx4 76 56 Mimic
+in_sphinx4 132 67 Minorous
+in_sphinx4 141 57 Minorous
+in_sphinx4 193 63 Minorous
+in_sphinx5 145 116 Pasana
+in_sphinx5 70 53 Side Winder
+in_sphinx5 70 41 Side Winder
+in_sphinx5 75 53 Side Winder
+in_sphinx4 87 55 Yufa
+in_sphinx5 64 81 Matyr
+in_sphinx5 75 52 Side Winder
+in_sphinx1 14 112 Zerom
+in_sphinx5 40 79 Side Winder
+in_sphinx5 71 37 Mimic
+in_sphinx5 70 42 Side Winder
+in_sphinx3 132 228 Marduk
+in_sphinx3 134 214 Marduk
+in_sphinx5 52 80 Matyr
+in_sphinx5 40 78 Pasana
+in_sphinx3 119 69 Marduk
+in_sphinx3 115 71 Marduk
+in_sphinx3 112 81 Marduk
+in_sphinx5 67 79 Pasana
+in_sphinx5 66 79 Marduk
+in_sphinx3 102 96 Marduk
+in_sphinx5 67 81 Pasana
+in_sphinx3 102 122 Marduk
+in_sphinx5 41 81 Pasana
+in_sphinx3 79 129 Matyr
+in_sphinx3 72 126 Marduk
+in_sphinx5 68 81 Marduk
+in_sphinx5 65 81 Marduk
+in_sphinx5 43 78 Pasana
+in_sphinx5 73 44 Pasana
+in_sphinx5 68 79 Marduk
+in_sphinx5 40 84 Matyr
+in_sphinx5 64 80 Marduk
+in_sphinx5 66 80 Pasana
+in_sphinx5 71 29 Pasana
+in_sphinx5 72 28 Pasana
+in_sphinx4 131 55 Minorous
+in_sphinx5 48 83 Side Winder
+in_sphinx5 40 81 Matyr
+in_sphinx4 75 51 Minorous
+in_sphinx1 185 102 Drainliar
+in_sphinx1 174 98 Drainliar
+in_sphinx3 224 139 Marduk
+in_sphinx3 131 30 Marduk
+in_sphinx2 203 251 gururunt
+in_sphinx2 255 241 Requiem
+in_sphinx2 247 279 Requiem
+in_sphinx3 71 35 Marduk
+in_sphinx3 171 78 Marduk
+in_sphinx3 12 84 Marduk
+in_sphinx4 83 82 Pasana
+in_sphinx4 51 168 Pasana
+in_sphinx3 133 119 gururunt
+in_sphinx3 82 129 Marduk
+in_sphinx3 80 33 gururunt
+in_sphinx2 247 227 GnuSnipes5
+in_sphinx2 218 243 gururunt
+in_sphinx2 216 244 StapoRadio
+in_sphinx3 115 37 GnuSnipes2
+in_sphinx3 74 34 Mimic
+in_sphinx3 223 96 GnuSnipes4
+in_sphinx3 176 226 Marduk
+in_sphinx3 167 218 Marduk
+in_sphinx3 105 228 GnuSnipes4
+in_sphinx3 70 228 Matyr
+in_sphinx3 10 88 Marduk
+in_sphinx4 34 166 Minorous
+in_sphinx4 34 166 Minorous
+in_sphinx4 34 166 Minorous
+in_sphinx4 34 166 Minorous
+in_sphinx4 34 166 Minorous
+in_sphinx4 73 148 Minorous
+in_sphinx4 180 228 GnuSnipes1
+in_sphinx4 166 33 Acid
+in_sphinx4 162 80 Anubis
+in_sphinx4 167 35 Pasana
+in_sphinx4 60 173 Anubis
+in_sphinx4 68 68 Minorous
+in_sphinx4 74 123 gururunt
+in_sphinx4 186 227 GnuSnipes1
+in_sphinx4 87 178 GnuSnipes3
+in_sphinx4 98 167 GnuSnipes5
+in_sphinx4 106 167 GnuSnipes2
+in_sphinx4 185 160 GnuSnipes2
+in_sphinx4 186 205 GnuSnipes5
+in_sphinx4 191 206 GnuSnipes4
+in_sphinx4 190 206 GnuSnipes3
+in_sphinx4 156 78 GnuSnipes1
+in_sphinx4 211 176 Minorous
+in_sphinx4 157 152 GnuSnipes1
+in_sphinx4 152 148 Minorous
+in_sphinx4 152 148 Minorous
+in_sphinx4 209 110 Minorous
+in_sphinx4 146 162 GnuSnipes1
+in_sphinx4 190 205 GnuSnipes1
+in_sphinx4 43 211 Pasana
+in_sphinx4 38 134 Minorous
+in_sphinx4 45 167 Amistr
+in_sphinx4 41 166 Amistr
+in_sphinx4 41 166 Amistr
+in_sphinx4 39 167 Amistr
+in_sphinx4 227 167 Pasana
+in_sphinx4 193 229 Minorous
+in_sphinx4 62 181 GnuSnipes2
+in_sphinx4 185 160 Yufa
+in_sphinx4 141 153 Minorous
+in_sphinx4 187 228 Amistr
+in_sphinx4 158 222 Minorous
+in_sphinx4 127 76 Pasana
+in_sphinx4 189 126 Anubis
+in_sphinx4 206 61 GnuSnipes1
+in_sphinx4 195 38 Minorous
+in_sphinx4 112 191 GnuSnipes3
+in_sphinx4 117 197 Lolipop
+in_sphinx4 179 170 Amistr
+in_sphinx4 211 86 Amistr
+in_sphinx4 59 52 Minorous
+in_sphinx4 178 59 Anubis
+in_sphinx4 178 59 Anubis
+in_sphinx4 178 59 Anubis
+in_sphinx4 178 59 Anubis
+in_sphinx4 154 183 gururunt
+in_sphinx4 61 179 GnuSnipes1
+in_sphinx1 269 47 Zerom
+in_sphinx1 11 116 Drainliar
+in_sphinx1 129 15 Drainliar
+in_sphinx1 129 15 Drainliar
+in_sphinx2 167 154 Zerom
+in_sphinx2 237 242 Zerom
+in_sphinx2 239 271 Requiem
+in_sphinx2 265 274 Zerom
+in_sphinx3 111 73 GnuSnipes5
+in_sphinx3 105 78 Marduk
+in_sphinx3 114 73 GnuSnipes4
+in_sphinx3 151 112 Marduk
+in_sphinx3 146 114 Marduk
+in_sphinx3 178 139 Marduk
+in_sphinx3 211 174 Marduk
+in_sphinx3 20 171 Marduk
+in_sphinx3 9 165 Marduk
+in_sphinx3 10 172 Marduk
+in_sphinx3 12 92 Matyr
+in_sphinx3 7 81 Marduk
+in_sphinx4 212 112 Minorous
+in_sphinx4 156 13 gururunt
+in_sphinx4 158 12 GnuSnipes3
+in_sphinx4 163 57 Minorous
+in_sphinx4 54 107 Minorous
+in_sphinx4 33 81 Anubis
+in_sphinx4 178 33 Acid
+in_sphinx4 175 30 Amistr
+in_sphinx4 76 17 Pasana
+in_sphinx4 113 80 Minorous
+in_sphinx4 92 79 Minorous
+in_sphinx4 182 68 Minorous
+in_sphinx4 153 10 Anubis
+in_sphinx4 126 9 Minorous
+in_sphinx4 88 153 Anubis
+in_sphinx4 156 75 Minorous
+in_sphinx4 85 55 GnuSnipes2
+in_sphinx4 171 58 Amistr
+in_sphinx4 160 57 Acid
+in_sphinx4 199 37 Minorous
+in_sphinx4 199 37 Minorous
+in_sphinx4 196 34 Minorous
+in_sphinx4 196 34 Minorous
+in_sphinx4 196 34 Minorous
+in_sphinx4 48 91 Anubis
+in_sphinx4 63 143 Minorous
+in_sphinx4 100 56 gururunt
+in_sphinx4 55 82 GnuSnipes4
+in_sphinx4 186 156 GnuSnipes2
+in_sphinx4 54 80 GnuSnipes3
+in_sphinx4 215 22 Pasana
+in_sphinx4 205 53 Pasana
+in_sphinx4 86 148 Pasana
+in_sphinx4 86 148 Pasana
+in_sphinx4 86 148 Pasana
+in_sphinx4 86 148 Pasana
+in_sphinx4 66 56 Anubis
+in_sphinx4 86 150 Pasana
+in_sphinx4 190 102 Minorous
+in_sphinx4 186 111 Minorous
+in_sphinx4 196 189 Minorous
+in_sphinx4 140 208 Pasana
+in_sphinx4 126 170 GnuSnipes4
+in_sphinx4 164 158 GnuSnipes4
+in_sphinx4 176 139 Anubis
+in_sphinx4 170 141 GnuSnipes3
+in_sphinx4 197 61 Minorous
+in_sphinx4 68 57 GnuSnipes1
+in_sphinx4 59 67 GnuSnipes5
+in_sphinx4 61 90 Minorous
+in_sphinx4 71 95 GnuSnipes5
+in_sphinx4 86 120 Anubis
+in_sphinx4 76 131 Anubis
+in_sphinx4 9 173 Acid
+in_sphinx4 43 167 Acid
+in_sphinx4 34 85 Minorous
+in_sphinx4 45 123 gururunt
+in_sphinx4 49 141 StapoRadio
+in_sphinx4 83 179 Acid
+in_sphinx4 51 175 Acid
+in_sphinx4 163 179 Minorous
+in_sphinx4 143 179 Pasana
+in_sphinx4 173 205 Anubis
+in_sphinx4 206 172 Anubis
+in_sphinx4 207 171 Anubis
+in_sphinx4 207 171 Anubis
+in_sphinx4 80 34 Minorous
+in_sphinx4 157 161 GnuSnipes3
+in_sphinx4 208 199 Minorous
+in_sphinx4 208 196 Minorous
+in_sphinx4 53 165 GnuSnipes2
+in_sphinx4 88 177 GnuSnipes5
+in_sphinx4 104 44 Pasana
+in_sphinx4 92 66 Anubis
+in_sphinx4 69 69 Anubis
+in_sphinx4 83 161 Minorous
+in_sphinx4 100 48 Minorous
+in_sphinx4 91 68 Pasana
+in_sphinx4 222 17 Minorous
+in_sphinx4 222 17 Minorous
+in_sphinx4 227 29 StapoRadio
+in_sphinx4 204 94 Amistr
+in_sphinx4 206 89 Amistr
+in_sphinx4 28 210 Minorous
+in_sphinx4 189 13 gururunt
+in_sphinx4 47 126 Minorous
+in_sphinx4 100 66 Minorous
+in_sphinx4 143 185 Pasana
+in_sphinx4 125 51 StapoRadio
+in_sphinx4 38 78 Minorous
+in_sphinx4 129 79 Anubis
+in_sphinx4 104 103 Minorous
+in_sphinx4 166 85 Minorous
+in_sphinx4 157 78 Minorous
+in_sphinx4 181 76 Pasana
+in_sphinx4 10 148 Minorous
+in_sphinx4 86 142 Minorous
+in_sphinx4 17 211 gururunt
+in_sphinx3 11 134 Marduk
+in_sphinx3 19 146 Marduk
+in_sphinx3 17 146 Mimic
+in_sphinx3 19 172 Marduk
+in_sphinx3 12 165 Marduk
+in_sphinx1 161 45 Drainliar
+in_sphinx3 137 230 Marduk
+in_sphinx3 175 227 Matyr
+in_sphinx3 172 217 Marduk
+in_sphinx1 13 128 Drainliar
+in_sphinx1 13 138 Zerom
+in_sphinx1 137 16 Drainliar
+in_sphinx1 20 154 Requiem
+in_sphinx3 183 108 Marduk
+in_sphinx3 203 37 Marduk
+in_sphinx2 266 231 gururunt
+in_sphinx2 258 231 GnuSnipes4
+in_sphinx2 226 231 Drainliar
+in_sphinx2 270 268 Requiem
+in_sphinx3 167 97 Mimic
+in_sphinx3 202 211 Matyr
+in_sphinx3 14 84 Matyr
+in_sphinx4 146 50 Pasana
+in_sphinx4 208 64 Anubis
+in_sphinx4 210 62 Anubis
+in_sphinx4 187 83 GnuSnipes4
+in_sphinx4 210 74 Pasana
+in_sphinx4 202 156 Pasana
+in_sphinx4 202 156 Pasana
+in_sphinx4 202 156 Pasana
+in_sphinx4 119 13 Minorous
+in_sphinx4 199 37 Defendless
+in_sphinx1 121 159 Drainliar
+in_sphinx1 25 138 Zerom
+in_sphinx2 214 76 K I K I
+in_sphinx2 275 255 Drainliar
+in_sphinx3 130 32 Sanctuary
+in_sphinx3 112 29 Sanctuary
+in_sphinx3 112 29 Sanctuary
+in_sphinx3 11 139 Marduk
+in_sphinx4 206 154 Pasana
+in_sphinx4 115 52 Anubis
+in_sphinx4 126 12 Anubis
+in_sphinx4 67 84 Anubis
+in_sphinx4 148 153 Pasana
+in_sphinx4 152 136 Pasana
+in_sphinx4 167 226 Anubis
+in_sphinx4 176 30 Anubis
+in_sphinx4 205 37 Minorous
+in_sphinx4 153 32 Pasana
+in_sphinx4 211 118 Minorous
+in_sphinx4 148 153 Pasana
+in_sphinx4 203 155 Minorous
+in_sphinx4 152 206 Anubis
+in_sphinx4 152 206 Anubis
+in_sphinx4 152 206 Anubis
+in_sphinx4 181 175 Anubis
+in_sphinx4 101 166 Minorous
+in_sphinx4 207 44 Minorous
+in_sphinx4 172 80 Minorous
+in_sphinx4 183 37 Pasana
+in_sphinx4 179 34 Pasana
+in_sphinx4 179 34 Pasana
+in_sphinx4 177 32 Pasana
+in_sphinx4 211 42 GnuSnipes1
+in_sphinx4 201 104 Minorous
+in_sphinx4 201 104 Minorous
+in_sphinx4 201 104 Minorous
+in_sphinx4 201 104 Minorous
+in_sphinx4 201 104 Minorous
+in_sphinx4 201 104 Minorous
+in_sphinx4 211 105 Acid
+in_sphinx4 155 76 Minorous
+in_sphinx4 151 30 Anubis
+in_sphinx4 146 192 Anubis
+in_sphinx4 202 29 Minorous
+in_sphinx4 161 167 Minorous
+in_sphinx4 135 13 GnuSnipes3
+in_sphinx4 177 53 GnuSnipes1
+in_sphinx4 130 11 Minorous
+in_sphinx4 176 58 Minorous
+in_sphinx4 202 166 Minorous
+in_sphinx4 131 69 Minorous
+in_sphinx4 179 205 Yufa
+in_sphinx4 167 155 StapoRadio
+in_sphinx4 47 126 Minorous
+in_sphinx4 47 126 Minorous
+in_sphinx4 47 126 Minorous
+in_sphinx4 167 155 StapoRadio
+in_sphinx4 63 191 GnuSnipes4
+in_sphinx4 142 162 GnuSnipes4
+in_sphinx4 140 112 Minorous
+in_sphinx4 124 162 GnuSnipes1
+in_sphinx4 58 82 Minorous
+in_sphinx4 37 75 Minorous
+in_sphinx4 57 190 Pasana
+in_sphinx4 201 74 Minorous
+in_sphinx4 204 77 Minorous
+in_sphinx4 204 77 Minorous
+in_sphinx4 204 77 Minorous
+in_sphinx4 70 127 Minorous
+in_sphinx4 167 155 StapoRadio
+in_sphinx4 167 155 StapoRadio
+in_sphinx4 204 52 Minorous
+in_sphinx4 172 56 GnuSnipes2
+in_sphinx3 7 97 Marduk
+in_sphinx3 11 109 Marduk
+in_sphinx3 12 176 Marduk
+in_sphinx1 171 99 Requiem
+in_sphinx1 246 40 Drainliar
+in_sphinx1 165 97 Requiem
+in_sphinx3 191 120 Marduk
+in_sphinx3 100 34 Marduk
+in_sphinx2 216 216 RAGNAROK
+in_sphinx2 278 113 GnuSnipes2
+in_sphinx2 250 259 Drainliar
+in_sphinx2 242 253 Zerom
+in_sphinx3 145 76 Marduk
+in_sphinx3 193 200 Mimic
+in_sphinx4 141 153 Minorous
+in_sphinx4 141 153 Minorous
+in_sphinx4 159 160 Pasana
+in_sphinx4 187 143 Minorous
+in_sphinx4 161 48 Anubis
+in_sphinx4 78 47 Anubis
+in_sphinx4 78 47 Anubis
+in_sphinx4 78 47 Anubis
+in_sphinx4 78 47 Anubis
+in_sphinx4 77 70 Minorous
+in_sphinx4 57 72 GnuSnipes3
+in_sphinx4 36 42 Minorous
+in_sphinx4 37 38 Minorous
+in_sphinx4 44 203 Pasana
+in_sphinx4 161 37 GnuSnipes1
+in_sphinx4 159 41 GnuSnipes5
+in_sphinx4 58 49 Minorous
+in_sphinx4 77 121 Anubis
+in_sphinx4 73 127 GnuSnipes1
+in_sphinx4 65 96 Anubis
+in_sphinx4 34 176 GnuSnipes5
+in_sphinx4 144 29 GnuSnipes3
+in_sphinx4 202 38 Pasana
+in_sphinx4 167 183 Minorous
+in_sphinx4 157 78 Minorous
+in_sphinx4 140 227 Minorous
+in_sphinx4 125 232 Minorous
+in_sphinx4 124 163 Minorous
+in_sphinx4 203 31 Anubis
+in_sphinx4 197 34 Minorous
+in_sphinx4 155 80 Anubis
+in_sphinx4 188 138 Minorous
+in_sphinx4 168 81 Minorous
+in_sphinx4 62 97 Minorous
+in_sphinx4 60 95 Minorous
+in_sphinx4 51 80 Minorous
+in_sphinx4 183 170 GnuSnipes5
+in_sphinx4 184 171 GnuSnipes1
+in_sphinx4 184 169 GnuSnipes3
+in_sphinx4 35 161 Anubis
+in_sphinx4 39 165 Anubis
+in_sphinx4 39 165 Anubis
+in_sphinx4 39 165 Anubis
+in_sphinx1 154 74 Requiem
+in_sphinx1 60 200 Drainliar
+in_sphinx1 18 211 Drainliar
+in_sphinx1 14 92 Drainliar
+in_sphinx2 240 117 I am from Thailand
+in_sphinx2 266 245 Requiem
+in_sphinx2 241 250 Matyr
+in_sphinx2 239 258 Zerom
+in_sphinx3 139 32 GnuSnipes3
+in_sphinx3 138 32 GnuSnipes4
+in_sphinx3 135 72 Marduk
+in_sphinx3 131 73 Marduk
+in_sphinx3 160 144 Marduk
+in_sphinx3 15 196 Marduk
+in_sphinx3 11 149 Marduk
+in_sphinx4 36 177 Anubis
+in_sphinx4 136 162 gururunt
+in_sphinx4 150 152 Anubis
+in_sphinx4 156 161 StapoRadio
+in_sphinx4 196 101 Minorous
+in_sphinx4 196 101 Minorous
+in_sphinx4 162 202 Minorous
+in_sphinx4 209 67 StapoRadio
+in_sphinx4 200 12 Minorous
+in_sphinx4 100 167 Minorous
+in_sphinx4 79 132 Minorous
+in_sphinx4 79 132 Minorous
+in_sphinx4 79 132 Minorous
+in_sphinx4 100 48 Yufa
+in_sphinx4 156 50 Acid
+in_sphinx4 157 51 Acid
+in_sphinx4 157 51 Acid
+in_sphinx4 157 51 Acid
+in_sphinx4 82 69 Minorous
+in_sphinx4 54 170 Pasana
+in_sphinx4 148 180 Minorous
+in_sphinx4 136 163 GnuSnipes3
+in_sphinx4 134 137 Pasana
+in_sphinx4 209 45 gururunt
+in_sphinx4 117 167 Anubis
+in_sphinx4 160 56 Pasana
+in_sphinx4 172 59 GnuSnipes1
+in_sphinx4 172 58 GnuSnipes3
+in_sphinx4 167 58 gururunt
+in_sphinx4 159 123 Minorous
+in_sphinx4 60 77 Minorous
+in_sphinx4 160 42 Acid
+in_sphinx4 160 42 Acid
+in_sphinx4 160 42 Acid
+in_sphinx4 43 117 Minorous
+in_sphinx4 88 209 Minorous
+in_sphinx4 214 122 Minorous
+in_sphinx4 157 196 Minorous
+in_sphinx4 87 169 GnuSnipes2
+in_sphinx4 29 83 Pasana
+in_sphinx4 102 48 Yufa
+in_sphinx4 79 114 Pasana
+in_sphinx4 127 162 Acid
+in_sphinx4 210 28 Anubis
+in_sphinx4 215 152 GnuSnipes5
+prontera 188 218 GnuSnipes1
+geffen 91 36 Rogue Guild Agent#nd1
+geffen 91 36 Rogue Guild Agent#nd1
+geffen 91 36 Rogue Guild Agent#nd1
+geffen 91 36 Rogue Guild Agent#nd1
+geffen 91 36 Rogue Guild Agent#nd1
+geffen 91 36 Rogue Guild Agent#nd1
+gef_fild07 226 184 Chonchon
+gef_fild07 206 190 Creamy
+gef_fild07 63 205 Fabre
+glast_01 369 308 Bulletin Board#28
+glast_01 369 308 Bulletin Board#28
+glast_01 369 308 Bulletin Board#28
+glast_01 369 308 Bulletin Board#28
+glast_01 369 308 Bulletin Board#28
+glast_01 369 308 Bulletin Board#28
+glast_01 369 308 Bulletin Board#28
+gl_cas02 32 185 Wanderer
+gl_cas02 170 165 Raydric
+gl_cas02 172 172 Khalitzburg
+geffen 102 47 GnuSnipes4
+geffen 91 36 Rogue Guild Agent#nd1
+geffen 103 46 GnuSnipes1
+gef_fild07 185 178 Creamy
+glast_01 318 109 Gargoyle
+glast_01 318 109 Gargoyle
+glast_01 318 109 Gargoyle
+glast_01 318 109 Gargoyle
+prontera 168 151 GnuSnipes2
+in_sphinx1 157 78 Requiem
+in_sphinx1 156 77 Requiem
+in_sphinx1 156 77 Requiem
+in_sphinx1 156 77 Requiem
+in_sphinx1 47 210 Requiem
+in_sphinx1 123 12 GnuSnipes1
+in_sphinx2 201 123 Requiem
+in_sphinx2 261 282 Requiem
+in_sphinx3 159 33 Marduk
+in_sphinx3 93 32 Pasana
+in_sphinx3 64 64 Marduk
+in_sphinx3 69 72 Mimic
+in_sphinx3 166 132 Marduk
+in_sphinx3 166 132 Marduk
+in_sphinx3 166 132 Marduk
+in_sphinx3 166 132 Marduk
+in_sphinx3 166 132 Marduk
+in_sphinx3 219 134 Marduk
+in_sphinx3 14 197 Marduk
+in_sphinx4 210 195 gururunt
+in_sphinx4 140 227 Minorous
+in_sphinx4 180 34 Minorous
+in_sphinx4 180 34 Minorous
+in_sphinx4 180 34 Minorous
+in_sphinx4 84 56 Anubis
+in_sphinx4 41 147 Minorous
+in_sphinx4 76 149 Minorous
+in_sphinx4 51 99 Anubis
+in_sphinx4 169 190 GnuSnipes1
+in_sphinx4 87 125 Mimic
+in_sphinx4 45 140 Anubis
+in_sphinx4 72 102 Amistr
+in_sphinx4 163 66 Minorous
+in_sphinx4 203 92 Minorous
+in_sphinx4 177 73 Minorous
+in_sphinx4 152 88 Pasana
+in_sphinx4 113 136 Minorous
+in_sphinx4 109 135 Minorous
+in_sphinx4 109 135 Minorous
+in_sphinx4 109 135 Minorous
+in_sphinx4 109 135 Minorous
+in_sphinx4 137 126 Minorous
+in_sphinx4 123 46 Minorous
+in_sphinx4 98 57 Acid
+in_sphinx4 65 95 Minorous
+in_sphinx4 127 163 GnuSnipes4
+in_sphinx4 143 152 Minorous
+in_sphinx4 128 162 GnuSnipes2
+in_sphinx4 128 163 GnuSnipes4
+in_sphinx4 145 152 Minorous
+in_sphinx4 129 163 GnuSnipes1
+in_sphinx4 226 79 Anubis
+in_sphinx4 131 162 GnuSnipes5
+in_sphinx4 211 74 GnuSnipes5
+in_sphinx4 211 78 GnuSnipes2
+in_sphinx4 179 82 Pasana
+in_sphinx4 101 124 Amistr
+in_sphinx4 205 73 Anubis
+in_sphinx4 181 108 Minorous
+in_sphinx4 181 110 Minorous
+in_sphinx4 181 110 Minorous
+in_sphinx4 181 110 Minorous
+in_sphinx4 183 10 Pasana
+in_sphinx4 31 185 Minorous
+in_sphinx4 83 66 Pasana
+in_sphinx4 39 208 Minorous
+in_sphinx4 135 158 Pasana
+in_sphinx4 204 205 Pasana
+in_sphinx4 210 208 Minorous
+in_sphinx4 144 190 Minorous
+in_sphinx4 179 128 Acid
+in_sphinx4 109 57 Acid
+in_sphinx4 151 12 Minorous
+in_sphinx4 144 188 Minorous
+in_sphinx4 99 205 Minorous
+in_sphinx4 122 165 GnuSnipes2
+in_sphinx4 171 155 gururunt
+in_sphinx4 80 161 Minorous
+in_sphinx4 90 161 GnuSnipes2
+in_sphinx4 78 128 Minorous
+in_sphinx4 25 85 Minorous
+in_sphinx4 61 66 Pasana
+in_sphinx4 61 66 Pasana
+in_sphinx4 61 66 Pasana
+in_sphinx4 61 66 Pasana
+in_sphinx4 61 66 Pasana
+in_sphinx4 66 78 Minorous
+in_sphinx4 139 121 Anubis
+in_sphinx4 205 30 Amistr
+in_sphinx4 70 81 Pasana
+in_sphinx4 70 81 Pasana
+in_sphinx4 70 81 Pasana
+in_sphinx4 68 129 Minorous
+in_sphinx4 133 76 Anubis
+in_sphinx4 73 107 Amistr
+in_sphinx4 29 94 Anubis
+in_sphinx4 42 156 Minorous
+in_sphinx4 145 56 Minorous
+in_sphinx4 178 83 Minorous
+in_sphinx4 133 52 GnuSnipes3
+in_sphinx4 102 160 Amistr
+in_sphinx4 100 159 Amistr
+in_sphinx4 99 160 Amistr
+in_sphinx4 102 58 Minorous
+in_sphinx4 161 58 Acid
+in_sphinx4 206 48 gururunt
+in_sphinx4 129 83 Minorous
+in_sphinx4 138 78 Minorous
+in_sphinx4 138 78 Minorous
+in_sphinx4 138 78 Minorous
+in_sphinx4 130 78 Minorous
+in_sphinx4 129 78 Minorous
+in_sphinx4 17 228 Minorous
+in_sphinx4 23 228 Minorous
+in_sphinx4 205 204 Minorous
+in_sphinx4 192 94 Pasana
+in_sphinx4 162 36 Minorous
+in_sphinx4 161 43 Minorous
+in_sphinx4 47 62 Anubis
+in_sphinx4 34 78 Minorous
+in_sphinx4 30 88 Anubis
+in_sphinx4 89 153 Minorous
+in_sphinx4 89 153 Minorous
+in_sphinx4 114 58 Pasana
+in_sphinx4 78 54 Anubis
+in_sphinx4 59 175 Pasana
+in_sphinx4 60 170 Minorous
+in_sphinx4 148 162 Lolipop
+in_sphinx4 65 185 Anubis
+in_sphinx3 12 120 Matyr
+in_sphinx3 133 101 Marduk
+in_sphinx3 160 109 Marduk
+in_sphinx3 100 67 Marduk
+in_sphinx3 94 126 Marduk
+in_sphinx1 58 214 Drainliar
+in_sphinx3 80 129 Marduk
+in_sphinx1 11 167 Requiem
+in_sphinx3 102 33 Pasana
+in_sphinx1 157 49 Zerom
+in_sphinx1 221 35 Drainliar
+in_sphinx3 145 32 Marduk
+in_sphinx3 176 33 Marduk
+in_sphinx3 166 32 Marduk
+in_sphinx3 180 33 Marduk
+in_sphinx3 191 27 Marduk
+prontera 154 91 GnuSnipes5
+in_sphinx1 178 80 Requiem
+in_sphinx1 152 133 GnuSnipes1
+in_sphinx1 151 133 GnuSnipes3
+in_sphinx1 119 88 DrakenZ Soldier I
+in_sphinx1 115 186 GnuSnipes3
+in_sphinx2 267 276 Zerom
+in_sphinx3 115 105 Marduk
+in_sphinx3 77 227 Sanctuary
+in_sphinx3 10 176 Matyr
+in_sphinx3 12 133 gururunt
+in_sphinx4 9 176 gururunt
+in_sphinx4 12 116 Yufa
+in_sphinx4 36 173 Minorous
+in_sphinx4 69 100 Minorous
+in_sphinx4 35 72 Minorous
+in_sphinx4 136 48 Acid
+in_sphinx4 98 34 GnuSnipes4
+in_sphinx4 111 31 GnuSnipes2
+in_sphinx4 125 30 GnuSnipes3
+in_sphinx4 131 30 GnuSnipes5
+in_sphinx4 141 30 GnuSnipes1
+in_sphinx4 197 97 GnuSnipes3
+in_sphinx4 206 90 GnuSnipes4
+in_sphinx4 164 13 Minorous
+in_sphinx4 181 10 GnuSnipes1
+in_sphinx4 37 60 Minorous
+in_sphinx4 37 60 Minorous
+in_sphinx4 186 227 Minorous
+in_sphinx4 192 101 GnuSnipes1
+in_sphinx4 167 206 Lolipop
+in_sphinx4 169 206 Lolipop
+in_sphinx4 209 196 Yufa
+in_sphinx4 200 142 Minorous
+in_sphinx4 209 31 Minorous
+in_sphinx4 198 36 GnuSnipes2
+in_sphinx4 194 31 GnuSnipes4
+in_sphinx4 193 34 GnuSnipes5
+in_sphinx4 11 142 gururunt
+in_sphinx4 71 58 Minorous
+in_sphinx4 210 139 Anubis
+in_sphinx4 177 206 Minorous
+in_sphinx4 128 49 Acid
+in_sphinx4 178 209 Lolipop
+in_sphinx4 177 230 Minorous
+in_sphinx4 178 229 Minorous
+in_sphinx4 174 11 Minorous
+in_sphinx4 207 93 GnuSnipes2
+in_sphinx4 100 11 GnuSnipes5
+in_sphinx4 189 49 Pasana
+in_sphinx4 189 49 Pasana
+in_sphinx4 89 69 Pasana
+in_sphinx4 89 69 Pasana
+in_sphinx4 89 69 Pasana
+in_sphinx4 64 182 Lolipop
+in_sphinx4 77 122 Amistr
+in_sphinx4 99 11 GnuSnipes3
+in_sphinx4 147 162 Minorous
+in_sphinx4 180 179 Minorous
+in_sphinx4 170 46 Acid
+in_sphinx4 169 46 Acid
+in_sphinx4 172 48 Amistr
+in_sphinx4 208 36 Amistr
+in_sphinx4 179 30 Acid
+in_sphinx4 208 36 Amistr
+in_sphinx4 30 97 Minorous
+in_sphinx4 210 111 Minorous
+in_sphinx4 229 228 Anubis
+in_sphinx4 229 228 Anubis
+in_sphinx4 229 228 Anubis
+in_sphinx4 229 228 Anubis
+in_sphinx4 224 223 Anubis
+in_sphinx4 188 101 Anubis
+in_sphinx4 44 96 Anubis
+in_sphinx4 159 13 Anubis
+in_sphinx4 182 131 Yufa
+in_sphinx4 105 171 Anubis
+in_sphinx4 60 92 GnuSnipes4
+in_sphinx4 61 92 GnuSnipes3
+in_sphinx4 113 57 Acid
+in_sphinx4 87 57 Defendless
+in_sphinx4 109 25 Minorous
+in_sphinx4 64 96 gururunt
+in_sphinx4 74 54 GnuSnipes1
+in_sphinx4 151 80 Minorous
+in_sphinx4 63 62 Pasana
+in_sphinx4 182 130 Yufa
+in_sphinx4 63 159 Minorous
+in_sphinx4 11 180 Minorous
+in_sphinx4 90 171 Minorous
+in_sphinx4 90 171 Minorous
+in_sphinx4 90 171 Minorous
+in_sphinx4 90 171 Minorous
+in_sphinx4 56 168 GnuSnipes2
+in_sphinx4 188 71 Minorous
+in_sphinx4 209 24 Acid
+in_sphinx4 169 81 Pasana
+in_sphinx4 169 81 Pasana
+in_sphinx4 160 79 Pasana
+in_sphinx4 160 79 Pasana
+in_sphinx4 160 79 Pasana
+in_sphinx4 189 51 Acid
+in_sphinx4 86 138 Minorous
+in_sphinx4 167 178 Anubis
+in_sphinx4 167 178 Anubis
+in_sphinx4 180 175 Anubis
+in_sphinx4 65 47 Minorous
+in_sphinx4 65 47 Minorous
+in_sphinx4 68 50 Minorous
+in_sphinx4 72 125 GnuSnipes3
+in_sphinx4 35 171 GnuSnipes5
+in_sphinx4 62 175 GnuSnipes4
+in_sphinx4 91 153 Minorous
+in_sphinx4 119 190 GnuSnipes5
+in_sphinx4 33 187 gururunt
+in_sphinx4 209 187 Minorous
+in_sphinx4 188 10 Minorous
+in_sphinx4 165 182 GnuSnipes5
+in_sphinx4 61 201 Minorous
+in_sphinx4 205 60 Minorous
+in_sphinx4 205 60 Minorous
+in_sphinx4 205 60 Minorous
+in_sphinx4 89 61 Pasana
+in_sphinx4 98 51 Minorous
+in_sphinx4 87 46 Pasana
+in_sphinx4 135 47 Pasana
+in_sphinx4 159 210 Minorous
+in_sphinx4 185 227 Anubis
+in_sphinx4 109 57 Amistr
+in_sphinx4 129 57 Acid
+in_sphinx4 110 57 gururunt
+in_sphinx4 122 59 GnuSnipes2
+in_sphinx4 120 57 gururunt
+in_sphinx4 119 57 GnuSnipes1
+in_sphinx4 178 33 GnuSnipes3
+in_sphinx4 195 59 Anubis
+in_sphinx4 170 154 Amistr
+in_sphinx4 186 123 Amistr
+in_sphinx4 63 174 Pasana
+in_sphinx4 159 194 gururunt
+in_sphinx4 38 63 Pasana
+in_sphinx4 32 63 Pasana
+in_sphinx1 140 138 Drainliar
+in_sphinx3 113 108 Marduk
+in_sphinx3 67 118 Pasana
+in_sphinx3 70 117 gururunt
+in_sphinx3 66 36 Marduk
+in_sphinx1 21 85 Drainliar
+in_sphinx2 215 252 Requiem
+in_sphinx2 212 56 Valdur
+in_sphinx2 161 110 Requiem
+in_sphinx1 115 65 Requiem
+in_sphinx2 220 194 Zerom
+in_sphinx2 231 276 Zerom
+in_sphinx3 175 30 Marduk
+in_sphinx3 17 225 Pasana
+in_sphinx3 20 227 Pasana
+in_sphinx3 212 175 Marduk
+in_sphinx3 212 175 Marduk
+in_sphinx3 127 221 Marduk
+in_sphinx3 14 103 Marduk
+in_sphinx3 15 74 Matyr
+in_sphinx4 184 112 Anubis
+in_sphinx4 194 100 gururunt
+in_sphinx4 198 96 gururunt
+in_sphinx4 196 97 StapoRadio
+in_sphinx4 196 97 StapoRadio
+in_sphinx4 196 97 StapoRadio
+in_sphinx4 206 67 StapoRadio
+gef_fild08 281 237 NomNoey
+glast_01 310 171 Gargoyle
+glast_01 310 171 Gargoyle
+glast_01 310 171 Gargoyle
+glast_01 310 171 Gargoyle
+glast_01 310 171 Gargoyle
+glast_01 281 47 gururunt
+glast_01 85 143 Abysmal Knight
+glast_01 93 52 Gargoyle
+glast_01 300 89 Gargoyle
+gef_fild07 214 199 Creamy
+gef_fild07 203 204 Creamy
+gef_fild07 159 192 GnuSnipes3

@@ -1,0 +1,4 @@
+!include ../1_hunter/mon_control.txt
+1419 1 #Familiar
+1015 1 #Zombie
+1116 1 #Eggyra

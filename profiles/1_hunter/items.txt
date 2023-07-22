@@ -1,0 +1,33 @@
+buyAuto Silver Arrow {
+	npc prontera 147 175
+	minAmount 100
+	maxAmount 1500
+	minBase 10
+	zeny > 4500
+}
+
+buyAuto Arrow {
+	npc prontera 147 175
+	minAmount 100
+	maxAmount 1500
+	minBase 10
+	zeny > 4500
+}
+
+buyAuto Red Potion {
+	npc prontera 147 175
+	minAmount 2
+	maxAmount 40
+	minBase 10
+	zeny > 100000
+}
+
+useSelf_item Red Potion {
+	hp < 30%
+	timeout 0.1
+}
+
+useSelf_item 578,510 {
+	sp < 50%
+	timeout 0.1
+}

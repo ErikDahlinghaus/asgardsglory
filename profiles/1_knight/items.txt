@@ -1,0 +1,52 @@
+buyAuto Red Potion {
+	label buyRedPotions
+	npc prontera 147 175
+	minAmount 2
+	maxAmount 100
+	minBase 10
+	disabled 1
+}
+
+useSelf_item Red Potion {
+	label useRedPotions
+	hp < 30%
+	disabled 0
+}
+
+buyAuto Awakening Potion {
+	npc prontera 147 175
+	minAmount 1
+	maxAmount 15
+	zeny > 50000
+	minBase 40
+	maxBase 85
+	disabled 1
+}
+
+useSelf_item Awakening Potion {
+	whenStatusInactive EFST_ATTHASTE_POTION2
+	inLockOnly 0
+	notInTown 1
+	notWhileSitting 1
+	timeout 5
+	minBase 40
+	maxBase 85
+}
+
+buyAuto Berserk Potion {
+	npc prontera 147 175
+	minAmount 1
+	maxAmount 15
+	zeny > 50000
+	minBase 85
+}
+
+useSelf_item Berserk Potion {
+	whenStatusInactive EFST_ATTHASTE_POTION3
+	inLockOnly 0
+	notInTown 1
+	notWhileSitting 1
+	timeout 5
+	minBase 85
+}
+

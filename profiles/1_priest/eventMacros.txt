@@ -1,0 +1,146 @@
+# !include ../0_common/waitOnKnight.txt
+
+automacro lex {
+    PlayerNear /gururunt/
+    timeout 4
+    delay 1
+    call {
+        $targetId = activeTarget($.PlayerNearLastBinId)
+        if ($targetId != undef) {
+            do sm PR_LEXAETERNA $targetId
+        }
+        stop
+    }
+    disabled 1
+}
+
+sub activeTarget {
+    foreach my $monster (@$monstersList) {
+        if (keys %{$monster->{dmgFromPlayer}}) {
+            message $monster->{binID} . "\n";
+            return $monster->{binID};
+        }
+	}
+    return undef
+}
+
+automacro hide {
+    SimpleHookEvent packet_attack
+    StatusInactiveHandle EFST_HIDING
+    timeout 5
+    disabled 1
+    call {
+        do p nameIDForActor($.SimpleHookEventLastTargetID)
+        #if ( nameIDForActor($.SimpleHookEventLastTargetID) eq myID() && playersCount() > 0) {
+        #    do ss TF_HIDING
+        #}
+    }
+}
+
+automacro unhide {
+    StatusActiveHandle EFST_HIDING
+    delay 1
+    call {
+        do ss TF_HIDING
+    }
+}
+
+automacro respawn {
+    PartyMsg /respawn/
+    call {
+        do tele 2
+    }
+}
+
+automacro tele {
+    PartyMsg /tele/
+    call {
+        do tele
+    }
+}
+
+automacro holywater {
+    InInventory "Holy Water" < 10
+    disabled 1
+    timeout 1800
+    call {
+        $count = 100
+        $index = 0
+
+        do ai manual
+        do c \@go payon
+
+        do move 179 100
+        do talknpc 181 104 c r1 n
+        do storage get Empty Bottle $count
+        do storage close
+
+        do move 121 92 pay_arche
+        while( $index < $count ) {
+            do ss AL_HOLYWATER
+            pause 0.2
+            $index++
+        }
+
+        do c \@go geffen
+        do ai on
+        stop
+    }
+}
+
+macro makeHolyWater {
+    do ss AL_HOLYWATER
+}
+
+
+sub nameIDForActor {
+    my $sourceID = shift;
+    return Actor::get($sourceID)->{nameID}
+}
+
+sub myID {
+    return $char->{nameID};
+}
+
+sub playersCount {
+    return scalar(@$playersList);
+}
+
+sub monstersCount {
+    return scalar(@$monstersList);
+}
+
+sub aggressivesCount {
+    my $aggressivesCount = ai_getAggressives();
+    return $aggressivesCount;
+}
+
+
+
+
+automacro RepairArmor {
+    InInventory "BROKEN +4 Saint's Robe [Dark Frame] [1]" > 0
+	call {
+        do c \@go 0
+        do move 60 64 prt_in
+        do talknpc 63 54 c r0 c r0
+        do eq +4 Saint's Robe [Dark Frame] [1]
+	}
+}
+
+
+automacro refreshOnNPCPlayer {
+    timeout 2
+    NpcNear /(gururunt|StapoRadio|Gnusnipes1|Gnusnipes2|Gnusnipes3|Gnusnipes4|Gnusnipes5)/
+    call {
+        do c \@refresh
+    }
+}
+
+automacro refreshOnNPCMob {
+    timeout 2
+    NpcNear /(Anubis|Pasana|Minorous|Mimic|Explosion|Blazer|Lava Golem|Nightmare|Deviruch|Whisper|Marionette|High Orc|Orc Lady|Orc Baby|Orc Warrior|Orc Archer|Raydric|Raydric Archer|Abysmal Knight|Rideword)/
+    call {
+        do c \@refresh
+    }
+}

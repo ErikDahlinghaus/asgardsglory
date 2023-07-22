@@ -1,0 +1,30 @@
+automacro becomeArcher {
+    JobLevel = 10
+    JobID 0
+    timeout 1200
+    call {
+        log something happened
+        do conf lockMap none
+        do ai manual
+        do c \@go prontera
+
+        call changeJobArcher
+        # call buyFirstBow
+        # do autobuy
+        
+        do ai auto
+        do conf lockMap moc_fild01
+    }
+}
+
+macro changeJobArcher {
+    do talknpc 153 193 r2 c r0 c
+}
+
+macro buyFirstBow {
+    do move 168 128 prt_in
+    do talknpc 172 130
+    do store
+    do buy 2 1
+    do eq &inventory(Bow [3])
+}

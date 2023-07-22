@@ -1,0 +1,7 @@
+#automacro equipKnife {
+#    console "Auto Equiping [R]: Knife [3]"
+#    timeout 10
+#    call {
+#        do eq Knife [3]
+#    }
+#}

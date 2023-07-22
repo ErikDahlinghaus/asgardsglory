@@ -1,0 +1,49 @@
+!include ../0_common/all.txt
+!include ../0_common/melee.txt
+!include passwords.txt
+
+lockMap prt_fild08
+
+route_randomWalk 1
+attackAuto 2
+attackAuto_party 1
+attackAuto_inLockOnly 2
+
+statsAddAuto 1
+statsAddAuto_list 20 str, 10 dex, 10 agi, 30 str
+statsAddAuto_dontUseBonus 0
+
+skillsAddAuto 1
+skillsAddAuto_list NV_BASIC 9
+
+sitAuto_hp_lower 20
+sitAuto_hp_upper 50
+sitAuto_sp_lower 0
+sitAuto_sp_upper 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+macro_orphans terminate
+adminPassword zuripeec

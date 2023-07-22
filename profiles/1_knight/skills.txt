@@ -1,0 +1,46 @@
+attackSkillSlot SM_PROVOKE {
+	maxUses 1
+	dist 9
+	sp > 50%
+	disabled 1
+}
+
+attackSkillSlot Bowling Bash {
+	label bb
+	timeout 1
+	dist 1
+	maxUses 3
+	partyAggressives > 2
+	inLockOnly 1
+	disabled 0
+	sp > 30%
+	disabled 1
+}
+
+useSelf_skill KN_TWOHANDQUICKEN {
+	whenStatusInactive EFST_TWOHANDQUICKEN
+	timeout 2
+	notInTown 1
+}
+
+useSelf_skill LK_AURABLADE {
+	whenStatusInactive EFST_AURABLADE
+	timeout 2
+	notInTown 1
+	disabled 0
+}
+
+useSelf_skill LK_CONCENTRATION {
+	whenStatusInactive EFST_LKCONCENTRATION
+	timeout 2
+	notInTown 1
+	disabled 0
+}
+
+useSelf_skill LK_PARRYING {
+	whenStatusInactive EFST_PARRYING
+	timeout 2
+	sp > 50%
+	notInTown 1
+	disabled 1
+}

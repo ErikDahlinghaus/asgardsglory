@@ -1,0 +1,69 @@
+sellAuto 1
+sellAuto_npc prontera 147 175
+
+storageAuto 1
+storageAuto_npc prontera 164 175
+
+buyAuto Butterfly Wing {
+	label buyAutoFlyWing
+	npc prontera 147 175
+	minAmount 1
+	maxAmount 3
+	minBase 10
+	zeny > 50000
+}
+
+buyAuto Fly Wing {
+	label buyAutoButterflyWing
+	npc prontera 147 175
+	minAmount 2
+	maxAmount 30
+	minBase 10
+	zeny > 50000
+}
+
+buyAuto Concentration Potion {
+	npc prontera 147 175
+	minAmount 1
+	maxAmount 5
+	zeny > 50000
+	minBase 10
+	maxBase 40
+	disabled 1
+}
+
+useSelf_item Concentration Potion {
+	whenStatusInactive EFST_ATTHASTE_POTION1
+	inLockOnly 0
+	notInTown 1
+	notWhileSitting 1
+	timeout 5
+	minBase 10
+}
+
+buyAuto Awakening Potion {
+	npc prontera 147 175
+	minAmount 1
+	maxAmount 5
+	zeny > 50000
+	minBase 40
+	maxBase 85
+}
+
+useSelf_item Awakening Potion {
+	whenStatusInactive EFST_ATTHASTE_POTION2
+	inLockOnly 0
+	notInTown 1
+	notWhileSitting 1
+	timeout 5
+	minBase 40
+}
+
+useSelf_item Berserk Potion {
+	whenStatusInactive EFST_ATTHASTE_POTION3
+	inLockOnly 0
+	notInTown 1
+	notWhileSitting 1
+	timeout 5
+	minBase 85
+}

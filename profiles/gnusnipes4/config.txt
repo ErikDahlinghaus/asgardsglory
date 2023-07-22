@@ -1,0 +1,10 @@
+!include ../../control/config.txt
+!include ../1_hunter/config.txt
+!include passwords.txt
+
+macro_orphans terminate
+adminPassword thouthit
+attackMaxDistance 15
+attackAuto_party 1
+attackAuto_inLockOnly 1
+attackMinPortalDistance 4

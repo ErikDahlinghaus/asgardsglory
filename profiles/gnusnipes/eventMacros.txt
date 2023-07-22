@@ -1,0 +1,2 @@
+!include ../1_hunter/eventMacros.txt
+# !include ../0_common/waitOnPriest.txt

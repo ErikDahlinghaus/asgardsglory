@@ -1,0 +1,86 @@
+!include ../../control/config.txt
+!include ../0_common/all.txt
+!include ../0_common/melee.txt
+!include passwords.txt
+
+lockMap pay_fild07
+
+cmdOnLogin c @autoloot
+
+dcOnDeath 0
+
+itemsTakeAuto 0
+itemsTakeAuto_party 0
+itemsGatherAuto 3
+itemsMaxWeight 89
+itemsMaxWeight_sellOrStore 48
+itemsMaxNum_sellOrStore 99
+
+lockMap pay_fild07
+lockMap_x
+lockMap_y
+lockMap_randX
+lockMap_randY
+
+sitAuto_hp_lower 50
+sitAuto_hp_upper 100
+sitAuto_sp_lower 0
+sitAuto_sp_upper 0
+sitAuto_follow 0
+sitAuto_over_50 0
+
+attackAuto 2
+attackAuto_party 1
+attackAuto_followTarget 1
+attackAuto_inLockOnly 2
+
+route_randomWalk 1
+route_teleport 0
+route_teleport_minDistance 75
+route_teleport_maxTries 8
+route_teleport_notInMaps
+route_step 10
+
+teleportAuto_hp 0
+teleportAuto_sp 0
+teleportAuto_idle 0
+teleportAuto_portal 0
+teleportAuto_search 0
+teleportAuto_minAggressives 0
+teleportAuto_minAggressivesInLock 0
+teleportAuto_maxDmg 0
+teleportAuto_maxDmgInLock 0
+teleportAuto_deadly 1
+teleportAuto_useSkill 1
+teleportAuto_attackedWhenSitting 0
+teleportAuto_totalDmg 0
+teleportAuto_totalDmgInLock 0
+
+statsAddAuto 1
+statsAddAuto_list 50 dex, 50 str, 80 agi
+statsAddAuto_dontUseBonus 0
+statsAdd_over_99 1
+
+skillsAddAuto 1
+skillsAddAuto_list NV_BASIC 9
+
+dcOnDeath 0
+
+saveMap prontera
+saveMap_warpToBuyOrSell 1
+saveMap_warpChatCommand @go prontera
+
+sellAuto 1
+# sellAuto_npc payon 159 96 Tool Dealer
+sellAuto_npc prontera 147 175
+
+storageAuto 1
+# storageAuto_npc payon 181 104 Kafra Employee
+storageAuto_npc prontera 164 175 Kafra Employee
+
+
+macro_orphans terminate
+adminPassword jaisobie
+storageAuto_npc_steps c r1
+itemsGatherAuto_notInTown
+

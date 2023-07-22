@@ -1,0 +1,506 @@
+1119 Frilldora
+1127 Hode
+1097 Ant Egg
+1097 Ant Egg
+1138 Magnolia
+1138 Magnolia
+1001 Scorpion
+1042 Steel Chonchon
+1042 Steel Chonchon
+1001 Scorpion
+1040 Golem
+1113 Drops
+1047 Peco Peco Egg
+1050 Picky
+1049 Picky
+1113 Drops
+1047 Peco Peco Egg
+1050 Picky
+1040 Golem
+1095 Andre
+1049 Picky
+1160 Piere
+1055 Muka
+1160 Piere
+1105 Deniro
+1002 Poring
+1063 Lunatic
+1008 Pupa
+1002 Poring
+1002 Poring
+1008 Pupa
+1063 Lunatic
+1008 Pupa
+1063 Lunatic
+1031 Poporing
+1005 Familiar
+1076 Skeleton
+1015 Zombie
+1078 Red Plant
+1107 Baby Desert Wolf
+1261 Wild Rose
+1261 Wild Rose
+1031 Poporing
+1242 Marin
+1080 Green Plant
+1080 Green Plant
+1010 Willow
+1010 Willow
+1016 Archer Skeleton
+1186 Giant Whisper
+1120 Ghostring
+1116 Eggyra
+1116 Eggyra
+1033 Elder Willow
+1033 Elder Willow
+1076 Skeleton
+1076 Skeleton
+1031 Poporing
+1076 Skeleton
+1078 Red Plant
+1031 Poporing
+1015 Zombie
+1005 Familiar
+1078 Red Plant
+1015 Zombie
+1005 Familiar
+1015 Zombie
+1005 Familiar
+1078 Red Plant
+1016 Archer Skeleton
+1016 Archer Skeleton
+1016 Archer Skeleton
+1028 Soldier Skeleton
+1028 Soldier Skeleton
+1028 Soldier Skeleton
+1111 Drainliar
+1028 Soldier Skeleton
+1111 Drainliar
+1116 Eggyra
+1116 Eggyra
+1111 Drainliar
+1107 Baby Desert Wolf
+1242 Marin
+1242 Marin
+1019 Peco Peco
+1019 Peco Peco
+1246 Christmas Cookie
+1249 Myst Case
+1248 Cruiser
+1265 Cookie
+1084 Black Mushroom
+1250 Chepet
+1084 Black Mushroom
+1084 Black Mushroom
+1243 Sasquatch
+1084 Black Mushroom
+1081 Yellow Plant
+1081 Yellow Plant
+1084 Black Mushroom
+1026 Munak
+1188 Bongun
+1180 Nine Tail
+1095 Andre
+1107 Baby Desert Wolf
+1186 Giant Whisper
+1120 Ghostring
+1019 Peco Peco
+1020 Mandragora
+1105 Deniro
+1055 Muka
+1273 Orc Lady
+1273 Orc Lady
+1031 Poporing
+1031 Poporing
+1023 Orc Warrior
+1023 Orc Warrior
+1686 Orc Baby
+1686 Orc Baby
+1014 Spore
+1273 Orc Lady
+1023 Orc Warrior
+1080 Green Plant
+1080 Green Plant
+1051 Thief Bug
+1094 Ambernite
+1077 Poison Spore
+1023 Orc Warrior
+1085 Red Mushroom
+1273 Orc Lady
+1686 Orc Baby
+1273 Orc Lady
+1023 Orc Warrior
+1012 Roda Frog
+1051 Thief Bug
+1002 Poring
+1051 Thief Bug
+1052 Rocker
+1018 Creamy
+1018 Creamy
+1273 Orc Lady
+1079 Blue Plant
+1023 Orc Warrior
+1052 Rocker
+1012 Roda Frog
+1094 Ambernite
+1085 Red Mushroom
+1077 Poison Spore
+1079 Blue Plant
+1079 Blue Plant
+1273 Orc Lady
+1686 Orc Baby
+1023 Orc Warrior
+1686 Orc Baby
+1686 Orc Baby
+1079 Blue Plant
+1082 White Plant
+1686 Orc Baby
+1189 Orc Archer
+1052 Rocker
+1018 Creamy
+1012 Roda Frog
+1094 Ambernite
+1077 Poison Spore
+1085 Red Mushroom
+1079 Blue Plant
+1189 Orc Archer
+1048 Thief Bug Egg
+1048 Thief Bug Egg
+1068 Hydra
+1051 Thief Bug
+1052 Rocker
+1052 Rocker
+1012 Roda Frog
+1012 Roda Frog
+1094 Ambernite
+1085 Red Mushroom
+1077 Poison Spore
+1094 Ambernite
+1085 Red Mushroom
+1077 Poison Spore
+1018 Creamy
+1018 Creamy
+1089 Toad
+1166 Savage
+1166 Savage
+1166 Savage
+1213 High Orc
+1051 Thief Bug
+1048 Thief Bug Egg
+1052 Rocker
+1104 Coco
+1057 Yoyo
+1057 Yoyo
+1104 Coco
+1056 Smokie
+1104 Coco
+1214 Choco
+1057 Yoyo
+1214 Choco
+1214 Choco
+1056 Smokie
+1048 Thief Bug Egg
+1104 Coco
+1056 Smokie
+1104 Coco
+1083 Shining Plant
+1057 Yoyo
+1057 Yoyo
+1056 Smokie
+1056 Smokie
+1079 Blue Plant
+1083 Shining Plant
+1018 Creamy
+1153 Orc Zombie
+1153 Orc Zombie
+1152 Orc Skeleton
+1152 Orc Skeleton
+1005 Familiar
+1005 Familiar
+1082 White Plant
+1111 Drainliar
+1111 Drainliar
+1082 White Plant
+1084 Black Mushroom
+1084 Black Mushroom
+1083 Shining Plant
+1079 Blue Plant
+1088 Vocal
+1214 Choco
+1214 Choco
+1083 Shining Plant
+1439 High Orc
+1087 Orc Hero
+1189 Orc Archer
+1189 Orc Archer
+1213 High Orc
+1213 High Orc
+1094 Ambernite
+1190 Orc Lord
+1439 High Orc
+1087 Orc Hero
+1087 Orc Hero
+1439 High Orc
+1083 Shining Plant
+1085 Red Mushroom
+1439 High Orc
+1088 Vocal
+1088 Vocal
+1439 High Orc
+1190 Orc Lord
+1 Creamy
+1087 Orc Hero
+1087 Orc Hero
+1032 Verit
+1149 Minorous
+1149 Minorous
+1032 Verit
+1041 Mummy
+1041 Mummy
+1473 Orc Archer
+1473 Orc Archer
+1088 Vocal
+1177 Zenorc
+1177 Zenorc
+1007 Fabre
+1135 Kobold
+1135 Kobold
+1133 Kobold
+1133 Kobold
+1134 Kobold
+1134 Kobold
+1011 Chonchon
+1011 Chonchon
+1007 Fabre
+1146 Matyr
+1178 Zerom
+1164 Requiem
+1161 Plankton
+1066 Vadon
+1161 Plankton
+1066 Vadon
+1141 Marina
+1141 Marina
+1161 Plankton
+1161 Plankton
+1066 Vadon
+1161 Plankton
+1066 Vadon
+1161 Plankton
+1161 Plankton
+1141 Marina
+1066 Vadon
+1066 Vadon
+1066 Vadon
+1141 Marina
+1141 Marina
+1141 Marina
+1141 Marina
+1070 Kukre
+1070 Kukre
+1070 Kukre
+1067 Cornutus
+1067 Cornutus
+1070 Kukre
+1070 Kukre
+1070 Kukre
+1070 Kukre
+1067 Cornutus
+1067 Cornutus
+1067 Cornutus
+1067 Cornutus
+1044 Obeaune
+1144 Marse
+1144 Marse
+1144 Marse
+1044 Obeaune
+1044 Obeaune
+1067 Cornutus
+1144 Marse
+1144 Marse
+1144 Marse
+1144 Marse
+1045 Marc
+1069 Swordfish
+1069 Swordfish
+1045 Marc
+1158 Phen
+1158 Phen
+1142 Marine Sphere
+1142 Marine Sphere
+1044 Obeaune
+1044 Obeaune
+1142 Marine Sphere
+1044 Obeaune
+1044 Obeaune
+1069 Swordfish
+1045 Marc
+1158 Phen
+1142 Marine Sphere
+1069 Swordfish
+1069 Swordfish
+1069 Swordfish
+1069 Swordfish
+1045 Marc
+1045 Marc
+1158 Phen
+1158 Phen
+1158 Phen
+1158 Phen
+1045 Marc
+1045 Marc
+1142 Marine Sphere
+1142 Marine Sphere
+1142 Marine Sphere
+1264 Merman
+1264 Merman
+1264 Merman
+1264 Merman
+1264 Merman
+1264 Merman
+1264 Merman
+1607 Christmas Goblin
+1251 Stormy Knight
+1515 Garm Baby
+1140 Marduk
+1140 Marduk
+1263 Wind Ghost
+1130 Jakk
+1130 Jakk
+1140 Marduk
+1263 Wind Ghost
+1117 Evil Druid
+1263 Wind Ghost
+1117 Evil Druid
+1130 Jakk
+1130 Jakk
+1130 Jakk
+1140 Marduk
+1117 Evil Druid
+1263 Wind Ghost
+1263 Wind Ghost
+1263 Wind Ghost
+1130 Jakk
+1140 Marduk
+1140 Marduk
+1140 Marduk
+1191 Mimic
+1191 Mimic
+1154 Pasana
+1154 Pasana
+1154 Pasana
+1154 Pasana
+1154 Pasana
+1154 Pasana
+1154 Pasana
+1191 Mimic
+1098 Anubis
+1098 Anubis
+1098 Anubis
+1098 Anubis
+1098 Anubis
+1098 Anubis
+1098 Anubis
+1037 Side Winder
+1037 Side Winder
+1037 Side Winder
+1037 Side Winder
+1037 Side Winder
+1037 Side Winder
+1037 Side Winder
+1458 Marduk
+1464 Pasana
+1458 Marduk
+1464 Pasana
+1157 Pharaoh
+1464 Pasana
+1458 Marduk
+1191 Mimic
+1191 Mimic
+1191 Mimic
+1191 Mimic
+1464 Pasana
+1148 Medusa
+1148 Medusa
+1148 Medusa
+1148 Medusa
+1148 Medusa
+1148 Medusa
+1256 Pest
+1256 Pest
+1256 Pest
+1256 Pest
+1256 Pest
+1156 Petite
+1156 Petite
+1156 Petite
+1156 Petite
+1156 Petite
+1156 Petite
+1156 Petite
+1139 Mantis
+1139 Mantis
+1139 Mantis
+1139 Mantis
+1139 Mantis
+1139 Mantis
+1139 Mantis
+1253 Gargoyle
+1253 Gargoyle
+1253 Gargoyle
+1253 Gargoyle
+1253 Gargoyle
+1253 Gargoyle
+1253 Gargoyle
+1276 Raydric Archer
+1185 Whisper
+1208 Wanderer
+1185 Whisper
+1219 Abysmal Knight
+1185 Whisper
+1185 Whisper
+1185 Whisper
+1219 Abysmal Knight
+1185 Whisper
+1132 Khalitzburg
+1132 Khalitzburg
+1132 Khalitzburg
+1276 Raydric Archer
+1132 Khalitzburg
+1219 Abysmal Knight
+1132 Khalitzburg
+1219 Abysmal Knight
+1208 Wanderer
+1219 Abysmal Knight
+1132 Khalitzburg
+1132 Khalitzburg
+1185 Whisper
+1283 Chimera
+1208 Wanderer
+1283 Chimera
+1276 Raydric Archer
+1208 Wanderer
+1208 Wanderer
+1219 Abysmal Knight
+1276 Raydric Archer
+1208 Wanderer
+1219 Abysmal Knight
+1208 Wanderer
+1276 Raydric Archer
+1163 Raydric
+1276 Raydric Archer
+1276 Raydric Archer
+1204 Ogretooth
+1163 Raydric
+1195 Rideword
+1163 Raydric
+1204 Ogretooth
+1204 Ogretooth
+1163 Raydric
+1283 Chimera
+1163 Raydric
+1163 Raydric
+1195 Rideword
+1204 Ogretooth
+1163 Raydric
+1203 Mysteltainn

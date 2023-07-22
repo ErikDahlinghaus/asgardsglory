@@ -1,0 +1,28 @@
+# Tell Kore to pickup (or not to pickup) certain items.
+# Format: <item name> <flag>
+# <item name> - name of item (not case sensitive)
+# <flag> -	-1 to drop the item when it appears in inventory
+#		   (useful for Rogues with auto-steal),
+#		 0 to not pick up the item,
+#		 1 to pickup the item,
+#		 2 to take the item as fast as it can
+#
+#Use the item name "all" to tell kore to pickup or not pickup all items by default
+all 1
+# jellopy 0
+# fluff 0
+
+1217 0
+1301 0
+1105 -1 # Falchion [4]
+1965 -1 # Red Flame Whip
+1818 -1 # Magma Fist
+1251 -1 # jur[3]
+2224 -1 # unslotted goggles
+1002 -1 # iron ore
+1011 -1 # emveretarcon
+Iron -1
+2305 -1 # adven suit
+1201 -1 # Knife [3]
+1701 -1 # Bow [3]
+1301 -1 # Axe 3

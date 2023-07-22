@@ -1,0 +1,32 @@
+buyAuto Red Potion {
+	npc prontera 147 175
+	minAmount 2
+	maxAmount 100
+	minBase 10
+	disabled 1
+}
+
+useSelf_item Red Potion {
+	hp < 30%
+	timeout 0.1
+}
+
+buyAuto Butterfly Wing {
+	label buyAutoFlyWing
+	npc prontera 147 175
+	minAmount 1
+	maxAmount 3
+	minBase 10
+	zeny > 10000
+	disabled 1
+}
+
+buyAuto Fly Wing {
+	label buyAutoButterflyWing
+	npc prontera 147 175
+	minAmount 2
+	maxAmount 30
+	minBase 10
+	zeny > 10000
+	disabled 1
+}

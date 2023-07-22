@@ -1,0 +1,9 @@
+automacro RepairArmor {
+    InInventory "BROKEN +4 Pantie" > 0
+	call {
+        do c \@go 0
+        do move 60 64 prt_in
+        do talknpc 63 54 c r0 c r0
+        do eq +4 Pantie
+	}
+}

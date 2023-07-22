@@ -1,0 +1,3 @@
+!include ../1_hunter/items_control.txt
+643 0 0 1 #Pet Incubator
+1217 0 1 0 #Stiletto [3]
