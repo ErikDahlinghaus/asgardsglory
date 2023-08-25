@@ -48,3 +48,27 @@ automacro switchPrntFieldIsland {
         }
     }
 }
+
+
+automacro sellMirrors {
+    Zeny < 5000000
+    call {
+        [
+            do iconf Crystal Mirror 0 0 1
+            release keepMirrors
+            lock sellMirrors
+        ]
+    }
+}
+
+automacro keepMirrors {
+    Zeny > 10000000
+    call {
+        [
+            do iconf Crystal Mirror 0 1 0
+            release sellMirrors
+            lock keepMirrors
+        ]
+    }
+}
+

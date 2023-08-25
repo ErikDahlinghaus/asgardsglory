@@ -1,0 +1,12 @@
+macro doMoscQuest {
+    do c \@go moscovia
+    do move moscovia 174 72
+    do talknpc 171 71 r0 r1 r0 n
+    do move moscovia 136 51
+    do talknpc 135 49 r0 r1 n
+    do talknpc 135 49 r1 n
+    # Strange Steel Piece 10, Rusty Screw 10, Flexible Tube 5, Jubilee 10
+    do talknpc 135 49
+    # Time to ride the ship
+
+}

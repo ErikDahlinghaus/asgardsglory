@@ -3,8 +3,10 @@
 !include passwords.txt
 
 macro_orphans terminate
-adminPassword bitwesto
+adminPassword segrihuk
 attackMaxDistance 15
 attackAuto_party 1
 attackAuto_inLockOnly 1
 attackMinPortalDistance 4
+lockMap ve_fild03
+npcWrongStepsMethod 3

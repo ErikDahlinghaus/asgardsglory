@@ -26,7 +26,7 @@ poseidon_wait_reply 15
 # Activate AI after x seconds after the map's loaded
 ai 0.1
 ai_move_retry 0.25
-ai_move_giveup 1
+ai_move_giveup 3
 ai_homunculus_standby 0.5
 ai_mercenary_standby 0.5
 
@@ -100,7 +100,7 @@ ai_dealAuto 3
 ai_dealAutoCancel 5
 ai_partyAutoDeny 3
 ai_guildAutoDeny 3
-ai_dead_respawn 20
+ai_dead_respawn 1
 ai_wipe_old 200
 ai_wipe_check 30
 
@@ -136,7 +136,7 @@ ai_equipAuto_skilluse_giveup 5
 ai_equip_giveup 2
 ai_teleport 1
 ai_teleport_away 3
-ai_teleport_idle 2
+ai_teleport_idle 1
 ai_teleport_portal 2
 ai_teleport_hp 3
 ai_teleport_safe_force 120

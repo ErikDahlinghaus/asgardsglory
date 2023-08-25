@@ -1,4 +1,6 @@
-cmdOnLogin c @autoloot
+cmdOnLogin c @autoloot 100
+
+alias_kafraStorage talknpc 164 175 c r1 n
 
 useSelf_item 507,508,512,513,515,516,517,519,528,529,530,535,536,549,550,553,569,571,580 {
 	label hpItems
@@ -30,7 +32,7 @@ sitAuto_idle 0
 itemsGatherAuto 0
 itemsGatherAuto_notInTown 0
 
-attackMinPortalDistance 8
+attackMinPortalDistance 10
 
 teleportAuto_maxDmg 0
 
@@ -69,3 +71,8 @@ reactOnNPC talk no {
 sitAuto_idle 0
 storageAuto_npc_steps c r1
 macro_orphans terminate
+
+portalCompile -1
+portalRecord 0
+portalRecord_recompileAfter 0
+attackRouteMaxPathDistance 13

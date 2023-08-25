@@ -20,7 +20,63 @@ automacro waitAtThaTower {
     console /Map Change: tha_t01/
     call {
         do ai manual
-        pause 30
+        pause 20
         do ai on
     }
 }
+
+automacro noRoute {
+    timeout 20
+    console /Stuck during route/
+    call {
+        do west 2
+    }
+}
+
+automacro fixBetterWalkPlan {
+    console /Calculating random route to: Morocc Sphinx B4/
+    call {
+        if (@config (BetterWalkPlan)) {
+            log restarting walkplan
+            do plugin reload BetterWalkPlan
+            pause 2
+            do reload config
+        }
+    }
+    timeout 300
+}
+
+automacro fixBetterWalkPlan {
+    console /Calculating random route to:/
+    location ve_fild03, in_sphinx4
+    call {
+        log restarting walkplan
+        do plugin reload BetterWalkPlan
+        pause 2
+        do reload config
+        do move stop
+    }
+    timeout 300
+}
+
+automacro Set_Autoloot {
+    console /rAthena Version Git Hash/
+    delay 10
+    call {
+        do c @autoloot 100
+    }
+}
+
+automacro moveRachelSanc {
+    console /Calculating lockMap route to.+ra_san01.+/
+    location not rachel
+    location not ra_san01
+    location not ra_san02
+    location not rachel
+    location not ra_temple
+    location not ra_temin
+    call {
+        do c @go rachel
+    }
+}
+

@@ -1,6 +1,6 @@
 automacro refreshOnNPCMob {
     timeout 2
-    NpcNear /(Heater|Freezer|Assaulter|Wraith|Ghould|Evil Druid|Anubis|Pasana|Minorous|Mimic|Explosion|Blazer|Lava Golem|Nightmare|Deviruch|Whisper|Marionette|High Orc|Orc Lady|Orc Baby|Orc Warrior|Orc Archer|Raydric|Raydric Archer|Abysmal Knight|Rideword)/
+    NpcNear /(Bathory|Whisper|Joker|Uzhas|Mavka|Baba Yaga|Anolian|Pest|Heater|Freezer|Assaulter|Wraith|Ghould|Evil Druid|Anubis|Pasana|Minorous|Mimic|Explosion|Blazer|Lava Golem|Nightmare|Deviruch|Whisper|Marionette|High Orc|Orc Lady|Orc Baby|Orc Warrior|Orc Archer|Raydric|Raydric Archer|Abysmal Knight|Rideword)/
     call {
         do c \@refresh
     }

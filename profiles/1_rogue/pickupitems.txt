@@ -9,3 +9,12 @@
 1201 -1 # knife [3]
 2305 -1 # aventurer suit
 1501 -1 # Club [3]
+1208 -1 # Main Gauche [4]
+2303 -1 # Jacket [0]
+2304 -1 # Jacket [1]
+629 -1 # Singing Flower
+621 -1 # Bitter Herb
+707 -1 # Singing Plant
+710 -1 # Illusion Flower
+1402 -1 # Javelin [4]
+1572 -1 # Principles of Magic [2]

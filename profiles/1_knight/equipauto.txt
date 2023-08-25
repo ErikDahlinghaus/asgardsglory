@@ -1,0 +1,35 @@
+autoSwitch_default_rightHand +5 Muramasa
+equipAuto {
+	rightHand
+	monsters
+	notMonsters
+	disabled 0
+}
+equipAuto claymore {
+	rightHand +5 Claymore
+	inInventory
+	monsters Angeling
+	notMonsters
+	disabled 1
+}
+equipAuto claymoreIce {
+	rightHand +5 VVS Claymore [Ice]
+	inInventory +5 VVS Claymore [Ice]
+	monsters
+	notMonsters Angeling
+	disabled 0
+	inMap mag_dun01, mag_dun02
+}
+equipAuto claymoreFire {
+	rightHand +5 VVS Claymore [Fire]
+	inInventory +5 VVS Claymore [Fire]
+	monsters Plasma
+	notMonsters Angeling
+	disabled 0
+}
+equipAuto claymoreWind {
+	inInventory +5 VVS Claymore [Wind]
+	monsters Merman
+	notMonsters Angeling
+	disabled 1
+}

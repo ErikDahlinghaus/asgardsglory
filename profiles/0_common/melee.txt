@@ -5,7 +5,7 @@ storageAuto 1
 storageAuto_npc prontera 164 175
 
 buyAuto Butterfly Wing {
-	label buyAutoFlyWing
+	label buyAutoButterflyWing
 	npc prontera 147 175
 	minAmount 1
 	maxAmount 3
@@ -14,7 +14,7 @@ buyAuto Butterfly Wing {
 }
 
 buyAuto Fly Wing {
-	label buyAutoButterflyWing
+	label buyAutoFlyWing
 	npc prontera 147 175
 	minAmount 2
 	maxAmount 30

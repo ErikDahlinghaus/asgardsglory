@@ -40,15 +40,15 @@
 # All items not mentioned in this file will be automatically stored in storage.
 all 0 1 0
 
-714 100 0 0 # Emperium
+714 0 1 0 # Emperium
 1049 0 1 0 # skirt of virgin
 
 
 ##### HEAL/SUPPORT ITEMS #####
 # Adjust these to your needs
 
-602 10 0 0 # Butterfly Wing
-601 20 0 0 # Fly Wing
+602 3 0 1 # Butterfly Wing
+601 50 1 0 # Fly Wing
 645 0 0 0 #Concentration Potion
 656 10 0 0 # awakening pot
 
@@ -100,10 +100,10 @@ Mirror Shield 0 0 1 # 2107
 Mr. Smile 0 0 1 # 2278
 Muffler 0 0 1 # 2503
 Padded Armor 0 0 1 # 2313
-Pantie 0 0 1 # 2371
+Pantie 0 1 0 # 2371
 Ribbon 0 0 1 # 2208
 "Ribbon [1]" 0 0 1 # 2209
-Rosary 0 0 0 # 2626
+Rosary 0 1 0 # 2626
 Saint's Robe 0 0 1 # 2325
 Sandals 0 0 1 # 2401
 "Sandals [1]" 0 0 1 # 2402
@@ -307,7 +307,7 @@ Wand 0 0 1 # 1606
 1054 0 0 1 # Ancient Lips
 1053 0 0 1 # Ancient Tooth
 Animal Poop 0 0 1
-919 0 0 1 # Animal Skin
+919 0 1 0 # Animal Skin
 7003 0 0 1 # Anolian Skin
 7106 0 0 1 # Antelope Horn
 7107 0 0 1 # Antelope Skin
@@ -371,12 +371,12 @@ Animal Poop 0 0 1
 1036 0 0 1 # Dragon Scale
 7123 0 0 1 # Dragon Skin
 1037 0 0 1 # Dragon Tail
-1055 0 0 1 # Earthworm Peeling
+1055 0 1 0 # Earthworm Peeling
 1040 0 0 1 # Elder Pixie's Moustache
 1011 0 0 1 # Emveretarcon
 540 0 0 1 # Falcon Food
 1063 0 0 1 # Fang
-949 0 0 1 # Feather
+949 0 1 0 # Feather
 916 0 0 1 # Feather of Birds
 951 0 0 1 # Fin
 1066 0 0 1 # Fine-grained Trunk
@@ -403,7 +403,7 @@ Animal Poop 0 0 1
 1048 0 0 1 # Horrendous Hair
 958 0 0 1 # Horrendous Mouth
 944 0 0 1 # Horseshoe
-7066 0 0 1 # Ice Cubic
+7066 0 1 0 # Ice Cubic
 929 0 0 1 # Immortal Heart
 928 0 0 1 # Insect Feeler
 7028 0 0 1 # Invite for Duel
@@ -516,7 +516,7 @@ Songpyun 0 0 1
 7008 0 0 1 # Stiff Horn
 959 0 0 1 # Stinky Scale
 7049 0 0 1 # Stone
-7067 0 0 1 # Stone Fragment
+7067 0 1 0 # Stone Fragment
 953 0 0 1 # Stone Heart
 551 0 0 1 # Sushi
 7010 0 0 1 # Tail of Steel Scorpion
@@ -531,7 +531,7 @@ Songpyun 0 0 1
 7012 0 0 1 # Tough Scalelike Stem
 902 0 0 1 # Tree Root
 #Tribal Solidarity 0 0 1
-967 0 0 1 # Turtle Shell
+967 0 1 0 # Turtle Shell
 937 0 0 1 # Venom Canine
 745 0 0 1 # Wedding Bouquet
 7064 0 0 1 # Wing of Dragonfly
@@ -1754,7 +1754,7 @@ Spearman Scroll 10 0 0 0
 1613 100 1 0 #Mighty Staff
 1511 0 1 0 #Flail [3]
 525 0 0 1 #Panacea
-504 50 1 0 # White Potion
+504 300 0 0 # White Potion
 511 0 1 0 # Green Herb
 713 0 1 0 # Empty Bottle
 7216 0 1 0 #Red Muffler
@@ -1762,9 +1762,173 @@ Spearman Scroll 10 0 0 0
 1217 0 1 0 #Stiletto [3]
 1251 -1 #Jur [3]
 578 0 1 0 # Strawberry
-522 200 1 0 #Mastela Fruit
+522 0 1 0 # Mastela Fruit
 501 200 1 0 #Red Potion
 643 0 0 1 #Pet Incubator
+1208 0 0 1 # Main Gauche [4]
+
+"Tiger Panty" 0 0 1
+"Old Portrait" 0 0 1
+"Black Bear Skin" 0 0 1
+"Shoulder Protector" 0 0 1
+"Little Evil Horn" 0 0 1
+"Old White Cloth" 0 0 1
+"Dragon Horn" 0 0 1
+"Leopard Claw" 0 0 1
+"Pinafore" 0 0 1
+"Wooden Gnarl" 0 0 1
+"Lamp" 0 0 1
+"Bloody Ruin" 0 0 1
+Garnet 0 0 1
+"Green Bijou" 0 0 1
+"Old Manteau" 0 0 1
+"Honey Pot" 0 0 1
+"Log" 0 0 1
+"Old Magic Book" 0 0 1
+"Solid Peach" 0 0 1
+"Rotten Meat" 0 0 1
+"Brown Root" 0 0 1
+Ectoplasm 0 0 1
+"Needle Packet" 0 0 1
+"Piece of Black Cloth" 0 0 1
+"Pumpkin Lantern" 0 0 1
+"Striped Sock" 0 0 1
+Cacao 0 0 1
+"Little Ghost Doll" 0 0 1
+"Decomposed Rope" 0 0 1
+"Bloody Rune" 0 0 1
+"Ice Scale" 0 0 1
+"Folding Fan of Cat Ghost" 0 0 1
+"Worn-out Scroll" 0 0 1
+"Strange Steel Piece" 0 0 1
+"Pincher of Beetle" 0 0 1
+"Sapphire" 0 0 1
+"Solid Husk" 0 0 1
+"Clattering Skull" 0 0 1
+"Scell" 0 0 1
+"Morocc Solution" 0 0 1
+"Soft Silk" 0 0 1
+"Queen's Hair Ornament" 0 0 1
+"Rocker Glasses" 0 0 1
+"Monster Oxygen Mask" 0 0 1
+"Transparent Celestial Robe" 0 0 1
+Zargon 0 0 1
+"Talon of Griffon" 0 0 1
+"Contorted Self-Portrait" 0 0 1
+"Animal Gore" 0 0 1
+Vane 0 0 1
+"Cat's Eye" 0 0 1
+"Amethyst" 0 0 1
+"Huge Leaf" 0 0 1
+Sprout 0 0 1
+"Free Ticket for the Cart Service" 0 0 1
+Zircon 0 0 1
+Trap 0 0 1
+"Burnt Part" 0 0 1
+"Chivalry Emblem" 0 0 1
+Opal 0 0 1
+"Necklace of Wisdom" 0 0 1
+"Wrapping Paper" 0 0 1
+"Cursed Ruby" 0 0 1
+"Torn Scroll" 0 0 1
+"Hinalle" 0 0 1
+"Medicine Bowl" 0 0 1
+"Hinalle" 0 0 1
+"Bookclip in Memory" 0 0 1
+"Illusion Flower" 0 0 1
+"Fire Bottle" 0 0 1
+"Metal Fragment" 0 0 1
+"Evil Horn" 0 0 1
+Flashlight 0 0 1
+"Toxic Gas" 0 0 1
+"Slingshot" 0 0 1
+"Taeguk Plate" 0 0 1
+"Broken Farming Utensil" 0 0 1
+Yam 0 0 1
+"Yellow Potion" 0 0 1
+Chocolate 0 0 1
+"Heart of Mermaid" 0 0 1
+"Sand Clump" 0 0 1
+"Hung Doll" 0 0 1
+"Poison Spore" 0 0 1
+"Hammer of Blacksmith" 0 0 1
+"Black Hair" 0 0 1
+"Rusty Kitchen Knife" 0 0 1
+Frill 0 0 1
+"Mud Lump" 0 0 1
+"Empty Test Tube" 0 0 1
+"Immortal Heart" 0 0 1
+"Red Stocking" 0 0 1
+"Dry Sand" 0 0 1
+"Will of the Darkness" 0 0 1
+"Unripe Apple" 0 0 1
+"Rainbow Carrot" 0 0 1
+"No Recipient" 0 0 1
+"Broken Needle" 0 0 1
+"Bat Cage" 0 0 1
+"Soft Blade of Grass" 0 0 1
+"Tangled Chains" 0 0 1
+"Dark Crystal Fragment" 0 0 1
+"Wrapping Lace" 0 0 1
+"Baphomet Doll" 0 0 1
+Bullet 0 0 1
+"Sleep Arrow" 0 0 1
+"Sharp Arrow" 0 0 1
+"Poison Arrow" 0 0 1
+"Stone Arrow" 0 0 1
+Arrow 0 0 1
+"Oridecon Arrow" 0 0 1
+
+"Orange Juice" 0 0 1
+Bao 0 0 1
+"Green Herb" 0 0 1
+"Concentration Potion" 0 0 1
+"Well Baked Cookie" 0 0 1
+"Ice Cream" 0 0 1
+
+"Fatty Chubby Earthworm" 0 0 1
+"Rusty Iron" 0 0 1
+"Earthworm the Dude" 0 0 1
+
+"Iron Hammer" 0 0 1
+"Candy" 0 0 1
+"Candy Cane" 0 0 1
+"Hinalle Leaflet" 0 0 1
+"Sweet Potato" 0 0 1
+"Rotten Fish" 0 0 1
+"Tropical Banana" 0 0 1
+"Bitter Herb" 0 0 1
+
+
+Halo 0 0 1
+"Arc Wand [2]" 0 0 1
+"Padded Armor [1]" 0 0 1
+"Stunner" 0 0 1
+"Haedong Gum [1]" 0 0 1
+"Fancy Flower" 0 0 1
+"Novice Guard" 0 0 1
+"Ring Pommel Saber [3]" 0 0 1
+"Bastard Sword [3]" 0 0 1
+"Girl's Diary [1]" 0 0 1
+"Sword Mace [1]" 0 0 1
+"Matyr's Leash" 0 0 1
+"Ragamuffin Manteau" 0 0 1
+"Goblin Mask" 0 0 1
+"Ring" 0 0 1
+"Surprised Mask" 0 0 1
+"Cross Bow [3]" 0 0 1
+"Silk Robe [1]" 0 0 1
+"Saber [3]" 0 0 1
+"Book [3]" 0 0 1
+"Novice Slippers" 0 0 1
+"Buster [2]" 0 0 1
+Pacifier 0 0 1
+"Wooden Heart" 0 0 1
+"Red Feather" 0 0 1
+
+
+
+
 
 +5 VVS Claymore [Ice] 1 0 0
 +5 VVS Claymore [Earth] 1 0 0
@@ -1775,5 +1939,34 @@ Spearman Scroll 10 0 0 0
 +4 Pantie 1 0 0
 BROKEN +4 Pantie 1 0 0
 +4 Formal Suit [Pasana] [1] 1 0 0
+BROKEN +4 Formal Suit [Pasana] [1] 1 0 0
++4 Full Plate [1] 1 0 0
+BROKEN +4 Full Plate [1] 1 0 0
++4 Bunny Band 1 0 0
+Iron Cain 1 0 0
+Fin Helm 1 0 0
++4 Crystal Pumps 1 0 0
++5 Muffler [Raydric] [1] 1 0 0
+Goddess of Fortune's Cursed Brooch 2 0 0
+
 Holy Water 100 0 0 # holding for priest
 Clip [Tarou] [1] 1 0 0
+Blue Gemstone 100 0 0
+
+#Rough Oridecon 150 1 0
+#Rough Elunium 150 1 0
+2522 0 0 1 #Undershirt
+505 0 1 0 # Blue Potion
+65000 10000 0 0 # Asgards Event Box
+611 100 1 0 #Magnifier
+510 0 1 0 # Blue Herb
+7027 10 1 0 #Key of Underground
+7026 3 1 0 # Key of Clock Tower
+7063 0 1 0 #Soft Feather
+5113 0 0 1 #Angry Snarl
+757 0 1 0 # Rough Elunium
+7206 0 1 0 #Black Cat Doll
+1061 0 1 0 #Witch Starsand
+576 0 1 0 #Prickly Fruit
+587 0 1 0 #Red Prickly Fruit
+526 0 1 0 #Royal Jelly

@@ -4,33 +4,50 @@
 !include items.txt
 !include skills.txt
 
-lockMap gl_church
-
 route_randomWalk 1
+BetterWalkPlan 1
+
 attackAuto 2
-attackAuto_party 2
+attackAuto_party 1
 attackAuto_inLockOnly 1
 
-wait4party 1
+wait4party 0
 wait4party_sameMapOnly 1
 wait4party_waitBySitting 0
 wait4party_attackOnSearch 1
 wait4party_followSit 0
 wait4party_ignore
-wait4party_timeout 10
+wait4party_timeout 40
 wait4party_cast Assumptio, Magnificat
 
-sitAuto_hp_lower 10
-sitAuto_hp_upper 30
+sitAuto_hp_lower 0
+sitAuto_hp_upper 0
 sitAuto_sp_lower 0
 sitAuto_sp_upper 0
 
-
+lockMap
 lockMap_x
 lockMap_y
 lockMap_randX
 lockMap_randY
 
+useSelf_item Battle Manual {
+	whenStatusInactive Increases amount of EXP acquired
+	disabled 1
+}
+
+
+equipAuto strippedFullPlate {
+	armor +4 Full Plate [1]
+	inInventory +4 Full Plate [1]
+	whenStatusInactive Strip Armor
+}
+
+equipAuto strippedPantie {
+	armor +4 Pantie
+	inInventory +4 Pantie
+	whenStatusInactive Strip Armor
+}
 
 teleportAuto_hp 0
 teleportAuto_sp 0
@@ -45,16 +62,19 @@ teleportAuto_maxDmgInLock 0
 teleportAuto_deadly 0
 teleportAuto_atkMiss 0
 
-statsAddAuto 1
+statsAddAuto 71 str, 93 agi, 34 vit, 46 dex
 # statsAddAuto_list 51 str, 40 dex, 50 agi, 80 str, 80 agi, 96 str, 90 agi
-statsAddAuto_list 57 luk, 86 agi, 83 str, 40 vit
+# statsAddAuto_list 57 luk, 86 agi, 83 str, 40 vit
+# statsAddAuto_list 16 str, 18 dex, 26 str, 38 agi, 46 str, 28 dex, 58 agi, 56 str, 68 agi, 66 str, 78 agi
+# statsAddAuto_list 2 dex, 58 str, 82 agi, 78 luk
+statsAddAuto_list 8 vit
 statsAddAuto_dontUseBonus 1
 
 skillsAddAuto 1
-skillsAddAuto_list NV_BASIC 9, SM_SWORD 1, SM_TWOHAND 10, SM_BASH 5, SM_RECOVERY 10, SM_MAGNUM 10, SM_BASH 10, SM_PROVOKE 5, SM_ENDURE 3, KN_TWOHANDQUICKEN 10, KN_RIDING 1, KN_CAVALIERMASTERY 5
+skillsAddAuto_list NV_BASIC 9
 
 follow 0
-followTarget
+followTarget stapo
 
 followDistanceMax 1
 followDistanceMin 1
@@ -67,82 +87,45 @@ sellAuto_npc prontera 147 175
 storageAuto 1
 storageAuto_npc prontera 164 175
 
-buyAuto Butterfly Wing {
-	npc prontera 147 175
-	minAmount 1
-	maxAmount 3
-	minBase 10
-	zeny > 50000
-}
 
-buyAuto Fly Wing {
-	npc prontera 147 175
-	minAmount 2
-	maxAmount 30
-	minBase 10
-	zeny > 50000
-}
+# !include equipauto.txt
+
+alias_manual conf wait4party 0;;conf route_randomWalk 0;;conf attackAuto -1;;conf autoTalkCont 0;;conf dcOnDeath -1;;conf lockMap none;;conf storageAuto 0;;conf sellAuto 0;;ai clear
+alias_auto conf wait4party 1;;conf route_randomWalk 1;;conf attackAuto 2;;conf autoTalkCont 1;;conf dcOnDeath 0;;conf storageAuto 1;;conf sellAuto 1;;ai clear
+
+# alias_dontWaitForPriest eventMacro disable noPriest ;;eventMacro disable noPriestUpdateMapPos ;;eventMacro disable priestBack ;;conf route_randomWalk 1
+# alias_waitForPriest eventMacro enable noPriest ;;eventMacro enable noPriestUpdateMapPos ;;eventMacro enable priestBack ;;conf route_randomWalk 1
 
 
-autoSwitch_default_rightHand +5 Muramasa
-equipAuto {
-	rightHand
-	monsters
-	notMonsters
-	disabled 0
-}
-equipAuto claymore {
-	rightHand +5 Claymore
-	inInventory
-	monsters Angeling
-	notMonsters
-	disabled 1
-}
-equipAuto claymoreIce {
-	rightHand +5 VVS Claymore [Ice]
-	inInventory +5 VVS Claymore [Ice]
-	monsters
-	notMonsters Angeling
-	disabled 0
-	inMap mag_dun01, mag_dun02
-}
-equipAuto claymoreFire {
-	rightHand +5 VVS Claymore [Fire]
-	inInventory +5 VVS Claymore [Fire]
-	monsters Plasma
-	notMonsters Angeling
-	disabled 0
-}
-equipAuto claymoreWind {
-	inInventory +5 VVS Claymore [Wind]
-	monsters Merman
-	notMonsters Angeling
-	disabled 1
-}
-
-
-
-alias_dontWaitForPriest eventMacro disable noPriest ;;eventMacro disable noPriestUpdateMapPos ;;eventMacro disable priestBack ;;conf route_randomWalk 1
-alias_waitForPriest eventMacro enable noPriest ;;eventMacro enable noPriestUpdateMapPos ;;eventMacro enable priestBack ;;conf route_randomWalk 1
-
-#lockMap in_sphinx2
-#lockMap_x 255
-#lockMap_y 272
-#lockMap_randX 20
-#lockMap_randY 3
-
-#lockMap gl_knt01
-#lockMap_x 200
-#lockMap_y 70
-#lockMap_randX 70
-#lockMap_randY 50
+dcOnStorageFull 0
 
 
 # automatically added
 macro_orphans terminate
-adminPassword soumayea
+adminPassword swoteclo
 attackMinPortalDistance 4
 npcWrongStepsMethod 1
-route_step 3
+route_step 5
 debug 0
 autoTalkCont 1
+clientSight 20
+
+dcOnDeath 0
+char 0
+itemsGatherAuto 0
+itemsGatherAuto_notInTown 0
+openBoxes 0
+verbose 0
+showDomain 0
+squelchDomains attackMon, attackMonMiss, attacked, attackedMiss, skill, selfSkill, drop, emotion, ai_attack, exp
+attackDistance 0.5
+
+# !include aldeg_cas02_woe.txt
+itemsTakeAuto 0
+
+# !include ../0_common/autoRefine.txt
+portalRecord 0
+portalRecord_recompileAfter 0
+dealAuto 0
+tankMode 0
+tankModeTarget StapoRadio

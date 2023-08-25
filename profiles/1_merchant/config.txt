@@ -1,9 +1,21 @@
 !include ../../control/config.txt
 !include ../0_common/all.txt
-!include ../0_common/melee.txt
+# !include ../0_common/melee.txt
 !include passwords.txt
 
-lockMap pay_fild07
+useSelf_item Orange, Lemon {
+	sp < 40%
+	notInTown 1
+	notWhileSitting 1
+	timeout 0.5
+}
+
+useSelf_item Orange, Lemon {
+	hp < 40%
+	notInTown 1
+	notWhileSitting 1
+	timeout 0.5
+}
 
 cmdOnLogin c @autoloot
 
@@ -16,14 +28,14 @@ itemsMaxWeight 89
 itemsMaxWeight_sellOrStore 48
 itemsMaxNum_sellOrStore 99
 
-lockMap pay_fild07
+lockMap
 lockMap_x
 lockMap_y
 lockMap_randX
 lockMap_randY
 
-sitAuto_hp_lower 50
-sitAuto_hp_upper 100
+sitAuto_hp_lower 0
+sitAuto_hp_upper 0
 sitAuto_sp_lower 0
 sitAuto_sp_upper 0
 sitAuto_follow 0
@@ -57,7 +69,7 @@ teleportAuto_totalDmg 0
 teleportAuto_totalDmgInLock 0
 
 statsAddAuto 1
-statsAddAuto_list 50 dex, 50 str, 80 agi
+statsAddAuto_list 10 str, 10 dex, 20 str, 20 dex, 50 str, 30 dex, 77 agi
 statsAddAuto_dontUseBonus 0
 statsAdd_over_99 1
 
@@ -80,7 +92,9 @@ storageAuto_npc prontera 164 175 Kafra Employee
 
 
 macro_orphans terminate
-adminPassword jaisobie
+adminPassword hicheath
 storageAuto_npc_steps c r1
 itemsGatherAuto_notInTown
+
+char 1
 

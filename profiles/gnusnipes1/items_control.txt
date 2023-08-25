@@ -1,1 +1,2 @@
 !include ../1_hunter/items_control.txt
+2227 0 0 1 #Cap [1]

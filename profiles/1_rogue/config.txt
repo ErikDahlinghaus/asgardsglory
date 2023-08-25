@@ -1,15 +1,57 @@
 !include ../../control/config.txt
 !include passwords.txt
 !include ../0_common/all.txt
-!include ../0_common/melee.txt
+
+sellAuto 1
+sellAuto_npc prontera 147 175 Kafra Employee
+
+storageAuto 1
+storageAuto_npc prontera 164 175 Kafra Employee
+
+getAuto Blue Herb {
+	maxAmount 20
+	passive 1
+}
+
+buyAuto Butterfly Wing {
+	label buyAutoButterflyWing
+	npc prontera 147 175
+	minAmount 1
+	maxAmount 3
+	minBase 10
+	zeny > 50000
+}
+
+buyAuto Fly Wing {
+	label buyAutoFlyWing
+	npc prontera 147 175
+	minAmount 1
+	maxAmount 150
+	minBase 10
+	zeny > 50000
+	disabled 1
+}
 
 attackSkillSlot RG_STEALCOIN {
 	sp > 50%
-	maxAttempts 3
+	maxAttempts 1
 	maxUses 1
 	timeout 0.5
 	dist 1
 	maxDist 1
+	disabled 1
+}
+
+attackSkillSlot TF_STEAL {
+	label attackSkillSlotSteal
+	lvl 10
+	dist 1
+	maxDist 1
+	sp > 50%
+	timeout 0.1
+	disabled 1
+	maxAttempts 2
+	maxUses 1
 }
 
 attackSkillSlot TF_POISON {
@@ -24,22 +66,73 @@ attackSkillSlot TF_POISON {
 	maxUses 1
 }
 
-attackSkillSlot TF_STEAL {
-	label attackSkillSlotSteal
-	lvl 10
-	dist 1
-	maxDist 1
-	sp > 50%
-	whenStatusInactive EFST_POSTDELAY, EFST_SUB_WEAPONPROPERTY, HEALTHSTATE_SILENCE
-	notInTown 1
-	timeout 0.1
-	disabled 0
-	maxAttempts 2
-	maxUses 1
+buyAuto Berserk Potion {
+	npc prontera 147 175
+	minAmount 0
+	maxAmount 6
+	zeny > 50000
+	minBase 85
 }
 
+useSelf_item Berserk Potion {
+	whenStatusInactive EFST_ATTHASTE_POTION3
+	inLockOnly 0
+	notInTown 1
+	notWhileSitting 1
+	timeout 5
+	minBase 85
+}
 
+buyAuto White Potion {
+	npc prontera 147 175
+	minAmount 0
+	maxAmount 80
+	zeny > 500000
+}
 
+useSelf_item White Potion {
+	hp < 40%
+	notInTown 1
+	notWhileSitting 1
+	timeout 0.5
+}
+
+useSelf_item 520,521,579 {
+	hp < 60%
+	notInTown 1
+	notWhileSitting 1
+	timeout 0.5
+}
+
+useSelf_item Blue Herb {
+	sp < 40%
+	notInTown 1
+	notWhileSitting 1
+	timeout 0.5
+}
+
+equipAuto wind {
+	rightHand +5 VVS Damascus [Wind]
+	monsters Baba Yaga, Uzhas
+	notMonsters Les, Wood Goblin, Mavka
+	disabled 0
+}
+
+equipAuto fire {
+	rightHand +5 VVS Damascus [Fire]
+	monsters Les, Wood Goblin, Mavka
+	notMonsters Baba Yaga, Uzhas
+	disabled 0
+}
+
+attackSkillSlot RG_INTIMIDATE {
+	monsters 1884
+	partyAggressives > 2
+	timeout 2
+	disabled 0
+}
+
+teleportAuto_minAggressivesInLock 5
 
 
 dcOnDeath 0
@@ -55,17 +148,18 @@ itemsGatherAuto 0
 # lockMap moc_fild07
 # lockMap pay_dun00
 # lockMap gl_sew02
-lockMap moc_pryd02
+
+lockMap mosk_dun03
 lockMap_x
 lockMap_y
 lockMap_randX
 lockMap_randY
 
-sitAuto_hp_lower 20
-sitAuto_hp_upper 100
-sitAuto_sp_lower 20
-sitAuto_sp_upper 100
-route_randomWalk 1
+sitAuto_hp_lower 0
+sitAuto_hp_upper 0
+sitAuto_sp_lower 0
+sitAuto_sp_upper 0
+route_randomWalk 0
 
 attackAuto 2
 attackAuto_party 1
@@ -78,19 +172,19 @@ route_teleport_notInMaps
 
 teleportAuto_hp 0
 teleportAuto_sp 0
-teleportAuto_idle 0
+teleportAuto_idle 1
 teleportAuto_portal 0
-teleportAuto_search 0
+teleportAuto_search 1
 teleportAuto_minAggressives 0
-teleportAuto_minAggressivesInLock 6
 teleportAuto_onlyWhenSafe 0
 teleportAuto_maxDmg 0
 teleportAuto_maxDmgInLock
 teleportAuto_deadly 1
 
 statsAddAuto 1
-statsAddAuto_list
-statsAddAuto_dontUseBonus 0
+# statsAddAuto_list 99 agi, 53 dex, 83 str
+statsAddAuto_list 33 dex, 87 agi, 93 str, 97 agi, 43 dex
+statsAddAuto_dontUseBonus 1
 statsAdd_over_99 0
 
 skillsAddAuto 1
@@ -100,13 +194,12 @@ saveMap prontera
 saveMap_warpToBuyOrSell 1
 
 sellAuto 1
-# sellAuto_npc payon 159 96 Tool Dealer
-sellAuto_npc prontera 147 175
+sellAuto_npc prontera 147 175 Kafra Employee
 
 storageAuto 1
 storageAuto_npc prontera 164 175 Kafra Employee
 
-macro_orphans terminate
-adminPassword benothez
-storageAuto_npc_steps c r1
-partyAuto 2
+adminPassword drechoru
+char 0
+squelchDomains attackMon, attackMonMiss, attacked, attackedMiss, skill, selfSkill, exp, drop, emotion, ai_attack
+npcWrongStepsMethod 3

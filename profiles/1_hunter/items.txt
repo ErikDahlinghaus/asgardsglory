@@ -1,3 +1,27 @@
+sellAuto 1
+sellAuto_npc prontera 147 175
+
+storageAuto 1
+storageAuto_npc prontera 164 175
+
+buyAuto Butterfly Wing {
+	label buyAutoButterflyWing
+	npc prontera 147 175
+	minAmount 1
+	maxAmount 3
+	minBase 10
+	zeny > 50000
+}
+
+buyAuto Fly Wing {
+	label buyAutoFlyWing
+	npc prontera 147 175
+	minAmount 2
+	maxAmount 30
+	minBase 10
+	zeny > 50000
+}
+
 buyAuto Silver Arrow {
 	npc prontera 147 175
 	minAmount 100
@@ -12,22 +36,43 @@ buyAuto Arrow {
 	maxAmount 1500
 	minBase 10
 	zeny > 4500
+	disabled 1
 }
 
-buyAuto Red Potion {
+buyAuto White Potion {
 	npc prontera 147 175
-	minAmount 2
-	maxAmount 40
-	minBase 10
-	zeny > 100000
+	minAmount 0
+	maxAmount 20
+	zeny > 500000
 }
 
-useSelf_item Red Potion {
-	hp < 30%
-	timeout 0.1
+useSelf_item White Potion {
+	hp < 50%
+	notInTown 1
+	notWhileSitting 1
+	timeout 0.5
 }
 
 useSelf_item 578,510 {
 	sp < 50%
 	timeout 0.1
 }
+
+buyAuto Awakening Potion {
+	npc prontera 147 175
+	minAmount 0
+	maxAmount 5
+	zeny > 50000
+}
+
+useSelf_item Awakening Potion {
+	whenStatusInactive EFST_ATTHASTE_POTION2
+	inLockOnly 0
+	notInTown 1
+	notWhileSitting 1
+	timeout 5
+}
+
+useSelf_item Red Herb, Yellow Herb, Apple {
+}
+

@@ -1,1 +1,5 @@
 !include ../1_hunter/mon_control.txt
+1288 -1 #Emperium
+1286 -1 #Knight Guardian
+1165 0 #Sandman
+1145 0 #Martin

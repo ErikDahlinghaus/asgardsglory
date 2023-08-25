@@ -242,7 +242,7 @@ Yellow Plant -1 # 1081
 "steel chonchon" -1 #
 1008 1 0 1 # Pupa
 1007 -1 #Fabre
-1052 -1 #Rocker
+1052 -1 # Rocker
 1515 -1 1 0 #Garm Baby
 1 -1 #Creamy
 1051 0 #Thief Bug

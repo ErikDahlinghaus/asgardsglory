@@ -4,10 +4,18 @@
 !include skills.txt
 !include items.txt
 
+alias_buff sp 29 0 ;;pause 2 ;;sp 34 0 ;;pause 2 ;;sp 66 0
+alias_res sp 54 0
+
+alias_sancemp ai manual;;move 195 195;;sl 70 195 195;;ai on
+
+
 lockMap
+lockMap_x
+lockMap_y
 dcOnDeath 0
 
-follow 1
+follow 0
 followTarget gururunt
 
 sellAuto 1
@@ -16,21 +24,41 @@ sellAuto_npc prontera 147 175
 storageAuto 1
 storageAuto_npc prontera 164 175
 
-followDistanceMax 3
-followDistanceMin 2
+followDistanceMax 5
+followDistanceMin 4
 followLostStep 30
 
-tankMode 0
-tankModeTarget gururunt
+equipAuto strippedSaintsRobe {
+	armor +4 Saint's Robe [Dark Frame] [1]
+	inInventory +4 Saint's Robe [Dark Frame] [1]
+	whenStatusInactive Strip Armor
+}
 
+useSelf_skill Hide {
+	whenStatusInactive Hide
+	aggressives > 2
+}
+
+useSelf_skill Hide {
+	whenStatusActive Hide
+	aggressives < 1
+}
+
+
+
+
+
+# PRIEST CONFIG!!!
 route_randomWalk 0
-attackAuto -1
-attackAuto_party 1
+attackAuto 2
+attackAuto_party 0
+attackAuto_followTarget 1
 attackAuto_inLockOnly 0
 attackUseWeapon 0
 attackCheckLOS 1
-# attackDistance 1
-# attackMaxDistance 1
+attackDistanceAuto 0
+
+
 
 
 wait4party 0
@@ -49,8 +77,7 @@ statsAddAuto_list 99 int, 77 dex, 77 vit
 statsAddAuto_dontUseBonus 1
 
 skillsAddAuto 1
-# skillsAddAuto_list NV_BASIC 9, AL_HEAL 3, AL_RUWACH 1, AL_TELEPORT 1, AL_INCAGI 1, AL_DP 5, AL_BLESSING 10, AL_INCAGI 10, AL_HEAL 10, AL_TELEPORT 2, AL_DECAGI 1, AL_CURE 1, AL_WARP 4, AL_PNEUMA 1, AL_HOLYWATER 1, AL_ANGELUS 3
-skillsAddAuto_list PR_MAGNIFICAT 5, PR_STRECOVERY 1, MG_SRECOVERY 4, PR_LEXDIVINA 5, PR_LEXAETERNA 1, PR_IMPOSITIO 3, HP_ASSUMPTIO 5, PR_KYRIE 4, PR_GLORIA 5, ALL_RESURRECTION 4, PR_ASPERSIO 5
+skillsAddAuto_list NV_BASIC 9, AL_HEAL 3, AL_RUWACH 1, AL_TELEPORT 1, AL_INCAGI 1, AL_DP 5, AL_BLESSING 10, AL_INCAGI 10, AL_HEAL 10, AL_TELEPORT 2, AL_DECAGI 1, AL_CURE 1, AL_WARP 4, AL_PNEUMA 1, AL_HOLYWATER 1, AL_ANGELUS 3, PR_MAGNIFICAT 5, PR_STRECOVERY 1, MG_SRECOVERY 4, PR_LEXDIVINA 5, PR_LEXAETERNA 1, PR_IMPOSITIO 5, HP_ASSUMPTIO 5, PR_KYRIE 4, PR_GLORIA 5, ALL_RESURRECTION 4, PR_ASPERSIO 5, PR_TURNUNDEAD 5, PR_SANCTUARY 3, MG_SAFETYWALL 7, PR_MAGNUS 10
 
 
 sitAuto_hp_lower
@@ -62,9 +89,9 @@ route_teleport_minDistance 75
 route_teleport_maxTries 8
 route_teleport_notInMaps in_sphinx3
 
-teleportAuto_idle 0
+teleportAuto_idle 1
 teleportAuto_portal 0
-teleportAuto_search 0
+teleportAuto_search 1
 teleportAuto_minAggressives 0
 teleportAuto_minAggressivesInLock 0
 teleportAuto_onlyWhenSafe 0
@@ -74,8 +101,30 @@ teleportAuto_deadly 1
 
 
 # automatically added
-adminPassword tigauspe
+adminPassword swiwishu
 debug 0
 npcWrongStepsMethod 3
 teleportAuto_atkMiss 0
 autoTalkCont 1
+cmdOnLogin c @autoloot
+memo1 prontera
+memo2 glast_01
+memo3 ra_fild09
+memo4 lhz_fild01
+clientSight 20
+sleepTime 1000
+showDomain 0
+
+portalRecord 0
+portalRecord_recompileAfter 0
+
+attackRouteMaxPathDistance 13
+
+attackMaxDistance 9
+attackDistanceAuto 0
+attackCanSnipe 1
+attackCheckLOS 1
+partySkillDistance 0..9
+
+
+!include anubis.txt

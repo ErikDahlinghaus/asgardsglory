@@ -1,1 +1,21 @@
 !include ../1_hunter/eventMacros.txt
+
+macro addPikes {
+    do deal
+    pause 1
+    
+    $pikes = 0
+    while ($pikes < 10) {
+        $itemnum = &inventory(Pike [4])
+        if ($itemnum != -1) {
+            do deal add $itemnum
+        }
+        $pikes++
+    }
+
+    pause 1
+    do deal
+    pause 1
+    do deal
+}
+

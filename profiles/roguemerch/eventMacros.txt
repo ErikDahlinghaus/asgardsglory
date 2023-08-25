@@ -1,0 +1,30 @@
+
+automacro MerchantSell {
+    JobID 5 # Merchant
+    timeout 5
+    exclusive 1
+    InStorage "Crystal Mirror" > 1000
+    call {
+        do move 156 175 prontera
+        do talknpc 164 175 c r1
+        do storage close
+        
+        @items = (Crystal Mirror, Witherless Rose) # Set this to whatever you want to sell
+        while (@items > 0) {
+            $item = &pop(@items)
+
+            while (&storamount($item) > 0 ) {
+                # Get from storage
+                do talknpc 164 175 c r1
+                do storage get $item
+                do storage close
+
+                # Sell item
+                do talknpc 147 175
+                do sell
+                do sell &inventory($item)
+                do sell done
+            }
+        }
+    }
+}

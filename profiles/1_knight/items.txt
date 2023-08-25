@@ -1,3 +1,19 @@
+buyAuto Butterfly Wing {
+	npc prontera 147 175
+	minAmount 1
+	maxAmount 3
+	minBase 10
+	zeny > 50000
+}
+
+buyAuto Fly Wing {
+	npc prontera 147 175
+	minAmount 2
+	maxAmount 30
+	minBase 10
+	zeny > 50000
+}
+
 buyAuto Red Potion {
 	label buyRedPotions
 	npc prontera 147 175
@@ -48,5 +64,44 @@ useSelf_item Berserk Potion {
 	notWhileSitting 1
 	timeout 5
 	minBase 85
+}
+
+buyAuto White Potion {
+	npc prontera 147 175
+	minAmount 0
+	maxAmount 60
+	zeny > 500000
+	disabled 0
+}
+
+useSelf_item Mastela Fruit {
+	hp < 50%
+	notInTown 1
+	notWhileSitting 1
+}
+
+useSelf_item White Potion {
+	hp < 50%
+	notInTown 1
+	notWhileSitting 1
+}
+
+useSelf_item Strawberry {
+	sp < 50%
+	inMap prtg_cas01, aldeg_cas02
+}
+
+useSelf_item Lemon {
+	sp < 100%
+	timeout 0.1
+}
+
+useSelf_item Potato, Pet Food, Yellow Herb, Monster's Feed {
+	timeout 0.1
+}
+
+useSelf_item White Herb {
+	timeout 0.1
+	hp < 90%
 }
 

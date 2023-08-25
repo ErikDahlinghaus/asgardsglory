@@ -1,4 +1,5 @@
 # !include ../0_common/waitOnKnight.txt
+# !include ../0_common/refreshNPC.txt
 
 automacro lex {
     PlayerNear /gururunt/
@@ -40,6 +41,7 @@ automacro hide {
 automacro unhide {
     StatusActiveHandle EFST_HIDING
     delay 1
+    disabled 1
     call {
         do ss TF_HIDING
     }
@@ -61,29 +63,34 @@ automacro tele {
 
 automacro holywater {
     InInventory "Holy Water" < 10
-    disabled 1
+    disabled 0
     timeout 1800
     call {
-        $count = 100
-        $index = 0
+        pause 2
+        do c \@refresh
+        if (&invamount (Holy Water) > 9) {
+            stop
+        }
 
+        do p brb holy water
+        pause 1
         do ai manual
         do c \@go payon
 
         do move 179 100
         do talknpc 181 104 c r1 n
-        do storage get Empty Bottle $count
+        do storage get Empty Bottle 100
         do storage close
 
         do move 121 92 pay_arche
-        while( $index < $count ) {
+        while (&invamount (Empty Bottle) > 0) {
             do ss AL_HOLYWATER
             pause 0.2
-            $index++
         }
 
-        do c \@go geffen
+        do c \@go prontera
         do ai on
+        do p back from holy water
         stop
     }
 }
@@ -126,21 +133,38 @@ automacro RepairArmor {
         do talknpc 63 54 c r0 c r0
         do eq +4 Saint's Robe [Dark Frame] [1]
 	}
+    disabled 0
 }
 
-
-automacro refreshOnNPCPlayer {
-    timeout 2
-    NpcNear /(gururunt|StapoRadio|Gnusnipes1|Gnusnipes2|Gnusnipes3|Gnusnipes4|Gnusnipes5)/
+automacro attackOn {
+    InMap in_sphinx4, in_sphinx5, c_tower4, ra_san01, alde_dun04
+    PlayerNear /gururunt/
+    ConfigKey attackAuto -1
+    timeout 1
     call {
-        do c \@refresh
+        do conf attackAuto 0
     }
+    disabled 1
 }
 
-automacro refreshOnNPCMob {
-    timeout 2
-    NpcNear /(Anubis|Pasana|Minorous|Mimic|Explosion|Blazer|Lava Golem|Nightmare|Deviruch|Whisper|Marionette|High Orc|Orc Lady|Orc Baby|Orc Warrior|Orc Archer|Raydric|Raydric Archer|Abysmal Knight|Rideword)/
+automacro attackOff {
+    PlayerNotNear /gururunt/
+    timeout 60
+    ConfigKey attackAuto 0
     call {
-        do c \@refresh
+        do conf attackAuto -1
     }
+    disabled 1
+}
+
+automacro moveOuttaDaWay {
+    exclusive 1
+    MobNearDist /.+/ < 3
+    PlayerNearDist /.+/ < 3
+    ConfigKey follow 1
+    timeout 10
+    call {
+        do &random("north","east","south","west") 3
+        do conf follow 1
+    } 
 }

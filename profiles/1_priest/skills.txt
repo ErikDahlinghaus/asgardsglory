@@ -1,10 +1,6 @@
 partySkill Resurrection {
 	target_dead 1
-}
-
-useSelf_skill Ruwach {
-	timeout 10
-	disabled 1
+	notPartyOnly 1
 }
 
 useSelf_skill AL_HEAL {
@@ -14,10 +10,67 @@ useSelf_skill AL_HEAL {
 }
 
 partySkill AL_HEAL {
+	target_whenStatusInactive Berserk
 	sp > 40
 	target_hp < 90%
 	notInTown 0
 	timeout 0.1
+}
+
+attackSkillSlot PR_TURNUNDEAD {
+	# whenPartyMembersNear /.+/
+	# whenPartyMembersNearDist < 15
+	monsters Anubis
+}
+
+useSelf_skill Ruwach {
+	whenStatusInactive Ruwach
+	timeout 1
+	disabled 0
+	inMap prtg_cas01, aldeg_cas02, moc_fild17, gef_dun01
+}
+
+partySkill PR_ASPERSIO {
+	label partySkillAspersio
+	target_whenStatusInactive EFST_ASPERSIO
+	inMap ra_san03, tha_t03, tha_t04, tha_t05, tha_t06, ein_dun01, gl_knt01, gl_knt02, gef_dun01, gef_dun02, gl_in01, gl_cas01, gl_cas02, nif_fild02, gl_church, gl_chyard, nameless_n, abbey01, abbey02, abbey03, nif_fild01, hu_fild01
+	# target_timeout 180
+	target_timeout 150
+	target gururunt
+	disabled 0
+}
+
+useSelf_skill PR_GLORIA {
+	whenStatusInactive EFST_GLORIA
+	timeout 5
+	inLockOnly 0
+	disabled 0
+	stopWhenHit 1
+	hp > 40%
+	whenPartyMembersNear > 1
+	whenPartyMembersNearDist < 10
+}
+
+useSelf_skill AL_BLESSING {
+	level 1
+	whenStatusActive Cursed
+}
+
+partySkill AL_BLESSING {
+	level 1
+	target_whenStatusActive Cursed
+}
+
+#useSelf_skill Cure {
+#	target_whenStatusActive Blind
+#}
+
+partySkill Cure {
+	target_whenStatusActive Blind
+}
+
+partySkill PR_STRECOVERY {
+	target_whenStatusActive Frozen, Stunned, Petrifying
 }
 
 useSelf_skill AL_BLESSING {
@@ -70,17 +123,9 @@ partySkill AL_INCAGI {
 	notPartyOnly 0
 }
 
-useSelf_skill PR_GLORIA {
-	whenStatusInactive EFST_GLORIA
-	timeout 5
-	inLockOnly 0
-	disabled 0
-	stopWhenHit 1
-	hp > 40%
-}
-
 useSelf_skill PR_MAGNIFICAT {
 	whenStatusInactive EFST_MAGNIFICAT
+	whenStatusActive EFST_GLORIA
 	timeout 10
 	inLockOnly 0
 	disabled 0
@@ -88,29 +133,34 @@ useSelf_skill PR_MAGNIFICAT {
 	onAction follow
 	hp > 40%
 	partyAggressives < 2
+	whenPartyMembersNear > 1
+	whenPartyMembersNearDist < 10
 }
 
 useSelf_skill PR_KYRIE {
 	whenStatusInactive EFST_KYRIE
-	timeout
 	sp > 40
-	inLockOnly 0
-	notPartyOnly 0
-	notInTown 0
-	disabled 1
-	stopWhenHit 1
 	hp > 90%
-	target_timeout 20
-	partyAggressives < 2
+	timeout 10
+	inMap prtg_cas01, aldeg_cas02
+}
+
+partySkill PR_KYRIE {
+	whenStatusInactive EFST_KYRIE
+	sp > 40
+	hp > 90%
+	target_timeout 10
+	inMap prtg_cas01, aldeg_cas02
 }
 
 partySkill PR_IMPOSITIO {
 	target_whenStatusInactive EFST_IMPOSITIO
+	whenStatusActive EFST_GLORIA
 	sp > 40
 	inLockOnly 0
 	notPartyOnly 0
 	notInTown 0
-	disabled 1
+	disabled 0
 	hp > 40%
 	target_hp > 40%
 	target_timeout 60
@@ -125,103 +175,33 @@ useSelf_skill PR_IMPOSITIO {
 	stopWhenHit
 }
 
-partySkill PR_KYRIE {
-	target_whenStatusInactive EFST_KYRIE
-	sp > 40
-	target_timeout 10
-	inLockOnly 0
-	notPartyOnly 0
-	notInTown 0
-	disabled 0
-	stopWhenHit 1
-	hp > 90%
-	target_hp > 90%
-	disabled 1
-}
-
-partySkill PR_ASPERSIO {
-	label partySkillAspersio
-	target_whenStatusInactive EFST_ASPERSIO
-	inMap gl_knt01, gl_knt02, gef_dun01, gef_dun02, gl_in01, gl_cas01, gl_cas02, nif_fild02, gl_church
-	# target_timeout 180
-	target_timeout 150
-	target gururunt
-	disabled 0
-}
-
-partySkill PR_ASPERSIO {
-	target_whenStatusInactive EFST_ASPERSIO
-	monsters Deviling
-	disabled 1
-}
-
-useSelf_skill AL_BLESSING {
-	level 1
-	whenStatusActive Cursed
-}
-
-partySkill AL_BLESSING {
-	level 1
-	target_whenStatusActive Cursed
-}
-
-useSelf_skill TF_HIDING {
-	timeout 5
-	aggressives > 1
-	whenStatusInactive EFST_HIDING
-	whenPartyMembersNear > 0
-	disabled 1
-}
-
-partySkill PR_STRECOVERY {
-	target_whenStatusActive Frozen, Stunned, Petrifying
-}
-
 partySkill MG_SAFETYWALL {
 	target gururunt
-	defendMonsters Abysmal Knight
+	defendMonsters Abysmal Knight, Orc Lord, Orc Hero
 	timeout 2
-	disabled 1
-}
-
-attackSkillSlot PR_LEXAETERNA {
-	maxUses 1
-	timeout 0.5
-	disabled 1
-}
-
-attackSkillSlot PR_LEXDIVINA {
-	maxUses 1
-	monsters Anubis
-	disabled 1
-}
-
-attackSkillSlot AL_BLESSING {
-	level 1
-	maxUses 1
-	monsters Anubis
-}
-
-attackSkillSlot PR_TURNUNDEAD {
-	monsters Anubis
+	disabled 0
 }
 
 useSelf_skill Pneuma {
 	lvl 1
 	whenNotGround Pneuma
-	defendMonsters Raydric Archer, Orc Archer
-	disabled 1
+	defendMonsters Raydric Archer, Orc Archer, Dimik, Ragged Zombie, Pneomena
+	disabled 0
 	whenPartyMembersNearDist < 5
 }
 
-attackSkillSlot AL_DECAGI {
-	maxUses 1
-	whenPartyMembersNearDist < 7
+partySkill Pneuma {
+	lvl 1
+	whenNotGround Pneuma
+	defendMonsters Raydric Archer, Orc Archer, Dimik, Ragged Zombie, Pneomena
+	disabled 0
 }
 
 useSelf_skill HP_ASSUMPTIO {
 	whenStatusInactive EFST_ASSUMPTIO
 	timeout 90
+	disabled 0
+	notInMap prtg_cas01, aldeg_cas02
 }
 
 partySkill HP_ASSUMPTIO {
@@ -229,4 +209,40 @@ partySkill HP_ASSUMPTIO {
 	target_timeout 90
 	stopWhenHit 1
 	target gururunt
+	whenStatusActive EFST_GLORIA
+	disabled 0
+	notInMap prtg_cas01, aldeg_cas02
+}
+
+monsterSkill PR_LEXAETERNA {
+	# This block doesn't work
+	target Pasana, Mimic, Anubis
+	monsters Pasana, Mimic, Anubis
+	target_timeout 10
+	disabled 1
+}
+
+useSelf_skill TF_HIDING {
+	timeout 2
+	aggressives > 0
+	whenStatusInactive EFST_HIDING
+	whenPartyMembersNear > 0
+	disabled 1
+}
+
+useSelf_skill TF_HIDING {
+	timeout 2
+	aggressives < 1
+	whenStatusActive EFST_HIDING
+	disabled 1
+}
+
+attackSkillSlot Holy Light {
+	monsters Whisper, Joker
+	timeout 1
+}
+
+attackSkillSlot Decrease Agility {
+	target_timeout 10
+	notMonsters Whisper, Anubis
 }

@@ -87,12 +87,12 @@ Thief Bug Egg 0 0 0
 
 ##### Plants #####
 Black Mushroom 1
-Blue Plant 1
+Blue Plant 0 # 1079
 Green Plant -1 # 1080
 Red Mushroom 1
 Red Plant -1 # 1078
-Shining Plant 1
-White Plant 1
+Shining Plant 0 # 1083
+White Plant 0 # 1082
 Yellow Plant -1 # 1081
 
 
@@ -228,7 +228,7 @@ Yellow Plant -1 # 1081
 1018 1 0 1 # Creamy
 1002 -1 # Poring
 1014 1 0 0 # Spore
-1031 1 # Poporing
+1031 -1 # Poporing
 1116 -1 #Eggyra
 1010 0 #Willow
 1011 -1 # Chonchon
@@ -242,8 +242,20 @@ Yellow Plant -1 # 1081
 "steel chonchon" -1 #
 1008 1 0 1 # Pupa
 1007 -1 #Fabre
-1052 -1 #Rocker
+1052 10 1 0 0 # Rocker
 1515 -1 1 0 #Garm Baby
 1209 1 0 1 #Cramp
 1253 -1 1 0 # Gargoyle
 1127 1 # Hode
+1051 0 #Thief Bug
+1880 -1 #Wood Goblin
+1139 -1 #Mantis
+1881 -1 # Les
+1882 -1 # Baba Yaga
+1883 -1 # Uzhas
+1884 1 0 1 0 0 0 0 0 0.4 #Mavka
+# 1884 1 0 1 0 0 0 0 0 0.4 #Mavka
+1886 -1 # Mavka
+
+Rocker 1 0 1
+1 1 0 1 #Creamy

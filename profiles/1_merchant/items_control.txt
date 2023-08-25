@@ -1522,3 +1522,5 @@ Spearman Scroll 10 0 0 0
 2609 0 0 1 #Skull Ring
 656 5 1 0 #Awakening Potion
 539 0 0 1 #Piece of Cake
+757 0 1 0 # Rough Elunium
+756 0 1 0 # Rough Oridecon

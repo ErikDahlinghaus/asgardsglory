@@ -1,0 +1,5 @@
+lockMap aldeg_cas02
+lockMap_x 213
+lockMap_y 32
+lockMap_randX 1
+lockMap_randY 1

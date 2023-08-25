@@ -6,4 +6,5 @@ automacro RepairArmor {
         do talknpc 63 54 c r0 c r0
         do eq +4 Pantie
 	}
+    disabled 0
 }

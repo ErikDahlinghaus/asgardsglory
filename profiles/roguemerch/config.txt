@@ -1,0 +1,63 @@
+!include ../../control/config.txt
+!include passwords.txt
+!include ../0_common/all.txt
+
+sellAuto 1
+sellAuto_npc prontera 147 175 Kafra Employee
+
+storageAuto 1
+storageAuto_npc prontera 164 175 Kafra Employee
+
+
+dcOnDeath 0
+itemsTakeAuto 0
+itemsTakeAuto_party 0
+itemsGatherAuto 0
+
+
+lockMap
+lockMap_x
+lockMap_y
+lockMap_randX
+lockMap_randY
+
+sitAuto_hp_lower 0
+sitAuto_hp_upper 0
+sitAuto_sp_lower 0
+sitAuto_sp_upper 0
+route_randomWalk 0
+
+attackAuto 2
+attackAuto_party 1
+attackAuto_inLockOnly 2
+
+route_teleport 0
+route_teleport_minDistance 75
+route_teleport_maxTries 8
+route_teleport_notInMaps
+
+teleportAuto_hp 0
+teleportAuto_sp 0
+teleportAuto_idle 1
+teleportAuto_portal 0
+teleportAuto_search 1
+teleportAuto_minAggressives 0
+teleportAuto_onlyWhenSafe 0
+teleportAuto_maxDmg 0
+teleportAuto_maxDmgInLock
+teleportAuto_deadly 1
+
+statsAddAuto 1
+# statsAddAuto_list 99 agi, 53 dex, 83 str
+statsAddAuto_list 33 dex, 87 agi, 93 str, 97 agi, 43 dex
+statsAddAuto_dontUseBonus 1
+statsAdd_over_99 0
+
+skillsAddAuto 1
+skillsAddAuto_list
+
+saveMap prontera
+saveMap_warpToBuyOrSell 1
+
+adminPassword saitaust
+npcWrongStepsMethod 3

@@ -13,3 +13,28 @@ macro takeMoney {
     do rodex close
 }
 
+automacro partyCmd {
+    PartyMsgName /.+/ /GnuSnipes3/
+    CheckOnAI auto, manual, off
+    disabled 0
+    call {
+        [
+            do $.PartyMsgNameLastMsg
+        ]
+    }
+}
+
+automacro killPlayer {
+    # PlayerNear /(?!GnuSnipes|gururunt|StapoRadio|copious).+/
+    # PlayerNear /(Stabby|TheGoods)/
+    PlayerNear /.+/
+    InMap prtg_cas01, aldeg_cas02
+    timeout 1
+    call {
+        if ($.PlayerNear !~ /(GnuSnipes|gururunt|StapoRadio|copious)/) {
+            do kill $.PlayerNearLastBinId
+        }
+    }
+}
+
+

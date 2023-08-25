@@ -57,6 +57,8 @@
 # Monsters not found in this file, or flags not specified will default to:
 # <attack> = 1
 
+Harpy 2
+
 
 # 1116 0 0 0 # Eggyra
 1060 1 # Bigfoot
@@ -248,12 +250,18 @@ Yellow Plant 0 0 0
 1035 1 # Hunter Fly
 hunterfly 1 #
 1781 -1 #Drosera
-1368 -1 #Geographer
+1368 1 #Geographer
 bomb sphere 1 #
 1195 1 # Rideword
 1242 0 #Marin
 1191 1 #Mimic
 1115 0 # Eddga
-1031 1 # Poporing
+1031 -1 # Poporing
 1005 1 #Familiar
 1076 1 #Skeleton
+1053 -1 #Thief Bug Female
+1014 -1 # Spore
+Hode -1
+Deniro -1
+Andre -1
+Sandman 0

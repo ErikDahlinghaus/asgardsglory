@@ -1,22 +1,3 @@
-macro makeOri {
-    do move 60 64 prt_in
-    do talknpc 63 69 c r0
-}
-
-macro makeElu {
-    do move 60 64 prt_in
-    do talknpc 63 69 c r1
-}
-
-automacro died {
-    console /You have died/
-    disabled 0
-    delay 2
-    call {
-        do eval AI::clear('route')
-    }
-}
-
 automacro goProntToMaster {
     console /Calculating route to find master: prontera/
     location not prontera
@@ -25,4 +6,26 @@ automacro goProntToMaster {
         do autosell
     }
     disabled 1
+}
+
+automacro avoidWaterball {
+    spell Water Ball
+    timeout 2
+    call {
+        do tele
+    }
+}
+
+
+automacro fixBetterWalkPlan {
+    console /Calculating random route to:/
+    location ve_fild03, in_sphinx4
+    call {
+        log restarting walkplan
+        do plugin reload BetterWalkPlan
+        pause 2
+        do reload config
+        do move stop
+    }
+    timeout 300
 }

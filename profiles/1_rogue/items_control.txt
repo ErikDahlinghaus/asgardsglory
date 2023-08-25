@@ -56,7 +56,7 @@ Red Potion 25 0 0 0 1
 506 0 1 0 # Green Potion
 501 25 1 0 # Red Potion
 502 25 1 0 # Orange Potion
-504 80 1 0 # White Potion
+504 100 1 0 # White Potion
 503 25 1 0 # Yellow potion
 
 #########################
@@ -125,7 +125,7 @@ Animal Poop 0 0 1
 7050 0 0 1 # Cotton Mat
 7037 0 0 1 # Coupon
 964 0 0 1 # Crab Shell
-747 0 0 1 # Crystal Mirror
+747 0 1 0 # Crystal Mirror
 1045 0 0 1 # Cultish Masque
 7053 0 0 1 # Cyfar
 901 0 0 1 # Daenggie
@@ -144,7 +144,6 @@ Animal Poop 0 0 1
 1011 0 0 1 # Emveretarcon
 540 0 0 1 # Falcon Food
 1063 0 0 1 # Fang
-949 0 0 1 # Feather
 916 0 0 1 # Feather of Birds
 951 0 0 1 # Fin
 1066 0 0 1 # Fine-grained Trunk
@@ -152,7 +151,7 @@ Animal Poop 0 0 1
 7043 0 0 1 # Fine Sand
 1023 0 0 1 # Fish Tail
 712 0 0 1 # Flower
-914 0 0 1 # Fluff
+914 0 1 0 # Fluff
 7094 0 0 1 # Fragment
 1012 0 0 1 # Frill
 749 0 0 1 # Frozen Rose
@@ -177,7 +176,7 @@ Animal Poop 0 0 1
 7028 0 0 1 # Invite for Duel
 1062 0 0 1 # Jack o' Pumpkin
 7147 0 0 1 # Jasmine
-909 0 0 1 # Jellopy
+# 909 0 0 1 # Jellopy
 1041 0 0 1 # Lantern
 7126 0 0 1 # Large Jellopy
 7096 0 0 1 # Lava
@@ -255,13 +254,13 @@ Animal Poop 0 0 1
 1046 0 0 1 # Scorpion Nipper
 904 0 0 1 # Scorpion Tail
 7065 0 0 1 # Sea-otter Fur
-7100 0 0 1 # Sharp Leaf
+7100 0 1 0 # Sharp Leaf
 7112 0 0 1 # Sharp Paper
 Sharp scale 0 0 1
 935 0 0 1 # Shell
 954 0 0 1 # Shining Scale
 7109 0 0 1 # Shining Spear Blade
-711 0 0 1 # Shoot
+711 0 1 0 # Shoot
 1094 0 0 1 # Short Daenggie
 7051 0 0 1 # Silk Mat
 1052 0 0 1 # Single Cell
@@ -278,7 +277,6 @@ Songpyun 0 0 1
 7016 0 0 1 # Spoon Stub
 743 0 0 1 # Spore Doll
 1024 0 0 1 # Squid Ink
-905 0 0 1 # Stem
 938 0 0 1 # Sticky Mucus
 918 0 0 1 # Sticky Webfoot
 7008 0 0 1 # Stiff Horn
@@ -1533,3 +1531,35 @@ Spearman Scroll 10 0 0 0
 1301 0 0 1 # axe 3
 1216 0 0 1 # stiletto 2
 2305 0 0 1 # adventurer suit 0
+949 0 1 0 # Feather
+
+
+1208 0 0 1 # Main Gauche [4]
+2303 0 0 1 # Jacket [0]
+2304 0 0 1 # Jacket [1]
+
+Fresh Fish 0 1 0
+Hinalle Leaflet 0 1 0
+
+657 20 #Berserk Potion
+Moscovia Dungeon Teleporter 1 0 0
+Lighthalzen Dungeon Teleporter 1 0 0
++5 VVS Damascus [Fire] 1 0 0
++5 VVS Damascus [Earth] 1 0 0
++5 VVS Damascus [Ice] 1 0 0
++5 VVS Damascus [Wind] 1 0 0
+905 0 1 0 #Stem
+7762 0 0 1 #Yaga's Pestle
+7099 0 0 1 #Worn-out Magic Scroll
+539 0 0 1 # Piece of Cake
+748 0 1 0 # Witherless Rose
+707 0 0 1 # Singing Plant
+710 0 0 1 # Illusion Flower
+629 0 0 1 #Singing Flower
+510 20 1 0 # Blue Herb
+621 0 0 1 #Bitter Herb
+7226 0 0 1 #Pellet
+2371 0 1 0 # Pantie
+538 350 1 0 # Well Baked Cookie
+530 300 1 0 #Candy Cane
+1572 0 0 1 #Principles of Magic [2]

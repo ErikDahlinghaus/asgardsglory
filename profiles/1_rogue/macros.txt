@@ -1,7 +1,127 @@
-#automacro equipKnife {
-#    console "Auto Equiping [R]: Knife [3]"
-#    timeout 10
-#    call {
-#        do eq Knife [3]
-#    }
-#}
+
+automacro moveMoskDungeon {
+    console "Calculating lockMap route to: Les Forest(mosk_dun01)"
+    location not mosk_dun01
+    timeout 4
+    call {
+        do is @inventory (Moscovia Dungeon Teleporter)
+    }
+}
+
+automacro moveMoskDungeonTwo {
+    console "Calculating lockMap route to: Temny Forest(mosk_dun02)"
+    location not mosk_dun01, mosk_dun02, mosk_dun03
+    timeout 4
+    call {
+        do is @inventory (Moscovia Dungeon Teleporter)
+    }
+}
+
+automacro moveMoskDungeonThree {
+    console "Calculating lockMap route to: Dremuci Forest(mosk_dun03)"
+    location not mosk_dun01, mosk_dun02, mosk_dun03
+    timeout 4
+    call {
+        do is @inventory (Moscovia Dungeon Teleporter)
+    }
+}
+
+automacro weLowAtMosk {
+    sp < 10%
+    location mosk_dun01, mosk_dun02, mosk_dun03
+    timeout 10
+    delay 2
+    call {
+        do c @go 0
+        do talknpc 159 193
+    }
+}
+
+automacro weLowAtMoskHP {
+    hp < 10%
+    location mosk_dun01, mosk_dun02, mosk_dun03
+    timeout 10
+    delay 2
+    call {
+        do c @go 0
+        do talknpc 159 193
+    }
+}
+
+automacro mosk1 {
+    location mosk_dun01
+    run-once 1
+    call {
+        do mconf Les 1 0 1
+        release mosk2
+        release mosk3
+    }
+    disabled 1
+}
+
+automacro mosk2 {
+    location mosk_dun02
+    run-once 1
+    call {
+        do mconf Les 1 0 1
+        do mconf Baba Yaga 1 0 1
+        do mconf Uzhas 1 0 1
+        release mosk1
+        release mosk3
+    }
+    disabled 1
+}
+
+automacro mosk3 {
+    location mosk_dun03
+    run-once 1
+    call {
+        do mconf Les -1
+        do mconf Baba Yaga -1
+        do mconf Uzhas -1
+        # do mconf Les 1 0 1
+        # do mconf Baba Yaga 1 0 1
+        # do mconf Uzhas 1 0 1
+        do mconf Mavka 1 0 1
+        release mosk2
+        release mosk1
+    }
+    disabled 1
+}
+
+automacro resetMosk {
+    location prontera
+    timeout 60
+    call {
+        release mosk1
+        release mosk2
+        release mosk3
+    }
+    disabled 1
+}
+
+automacro avoidWaterball {
+    spell Water Ball
+    timeout 2
+    call {
+        do tele
+    }
+}
+
+automacro printexp {
+    timeout 60
+    call {
+        do exp report
+    }
+}
+
+
+automacro Set_Autoloot {
+    exclusive 1
+    console /rAthena Version Git Hash/
+    delay 10
+    call {
+        do c @autoloot 100
+    }
+}
+

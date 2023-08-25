@@ -1,3 +1,18 @@
+attackSkillSlot Bash {
+	inMap prtg_cas01, aldeg_cas02
+}
+
+attackSkillSlot Bash {
+	monsters Pasana, Mimic
+	aggressives < 3
+	sp > 60%
+}
+
+attackSkillSlot Berserk {
+	whenStatusActive EFST_TWOHANDQUICKEN
+	monsters Orc Lord, Orc Hero
+}
+
 attackSkillSlot SM_PROVOKE {
 	maxUses 1
 	dist 9
@@ -6,41 +21,63 @@ attackSkillSlot SM_PROVOKE {
 }
 
 attackSkillSlot Bowling Bash {
+	whenStatusInactive Silenced
 	label bb
 	timeout 1
 	dist 1
 	maxUses 3
-	partyAggressives > 2
-	inLockOnly 1
+	aggressives > 2
+	inLockOnly 0
 	disabled 0
-	sp > 30%
-	disabled 1
+	sp > 40%
+	disabled 0
 }
 
 useSelf_skill KN_TWOHANDQUICKEN {
-	whenStatusInactive EFST_TWOHANDQUICKEN
+	whenStatusInactive EFST_TWOHANDQUICKEN, Silenced
 	timeout 2
-	notInTown 1
+	notInTown 0
+	notWhileSitting 1
+	disabled 0
 }
 
 useSelf_skill LK_AURABLADE {
-	whenStatusInactive EFST_AURABLADE
+	whenStatusInactive EFST_AURABLADE, Silenced
 	timeout 2
-	notInTown 1
+	notInTown 0
+	notWhileSitting 1
 	disabled 0
+	sp > 20%
 }
 
 useSelf_skill LK_CONCENTRATION {
-	whenStatusInactive EFST_LKCONCENTRATION
+	whenStatusInactive EFST_LKCONCENTRATION, Silenced
 	timeout 2
-	notInTown 1
+	notInTown 0
+	notWhileSitting 1
 	disabled 0
+	sp > 20%
 }
 
 useSelf_skill LK_PARRYING {
-	whenStatusInactive EFST_PARRYING
+	whenStatusInactive EFST_PARRYING, Silenced
 	timeout 2
 	sp > 50%
-	notInTown 1
+	notInTown 0
+	notWhileSitting 1
+	monsters Orc Lord, Orc Hero
+}
+
+useSelf_skill Endure {
+	whenStatusInactive Endure, Silenced
+	timeout 2
 	disabled 1
+}
+
+attackSkillSlot Magnum Break {
+	whenStatusInactive Silenced
+	monsters Whisper, Joker
+	target_timeout 15
+	sp > 20%
+	disabled 0
 }

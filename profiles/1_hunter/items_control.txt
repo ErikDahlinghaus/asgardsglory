@@ -40,16 +40,16 @@
 # All items not mentioned in this file will be automatically stored in storage.
 all 0 1 0
 
-714 100 0 0 # Emperium
+714 0 1 0 # Emperium
 1049 0 1 0 # skirt of virgin
 
 
 ##### HEAL/SUPPORT ITEMS #####
 # Adjust these to your needs
 
-602 10 0 0 # Butterfly Wing
-601 20 0 0 # Fly Wing
-656 10 0 0 # awakening pot
+602 10 1 0 # Butterfly Wing
+601 40 1 0 # Fly Wing
+656 20 1 0 # awakening pot
 
 
 
@@ -99,7 +99,7 @@ Mirror Shield 0 0 1 # 2107
 Mr. Smile 0 0 1 # 2278
 Muffler 0 0 1 # 2503
 Padded Armor 0 0 1 # 2313
-Pantie 0 0 1 # 2371
+Pantie 0 1 0 # 2371
 Ribbon 0 0 1 # 2208
 "Ribbon [1]" 0 0 1 # 2209
 Rosary 0 0 1 # 2840
@@ -443,7 +443,7 @@ Animal Poop 0 0 1
 7031 0 0 1 # Old Frying Pan
 7072 0 0 1 # Old Shuriken
 1043 0 0 1 # Orc Claw
-931 0 0 1 # Orcish Voucher
+931 0 1 0 # Orcish Voucher
 922 0 0 1 # Orc's Fang
 751 0 0 1 # Osiris Doll
 7101 0 0 1 # PecoPeco Feather
@@ -1744,7 +1744,6 @@ Spearman Scroll 10 0 0 0
 25150 0 0 0 0 0 # Hugging_Alice_Pilow
 26100 0 0 0 0 0 # Paradise_Foxtail_Staff_II
 26101 0 0 0 0 0 # Paradise_Foxtail_Staff_III
-657 20 #Berserk Potion
 1217 -1 #Stiletto [3]
 1301 -1 #Axe [3]
 1217 -1 #Stiletto [3]
@@ -1754,27 +1753,31 @@ Spearman Scroll 10 0 0 0
 1220 0 1 0 #Gladius [3]
 5118 0 1 0 #Puppy Headband
 1711 0 1 0 #Cross Bow [3]
-1613 100 1 0 #Mighty Staff
+1613 0 1 0 #Mighty Staff
 1511 0 1 0 #Flail [3]
 525 0 0 1 #Panacea
-504 200 0 0 #White Potion
+504 0 1 0 #White Potion
 511 0 1 0 # Green Herb
 713 0 1 0 # Empty Bottle
 7216 0 1 0 #Red Muffler
 1105 0 0 1 # Falchion [4]
 1217 0 1 0 #Stiletto [3]
-+5 VVS Claymore [Ice] 1 0 0
-+5 VVS Claymore [Earth] 1 0 0
-+5 VVS Claymore [Fire] 1 0 0
-+5 VVS Claymore [Wind] 1 0 0
-+5 Claymore 1 0 0
-+4 Pantie 1 0 0
-+4 Formal Suit [Pasana] [1] 1 0 0
+
 1251 -1 #Jur [3]
-578 200 1 0 #Strawberry
-522 200 1 0 #Mastela Fruit
-1750 3000 0 0 #Arrow
+578 0 1 0 #Strawberry
+522 0 1 0 #Mastela Fruit
+
+1750 0 1 0 #Arrow
+1751 3000 1 0 #Silver Arrow
+
 1701 1 0 0 #bow[3]
 501 100 0 0 #Red Potion
-1751 3000 0 0 #Silver Arrow
-645 5 0 0 #Concentration Potion
+White Potion 50 0 0 #White Potion
+
+645 0 1 0 #Concentration Potion
+931 0 1 0 # Orcish Voucher
+Mace [4] 0 0 1
+
+1711 0 0 1 # Crossbow [3]
+Jubilee 0 0 1
+

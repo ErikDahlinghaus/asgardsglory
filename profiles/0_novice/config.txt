@@ -47,3 +47,4 @@ sitAuto_sp_upper 0
 
 macro_orphans terminate
 adminPassword zuripeec
+char 1

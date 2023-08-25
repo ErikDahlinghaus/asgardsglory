@@ -1,0 +1,5 @@
+lockMap in_sphinx4
+teleportAuto_idle 1
+teleportAuto_search 1
+route_randomWalk 0
+teleportAuto_minAggressivesInLock 3

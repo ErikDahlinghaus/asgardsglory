@@ -27,3 +27,42 @@ Iron -1
 1701 -1 # Bow [3]
 1301 -1 # Axe 3
 1116 -1 # Katana [3]
+1208 -1 # Main Gauche [4]
+1152 -1 # Slayer [3]
+1214 -1 # Dagger [3]
+
+
+1006 -1 # Old Magic Book
+1259 -1 # Katar of Piercing Wind
+641 -1 # Contract in Shadow
+637 -1 # Old Broom
+638 -1 # Silver Knife of Chastity
+695 -1 # Lv5 Soul Strike
+# 2282 -1 # Halo
+# 1111 -1 # Rapier 3
+# 1114 -1 # Scimitar 3
+# 1125 -1 # Ring Pommel Saber 3
+1217 -1 # Stiletto 3
+
+7340 -1 # Will of the Darkness (30 weight)
+Beret -1
+Anodyne -1
+
+1611 -1 # Arc Wand [2]
+
+Memento -1
+913 -1 # "Tooth of Bat" -1
+7006 -1 # "Wing of Red Bat" -1
+1045 -1 # "Cultish Mask" -1
+6071 -1 # "Broken Sword" -1
+7110 -1 # "Broken Sword" -1
+7121 -1 # "Honey Pot" -1
+Trap -1
+941 -1 # "Nose Ring" -1
+930 -1 # "Rotten Bandage" -1
+691 -1 # "Level 5 Fire Bolt Scroll" -1
+1005 -1 # "Hammer of Blacksmith" -1
+1361 -1 # Two-handed Axe [2]
+
+Pantie -1
+Undershirt -1

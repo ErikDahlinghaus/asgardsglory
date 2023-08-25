@@ -3,8 +3,20 @@
 !include passwords.txt
 
 macro_orphans terminate
-adminPassword wisocras
+adminPassword twupicha
 attackMaxDistance 15
 attackAuto_party 1
 attackAuto_inLockOnly 1
 attackMinPortalDistance 4
+lockMap mjo_dun02
+
+!include ../1_hunter/aldeg_cas02_woe.txt
+lockMap mjo_dun02
+lockMap_randX
+lockMap_randY
+lockMap_x
+lockMap_y
+npcWrongStepsMethod 3
+portalCompile 1
+portalRecord 2
+portalRecord_recompileAfter 1
